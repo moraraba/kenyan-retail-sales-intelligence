@@ -1,5 +1,5 @@
 # Customer and Sales Intelligence for a Kenyan Retailer
-**Data Science and Analytics Capstone** - [Your name] - October 2026
+**Data Science and Analytics Capstone** 
 
 *Mavuno Mart* is a (fictional) growing Kenyan retail chain with 20 stores in 11 counties. This project takes management's
 business questions - who buys what, where and when; which products and stores drive revenue; which customers are drifting
