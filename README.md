@@ -85,7 +85,7 @@ The generator uses a fixed seed (2026), so every number in the notebooks, dashbo
 Notebooks can also be opened and re-run cell by cell in Jupyter or VS Code (run them in order 01 -> 07).
 
 ## Data
-Synthetic sales data (confidential in real life; allowed by the brief) joined to **real public context data**:
+Synthetic sales data joined to **real public context data**:
 KNBS CPI inflation (via Central Bank of Kenya), KNBS 2019 census county populations, and gazetted Kenyan public holidays.
 Full sources, acquisition dates, licences and the realism design are in **`docs/data_sources.md`**; column definitions in
 **`docs/data_dictionary.md`**.
