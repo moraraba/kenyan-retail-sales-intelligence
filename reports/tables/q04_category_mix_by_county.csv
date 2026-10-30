@@ -1,0 +1,100 @@
+county,category,revenue,pct_of_county,rank_in_county
+Kajiado,Staples,1437941,33.3,1
+Kajiado,Fresh Produce,646315,15.0,2
+Kajiado,Household,539212,12.5,3
+Kajiado,Beverages,514349,11.9,4
+Kajiado,Personal Care,297370,6.9,5
+Kajiado,Baby & Kids,285465,6.6,6
+Kajiado,Dairy,253069,5.9,7
+Kajiado,Stationery & School,177430,4.1,8
+Kajiado,Electronics & Phone,166775,3.9,9
+Kakamega,Staples,2105169,32.8,1
+Kakamega,Fresh Produce,1019678,15.9,2
+Kakamega,Household,807271,12.6,3
+Kakamega,Beverages,735752,11.5,4
+Kakamega,Personal Care,457920,7.1,5
+Kakamega,Baby & Kids,428560,6.7,6
+Kakamega,Dairy,369333,5.8,7
+Kakamega,Stationery & School,243117,3.8,8
+Kakamega,Electronics & Phone,242245,3.8,9
+Kiambu,Staples,3744735,33.3,1
+Kiambu,Fresh Produce,1718690,15.3,2
+Kiambu,Household,1469068,13.1,3
+Kiambu,Beverages,1354486,12.0,4
+Kiambu,Personal Care,787995,7.0,5
+Kiambu,Baby & Kids,749955,6.7,6
+Kiambu,Dairy,632673,5.6,7
+Kiambu,Stationery & School,395581,3.5,8
+Kiambu,Electronics & Phone,393330,3.5,9
+Kilifi,Staples,1090633,33.1,1
+Kilifi,Fresh Produce,515729,15.6,2
+Kilifi,Beverages,386458,11.7,3
+Kilifi,Household,382265,11.6,4
+Kilifi,Personal Care,250770,7.6,5
+Kilifi,Baby & Kids,221175,6.7,6
+Kilifi,Dairy,202138,6.1,7
+Kilifi,Stationery & School,133830,4.1,8
+Kilifi,Electronics & Phone,113845,3.5,9
+Kisumu,Staples,5999636,33.2,1
+Kisumu,Fresh Produce,2756494,15.3,2
+Kisumu,Household,2282240,12.6,3
+Kisumu,Beverages,2219022,12.3,4
+Kisumu,Personal Care,1279040,7.1,5
+Kisumu,Baby & Kids,1155695,6.4,6
+Kisumu,Dairy,1011199,5.6,7
+Kisumu,Stationery & School,720835,4.0,8
+Kisumu,Electronics & Phone,620055,3.4,9
+Machakos,Staples,2138893,34.3,1
+Machakos,Fresh Produce,987860,15.8,2
+Machakos,Household,765891,12.3,3
+Machakos,Beverages,736559,11.8,4
+Machakos,Personal Care,420705,6.7,5
+Machakos,Baby & Kids,381015,6.1,6
+Machakos,Dairy,352977,5.7,7
+Machakos,Stationery & School,243077,3.9,8
+Machakos,Electronics & Phone,216815,3.5,9
+Mombasa,Staples,7710644,33.4,1
+Mombasa,Fresh Produce,3594844,15.6,2
+Mombasa,Household,2939762,12.7,3
+Mombasa,Beverages,2741193,11.9,4
+Mombasa,Personal Care,1572520,6.8,5
+Mombasa,Baby & Kids,1549825,6.7,6
+Mombasa,Dairy,1299300,5.6,7
+Mombasa,Stationery & School,877599,3.8,8
+Mombasa,Electronics & Phone,827365,3.6,9
+Nairobi,Staples,16043037,33.1,1
+Nairobi,Fresh Produce,7475558,15.4,2
+Nairobi,Household,6234945,12.9,3
+Nairobi,Beverages,5747510,11.9,4
+Nairobi,Personal Care,3371965,7.0,5
+Nairobi,Baby & Kids,3220850,6.7,6
+Nairobi,Dairy,2795833,5.8,7
+Nairobi,Stationery & School,1801099,3.7,8
+Nairobi,Electronics & Phone,1712255,3.5,9
+Nakuru,Staples,6142428,33.2,1
+Nakuru,Fresh Produce,2925360,15.8,2
+Nakuru,Household,2388100,12.9,3
+Nakuru,Beverages,2181437,11.8,4
+Nakuru,Personal Care,1289535,7.0,5
+Nakuru,Baby & Kids,1174865,6.3,6
+Nakuru,Dairy,1032279,5.6,7
+Nakuru,Stationery & School,731881,4.0,8
+Nakuru,Electronics & Phone,661100,3.6,9
+Nyeri,Staples,2334185,33.7,1
+Nyeri,Fresh Produce,1066524,15.4,2
+Nyeri,Household,857503,12.4,3
+Nyeri,Beverages,819923,11.8,4
+Nyeri,Personal Care,515830,7.4,5
+Nyeri,Baby & Kids,433135,6.3,6
+Nyeri,Dairy,367882,5.3,7
+Nyeri,Stationery & School,289788,4.2,8
+Nyeri,Electronics & Phone,243595,3.5,9
+Uasin Gishu,Staples,2818064,33.9,1
+Uasin Gishu,Fresh Produce,1275947,15.4,2
+Uasin Gishu,Household,1049281,12.6,3
+Uasin Gishu,Beverages,996084,12.0,4
+Uasin Gishu,Personal Care,566525,6.8,5
+Uasin Gishu,Baby & Kids,502290,6.1,6
+Uasin Gishu,Dairy,476350,5.7,7
+Uasin Gishu,Stationery & School,321700,3.9,8
+Uasin Gishu,Electronics & Phone,295480,3.6,9

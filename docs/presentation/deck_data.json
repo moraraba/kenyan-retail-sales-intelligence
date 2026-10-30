@@ -1,0 +1,339 @@
+{
+ "months": [
+  "2024-10",
+  "2024-11",
+  "2024-12",
+  "2025-01",
+  "2025-02",
+  "2025-03",
+  "2025-04",
+  "2025-05",
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09"
+ ],
+ "nominal_m": [
+  11.62,
+  11.73,
+  17.13,
+  9.95,
+  9.35,
+  11.27,
+  11.67,
+  11.65,
+  10.9,
+  11.54,
+  12.98,
+  11.54,
+  12.19,
+  12.81,
+  18.34,
+  11.33,
+  9.98,
+  12.11,
+  12.79,
+  13.45,
+  12.35,
+  12.78,
+  14.22,
+  12.47
+ ],
+ "real_m": [
+  11.62,
+  11.7,
+  17.05,
+  9.87,
+  9.25,
+  11.12,
+  11.48,
+  11.43,
+  10.66,
+  11.24,
+  12.6,
+  11.16,
+  11.74,
+  12.3,
+  17.54,
+  10.8,
+  9.48,
+  11.46,
+  12.04,
+  12.6,
+  11.52,
+  11.85,
+  13.12,
+  11.44
+ ],
+ "rev_y2_m": 154.8,
+ "growth_nominal": 9.6,
+ "growth_real": 4.8,
+ "receipts_y2": 167029,
+ "avg_basket": 927,
+ "fmt_rev_per_sqm": {
+  "Express": 5086.0,
+  "Hypermarket": 3753.0,
+  "Supermarket": 4243.0
+ },
+ "payday_lift": 30,
+ "dec_vs_avg": 41,
+ "jan_vs_avg": -15,
+ "mpesa_first": 55.5,
+ "mpesa_last": 59.6,
+ "clean": {
+  "dup_receipts": 1313,
+  "dup_lines": 1925,
+  "payment_fixed": 19543,
+  "prices_imputed": 5774,
+  "date_fixed": 6565,
+  "outliers": 60,
+  "test_rows": 25
+ },
+ "promo": {
+  "h1": {
+   "test": "H1 cooking-oil promo",
+   "statistic": 4.153508042402172,
+   "p_value": 0.0006872296702502,
+   "effect": 66.0008679889076,
+   "CI95_low": 32.43121091158359,
+   "CI95_high": 99.5705250662316,
+   "conclusion": "Reject H0 - promo lifted units"
+  },
+  "h2": {
+   "test": "H2 personal-care promo",
+   "statistic": -0.6468503369281532,
+   "p_value": 0.5288525533815459,
+   "effect": -7.201673664255647,
+   "CI95_low": -31.22484229008609,
+   "CI95_high": 16.8214949615748,
+   "conclusion": "Fail to reject H0 - no evidence of effect"
+  },
+  "q09": [
+   {
+    "grp": "Test",
+    "period": "Before",
+    "avg_daily_units_per_store": 5.19
+   },
+   {
+    "grp": "Test",
+    "period": "During",
+    "avg_daily_units_per_store": 7.1
+   },
+   {
+    "grp": "Control",
+    "period": "Before",
+    "avg_daily_units_per_store": 4.85
+   },
+   {
+    "grp": "Control",
+    "period": "During",
+    "avg_daily_units_per_store": 4.4
+   }
+  ]
+ },
+ "nakuru": {
+  "test": "H7 Nakuru lapse rate",
+  "statistic": 7.254193972428347,
+  "p_value": 4.040607229439614e-13,
+  "effect": 0.1654794126492239,
+  "CI95_low": 0.1120148989832152,
+  "CI95_high": 0.2189439263152326,
+  "conclusion": "Reject H0 - Nakuru members lapse more"
+ },
+ "drift": [
+  {
+   "county": "Nakuru",
+   "regulars_h1": 191,
+   "drifting": 52,
+   "drifting_pct": 27.2
+  },
+  {
+   "county": "Kilifi",
+   "regulars_h1": 40,
+   "drifting": 8,
+   "drifting_pct": 20.0
+  },
+  {
+   "county": "Kiambu",
+   "regulars_h1": 126,
+   "drifting": 21,
+   "drifting_pct": 16.7
+  },
+  {
+   "county": "Mombasa",
+   "regulars_h1": 267,
+   "drifting": 44,
+   "drifting_pct": 16.5
+  },
+  {
+   "county": "Uasin Gishu",
+   "regulars_h1": 121,
+   "drifting": 20,
+   "drifting_pct": 16.5
+  }
+ ],
+ "rfm": [
+  {
+   "rfm_segment": "Champions",
+   "pct_customers": 30.5,
+   "pct_revenue": 78.8
+  },
+  {
+   "rfm_segment": "Loyal",
+   "pct_customers": 24.5,
+   "pct_revenue": 18.0
+  },
+  {
+   "rfm_segment": "At Risk",
+   "pct_customers": 20.0,
+   "pct_revenue": 2.6
+  },
+  {
+   "rfm_segment": "Needs Attention",
+   "pct_customers": 3.1,
+   "pct_revenue": 0.3
+  },
+  {
+   "rfm_segment": "New / Promising",
+   "pct_customers": 1.8,
+   "pct_revenue": 0.2
+  },
+  {
+   "rfm_segment": "Lost / Hibernating",
+   "pct_customers": 20.0,
+   "pct_revenue": 0.0
+  }
+ ],
+ "churn": {
+  "Baseline: rank by recency": {
+   "ROC_AUC": 0.891,
+   "PR_AUC": 0.787,
+   "Brier": 0.109,
+   "lift_top10%": 3.602,
+   "recall_top20%": 0.632
+  },
+  "Logistic regression": {
+   "ROC_AUC": 0.907,
+   "PR_AUC": 0.813,
+   "Brier": 0.097,
+   "lift_top10%": 3.69,
+   "recall_top20%": 0.639
+  },
+  "Gradient boosting": {
+   "ROC_AUC": 0.904,
+   "PR_AUC": 0.804,
+   "Brier": 0.101,
+   "lift_top10%": 3.715,
+   "recall_top20%": 0.627
+  }
+ },
+ "campaign": [
+  {
+   "offer_KES": 150,
+   "members_contacted": 1271,
+   "expected_churners_in_list": 579.0,
+   "expected_gp_saved_KES": 512203.0,
+   "campaign_cost_KES": 114390.0,
+   "net_KES": 397813.0,
+   "ROI_%": 348.0,
+   "net_if_random_KES": 135386.0
+  },
+  {
+   "offer_KES": 300,
+   "members_contacted": 709,
+   "expected_churners_in_list": 433.0,
+   "expected_gp_saved_KES": 440786.0,
+   "campaign_cost_KES": 127620.0,
+   "net_KES": 313166.0,
+   "ROI_%": 245.0,
+   "net_if_random_KES": 11093.0
+  }
+ ],
+ "forecast": [
+  {
+   "category": "Staples",
+   "sep_2026_actual": 15446.0,
+   "forecast_units": 16911.0,
+   "low_80": 15209.0,
+   "high_80": 18770.0
+  },
+  {
+   "category": "Fresh Produce",
+   "sep_2026_actual": 11633.0,
+   "forecast_units": 13067.0,
+   "low_80": 11864.0,
+   "high_80": 14588.0
+  },
+  {
+   "category": "Household",
+   "sep_2026_actual": 4463.0,
+   "forecast_units": 5067.0,
+   "low_80": 4307.0,
+   "high_80": 5744.0
+  },
+  {
+   "category": "Beverages",
+   "sep_2026_actual": 6805.0,
+   "forecast_units": 7434.0,
+   "low_80": 6079.0,
+   "high_80": 8403.0
+  },
+  {
+   "category": "Personal Care",
+   "sep_2026_actual": 3242.0,
+   "forecast_units": 3658.0,
+   "low_80": 3064.0,
+   "high_80": 4195.0
+  },
+  {
+   "category": "Baby & Kids",
+   "sep_2026_actual": 1045.0,
+   "forecast_units": 1176.0,
+   "low_80": 835.0,
+   "high_80": 1376.0
+  },
+  {
+   "category": "Dairy",
+   "sep_2026_actual": 6084.0,
+   "forecast_units": 6569.0,
+   "low_80": 5824.0,
+   "high_80": 7267.0
+  },
+  {
+   "category": "Electronics & Phone",
+   "sep_2026_actual": 1244.0,
+   "forecast_units": 1312.0,
+   "low_80": 967.0,
+   "high_80": 1582.0
+  },
+  {
+   "category": "Stationery & School",
+   "sep_2026_actual": 1671.0,
+   "forecast_units": 1020.0,
+   "low_80": 649.0,
+   "high_80": 1333.0
+  }
+ ],
+ "forecast_total": {
+  "category": "TOTAL",
+  "forecast_units": 56214.0,
+  "low_80": 48798.0,
+  "high_80": 63257.0,
+  "forecast_revenue": 13568966.0,
+  "sep_2026_actual": 51633.0,
+  "oct_2025_actual": 54922.0,
+  "vs_oct_2025_%": 2.0
+ }
+}

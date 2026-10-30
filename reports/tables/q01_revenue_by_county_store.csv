@@ -1,0 +1,21 @@
+county,store_name,store_format,revenue_12m,pct_of_chain,rank_in_county,revenue_per_sqm
+Nairobi,Mavuno Mart Westlands,Hypermarket,15230256,9.84,1,3626
+Mombasa,Mavuno Mart Nyali,Hypermarket,15101007,9.75,1,3872
+Kisumu,Mavuno Mart Kisumu Mega,Hypermarket,14603926,9.43,1,4173
+Nakuru,Mavuno Mart Nakuru Kenyatta Ave,Hypermarket,12107311,7.82,1,3363
+Nairobi,Mavuno Mart CBD Moi Avenue,Supermarket,9187761,5.93,2,5104
+Nairobi,Mavuno Mart Embakasi,Supermarket,8415487,5.44,3,4007
+Uasin Gishu,Mavuno Mart Eldoret,Supermarket,8301721,5.36,1,3774
+Nairobi,Mavuno Mart Kasarani,Supermarket,8057863,5.2,4,4241
+Mombasa,Mavuno Mart Mombasa Town,Supermarket,8012045,5.17,2,5008
+Kiambu,Mavuno Mart Thika,Supermarket,7694836,4.97,1,3847
+Nyeri,Mavuno Mart Nyeri,Supermarket,6928365,4.47,1,5132
+Nakuru,Mavuno Mart Naivasha,Supermarket,6419674,4.15,2,4280
+Kakamega,Mavuno Mart Kakamega,Supermarket,6409045,4.14,1,4930
+Machakos,Mavuno Mart Machakos,Supermarket,6243791,4.03,1,4460
+Kajiado,Mavuno Mart Kitengela,Supermarket,4317926,2.79,1,2540
+Nairobi,Mavuno Mart Rongai,Express,3995713,2.58,5,5708
+Kiambu,Mavuno Mart Ruiru,Express,3551676,2.29,2,4440
+Nairobi,Mavuno Mart Karen,Express,3515972,2.27,6,5409
+Kisumu,Mavuno Mart Kondele,Express,3440289,2.22,2,5734
+Kilifi,Mavuno Mart Malindi,Express,3296843,2.13,1,4396

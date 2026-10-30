@@ -1,0 +1,8 @@
+# large intermediate files - rebuilt by `python run_all.py`
+data/processed/*.pkl
+data/processed/sql_stage/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+~$*.xlsx

@@ -1,0 +1,7 @@
+condition,avg_daily_revenue,days
+Public holiday,336061,25
+Non-holiday,408172,705
+Weekend,509659,208
+Weekday,364279,522
+Payday window (25th-3rd),483581,226
+Rest of month,370781,504

@@ -1,0 +1,181 @@
+store_id,category,forecast_units,low_80,high_80,avg_price,forecast_revenue,store_name,county
+S001,Baby & Kids,115.9,82.3,135.5,761.7,88245.7,Mavuno Mart Westlands,Nairobi
+S001,Beverages,774.8,633.6,875.8,191.4,148278.3,Mavuno Mart Westlands,Nairobi
+S001,Dairy,654.8,580.5,724.3,112.1,73384.7,Mavuno Mart Westlands,Nairobi
+S001,Electronics & Phone,132.6,97.8,159.8,413.2,54797.3,Mavuno Mart Westlands,Nairobi
+S001,Fresh Produce,1245.1,1130.5,1390.0,176.5,219728.0,Mavuno Mart Westlands,Nairobi
+S001,Household,488.3,415.0,553.5,351.2,171494.9,Mavuno Mart Westlands,Nairobi
+S001,Personal Care,343.1,287.4,393.5,277.8,95289.5,Mavuno Mart Westlands,Nairobi
+S001,Staples,1598.0,1437.1,1773.6,275.0,439517.5,Mavuno Mart Westlands,Nairobi
+S001,Stationery & School,95.5,60.7,124.7,354.3,33824.2,Mavuno Mart Westlands,Nairobi
+S002,Baby & Kids,68.5,48.6,80.1,866.7,59368.6,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Beverages,433.1,354.2,489.6,205.2,88886.4,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Dairy,387.9,343.9,429.1,113.4,43994.3,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Electronics & Phone,77.5,57.1,93.4,415.3,32167.3,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Fresh Produce,785.2,712.9,876.6,170.4,133823.6,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Household,325.8,276.9,369.3,362.4,118072.7,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Personal Care,235.0,196.9,269.5,276.0,64850.8,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Staples,981.6,882.8,1089.5,273.0,267957.8,Mavuno Mart CBD Moi Avenue,Nairobi
+S002,Stationery & School,55.2,35.1,72.1,343.2,18949.8,Mavuno Mart CBD Moi Avenue,Nairobi
+S003,Baby & Kids,61.6,43.7,72.1,775.4,47761.1,Mavuno Mart Embakasi,Nairobi
+S003,Beverages,387.2,316.6,437.7,207.2,80217.1,Mavuno Mart Embakasi,Nairobi
+S003,Dairy,349.8,310.1,387.0,116.5,40743.0,Mavuno Mart Embakasi,Nairobi
+S003,Electronics & Phone,75.9,55.9,91.4,380.0,28831.5,Mavuno Mart Embakasi,Nairobi
+S003,Fresh Produce,734.5,666.9,820.0,151.7,111451.6,Mavuno Mart Embakasi,Nairobi
+S003,Household,281.1,238.9,318.6,363.4,102156.8,Mavuno Mart Embakasi,Nairobi
+S003,Personal Care,193.8,162.3,222.3,279.3,54124.3,Mavuno Mart Embakasi,Nairobi
+S003,Staples,918.1,825.7,1019.1,275.8,253236.6,Mavuno Mart Embakasi,Nairobi
+S003,Stationery & School,54.6,34.7,71.3,291.5,15904.7,Mavuno Mart Embakasi,Nairobi
+S004,Baby & Kids,62.2,44.2,72.8,855.0,53191.4,Mavuno Mart Kasarani,Nairobi
+S004,Beverages,398.9,326.2,450.9,204.0,81359.3,Mavuno Mart Kasarani,Nairobi
+S004,Dairy,336.5,298.3,372.2,114.5,38532.3,Mavuno Mart Kasarani,Nairobi
+S004,Electronics & Phone,70.5,52.0,84.9,304.7,21477.4,Mavuno Mart Kasarani,Nairobi
+S004,Fresh Produce,718.2,652.1,801.8,161.3,115821.6,Mavuno Mart Kasarani,Nairobi
+S004,Household,277.7,236.0,314.8,365.5,101489.0,Mavuno Mart Kasarani,Nairobi
+S004,Personal Care,198.9,166.6,228.1,266.1,52916.9,Mavuno Mart Kasarani,Nairobi
+S004,Staples,899.9,809.3,998.8,271.4,244226.8,Mavuno Mart Kasarani,Nairobi
+S004,Stationery & School,52.5,33.4,68.6,362.8,19045.0,Mavuno Mart Kasarani,Nairobi
+S005,Baby & Kids,24.5,17.4,28.7,944.6,23161.4,Mavuno Mart Karen,Nairobi
+S005,Beverages,171.6,140.4,194.0,202.2,34698.1,Mavuno Mart Karen,Nairobi
+S005,Dairy,159.1,141.1,176.0,124.6,19825.7,Mavuno Mart Karen,Nairobi
+S005,Electronics & Phone,29.3,21.6,35.3,295.3,8643.0,Mavuno Mart Karen,Nairobi
+S005,Fresh Produce,322.4,292.8,360.0,202.0,65136.4,Mavuno Mart Karen,Nairobi
+S005,Household,116.1,98.7,131.7,330.9,38436.8,Mavuno Mart Karen,Nairobi
+S005,Personal Care,86.2,72.2,98.8,273.1,23526.9,Mavuno Mart Karen,Nairobi
+S005,Staples,401.7,361.3,445.9,273.6,109906.3,Mavuno Mart Karen,Nairobi
+S005,Stationery & School,24.4,15.5,31.8,347.1,8462.9,Mavuno Mart Karen,Nairobi
+S006,Baby & Kids,27.7,19.7,32.4,869.2,24095.4,Mavuno Mart Rongai,Nairobi
+S006,Beverages,190.4,155.7,215.2,206.1,39233.9,Mavuno Mart Rongai,Nairobi
+S006,Dairy,179.9,159.5,199.0,131.5,23650.6,Mavuno Mart Rongai,Nairobi
+S006,Electronics & Phone,31.4,23.1,37.8,373.8,11720.0,Mavuno Mart Rongai,Nairobi
+S006,Fresh Produce,330.2,299.8,368.6,151.8,50110.1,Mavuno Mart Rongai,Nairobi
+S006,Household,138.0,117.3,156.4,401.8,55432.1,Mavuno Mart Rongai,Nairobi
+S006,Personal Care,89.7,75.1,102.9,288.2,25851.9,Mavuno Mart Rongai,Nairobi
+S006,Staples,488.4,439.2,542.1,270.7,132214.7,Mavuno Mart Rongai,Nairobi
+S006,Stationery & School,31.0,19.7,40.5,352.2,10910.3,Mavuno Mart Rongai,Nairobi
+S007,Baby & Kids,120.5,85.6,141.0,782.7,94349.6,Mavuno Mart Nyali,Mombasa
+S007,Beverages,746.8,610.7,844.2,203.3,151824.3,Mavuno Mart Nyali,Mombasa
+S007,Dairy,626.5,555.4,693.0,116.7,73107.9,Mavuno Mart Nyali,Mombasa
+S007,Electronics & Phone,124.5,91.7,150.0,396.8,49389.3,Mavuno Mart Nyali,Mombasa
+S007,Fresh Produce,1231.2,1117.9,1374.5,171.1,210695.6,Mavuno Mart Nyali,Mombasa
+S007,Household,494.1,419.9,560.1,331.5,163790.1,Mavuno Mart Nyali,Mombasa
+S007,Personal Care,339.9,284.7,389.8,245.3,83355.2,Mavuno Mart Nyali,Mombasa
+S007,Staples,1624.4,1460.8,1802.9,269.5,437744.9,Mavuno Mart Nyali,Mombasa
+S007,Stationery & School,98.5,62.7,128.7,343.9,33885.2,Mavuno Mart Nyali,Mombasa
+S008,Baby & Kids,61.9,43.9,72.4,824.1,50976.9,Mavuno Mart Mombasa Town,Mombasa
+S008,Beverages,371.3,303.6,419.7,203.2,75450.3,Mavuno Mart Mombasa Town,Mombasa
+S008,Dairy,347.6,308.2,384.5,111.8,38849.4,Mavuno Mart Mombasa Town,Mombasa
+S008,Electronics & Phone,71.4,52.6,86.0,319.2,22781.6,Mavuno Mart Mombasa Town,Mombasa
+S008,Fresh Produce,714.1,648.4,797.3,162.6,116082.5,Mavuno Mart Mombasa Town,Mombasa
+S008,Household,279.5,237.6,316.9,319.7,89351.4,Mavuno Mart Mombasa Town,Mombasa
+S008,Personal Care,184.9,154.9,212.1,248.3,45907.0,Mavuno Mart Mombasa Town,Mombasa
+S008,Staples,923.0,830.1,1024.5,266.2,245696.5,Mavuno Mart Mombasa Town,Mombasa
+S008,Stationery & School,53.1,33.8,69.4,276.0,14664.5,Mavuno Mart Mombasa Town,Mombasa
+S009,Baby & Kids,61.7,43.8,72.1,889.5,54848.7,Mavuno Mart Thika,Kiambu
+S009,Beverages,372.1,304.3,420.6,196.0,72937.6,Mavuno Mart Thika,Kiambu
+S009,Dairy,341.2,302.5,377.4,113.8,38809.9,Mavuno Mart Thika,Kiambu
+S009,Electronics & Phone,67.5,49.8,81.4,390.2,26345.7,Mavuno Mart Thika,Kiambu
+S009,Fresh Produce,657.6,597.1,734.2,158.7,104354.0,Mavuno Mart Thika,Kiambu
+S009,Household,267.9,227.7,303.7,345.5,92560.6,Mavuno Mart Thika,Kiambu
+S009,Personal Care,188.4,157.9,216.1,276.4,52078.5,Mavuno Mart Thika,Kiambu
+S009,Staples,848.6,763.2,941.9,276.1,234339.3,Mavuno Mart Thika,Kiambu
+S009,Stationery & School,43.7,27.8,57.0,308.1,13448.1,Mavuno Mart Thika,Kiambu
+S010,Baby & Kids,31.3,22.2,36.6,728.8,22803.3,Mavuno Mart Ruiru,Kiambu
+S010,Beverages,184.9,151.2,209.0,216.1,39957.8,Mavuno Mart Ruiru,Kiambu
+S010,Dairy,151.5,134.3,167.6,133.8,20276.9,Mavuno Mart Ruiru,Kiambu
+S010,Electronics & Phone,25.5,18.8,30.7,271.3,6913.0,Mavuno Mart Ruiru,Kiambu
+S010,Fresh Produce,313.1,284.3,349.6,160.8,50342.6,Mavuno Mart Ruiru,Kiambu
+S010,Household,126.6,107.6,143.5,342.8,43407.9,Mavuno Mart Ruiru,Kiambu
+S010,Personal Care,83.4,69.8,95.6,267.8,22332.4,Mavuno Mart Ruiru,Kiambu
+S010,Staples,399.1,358.9,443.0,317.1,126559.8,Mavuno Mart Ruiru,Kiambu
+S010,Stationery & School,22.6,14.4,29.6,423.3,9584.8,Mavuno Mart Ruiru,Kiambu
+S011,Baby & Kids,86.0,61.1,100.6,594.4,51110.7,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Beverages,498.3,407.5,563.3,205.5,102388.1,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Dairy,462.9,410.4,512.0,112.9,52255.8,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Electronics & Phone,96.4,71.0,116.1,219.6,21162.6,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Fresh Produce,910.5,826.7,1016.5,157.4,143322.4,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Household,343.0,291.5,388.8,325.7,111697.8,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Personal Care,267.0,223.7,306.2,261.1,69718.1,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Staples,1234.5,1110.2,1370.2,279.6,345117.9,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S011,Stationery & School,68.7,43.7,89.7,399.0,27407.3,Mavuno Mart Nakuru Kenyatta Ave,Nakuru
+S012,Baby & Kids,51.6,36.7,60.4,871.5,44999.8,Mavuno Mart Naivasha,Nakuru
+S012,Beverages,256.2,209.5,289.6,205.9,52738.6,Mavuno Mart Naivasha,Nakuru
+S012,Dairy,234.8,208.2,259.7,136.7,32107.8,Mavuno Mart Naivasha,Nakuru
+S012,Electronics & Phone,58.1,42.8,70.0,336.4,19536.7,Mavuno Mart Naivasha,Nakuru
+S012,Fresh Produce,462.2,419.7,516.0,152.4,70458.5,Mavuno Mart Naivasha,Nakuru
+S012,Household,182.1,154.7,206.4,326.3,59414.6,Mavuno Mart Naivasha,Nakuru
+S012,Personal Care,143.9,120.5,165.0,256.9,36957.5,Mavuno Mart Naivasha,Nakuru
+S012,Staples,604.5,543.6,670.9,266.4,161032.1,Mavuno Mart Naivasha,Nakuru
+S012,Stationery & School,56.6,36.0,73.9,334.4,18916.6,Mavuno Mart Naivasha,Nakuru
+S013,Baby & Kids,114.8,81.5,134.4,693.3,79624.0,Mavuno Mart Kisumu Mega,Kisumu
+S013,Beverages,757.5,619.4,856.3,195.9,148424.0,Mavuno Mart Kisumu Mega,Kisumu
+S013,Dairy,641.6,568.8,709.7,123.4,79187.5,Mavuno Mart Kisumu Mega,Kisumu
+S013,Electronics & Phone,127.8,94.2,154.0,436.6,55779.6,Mavuno Mart Kisumu Mega,Kisumu
+S013,Fresh Produce,1218.8,1106.6,1360.7,155.1,189001.4,Mavuno Mart Kisumu Mega,Kisumu
+S013,Household,488.8,415.4,554.1,344.7,168499.0,Mavuno Mart Kisumu Mega,Kisumu
+S013,Personal Care,345.2,289.2,395.9,257.4,88871.1,Mavuno Mart Kisumu Mega,Kisumu
+S013,Staples,1564.6,1407.1,1736.6,286.0,447404.5,Mavuno Mart Kisumu Mega,Kisumu
+S013,Stationery & School,94.2,59.9,123.1,294.6,27751.7,Mavuno Mart Kisumu Mega,Kisumu
+S014,Baby & Kids,25.0,17.7,29.2,613.8,15333.2,Mavuno Mart Kondele,Kisumu
+S014,Beverages,183.7,150.2,207.6,209.7,38521.5,Mavuno Mart Kondele,Kisumu
+S014,Dairy,146.3,129.7,161.8,124.9,18279.0,Mavuno Mart Kondele,Kisumu
+S014,Electronics & Phone,27.5,20.3,33.1,341.6,9391.2,Mavuno Mart Kondele,Kisumu
+S014,Fresh Produce,295.1,268.0,329.5,166.9,49252.2,Mavuno Mart Kondele,Kisumu
+S014,Household,114.6,97.4,129.9,338.1,38752.3,Mavuno Mart Kondele,Kisumu
+S014,Personal Care,81.3,68.1,93.3,265.7,21608.4,Mavuno Mart Kondele,Kisumu
+S014,Staples,391.1,351.7,434.1,292.7,114455.5,Mavuno Mart Kondele,Kisumu
+S014,Stationery & School,27.8,17.7,36.4,303.4,8450.5,Mavuno Mart Kondele,Kisumu
+S015,Baby & Kids,62.6,44.4,73.2,758.4,47473.5,Mavuno Mart Eldoret,Uasin Gishu
+S015,Beverages,371.3,303.6,419.7,197.1,73166.6,Mavuno Mart Eldoret,Uasin Gishu
+S015,Dairy,346.8,307.5,383.6,122.1,42333.0,Mavuno Mart Eldoret,Uasin Gishu
+S015,Electronics & Phone,69.0,50.8,83.1,402.9,27789.5,Mavuno Mart Eldoret,Uasin Gishu
+S015,Fresh Produce,730.4,663.2,815.4,175.9,128443.1,Mavuno Mart Eldoret,Uasin Gishu
+S015,Household,248.9,211.6,282.2,332.2,82701.4,Mavuno Mart Eldoret,Uasin Gishu
+S015,Personal Care,193.2,161.8,221.5,272.2,52571.9,Mavuno Mart Eldoret,Uasin Gishu
+S015,Staples,957.4,861.0,1062.6,285.0,272877.2,Mavuno Mart Eldoret,Uasin Gishu
+S015,Stationery & School,48.6,30.9,63.5,322.2,15669.1,Mavuno Mart Eldoret,Uasin Gishu
+S016,Baby & Kids,40.7,28.9,47.6,828.3,33725.7,Mavuno Mart Machakos,Machakos
+S016,Beverages,290.9,237.9,328.8,212.4,61794.1,Mavuno Mart Machakos,Machakos
+S016,Dairy,270.2,239.6,298.9,133.9,36191.6,Mavuno Mart Machakos,Machakos
+S016,Electronics & Phone,48.4,35.6,58.3,340.5,16464.8,Mavuno Mart Machakos,Machakos
+S016,Fresh Produce,518.9,471.2,579.3,140.1,72704.8,Mavuno Mart Machakos,Machakos
+S016,Household,195.7,166.4,221.9,318.4,62320.4,Mavuno Mart Machakos,Machakos
+S016,Personal Care,150.5,126.1,172.7,262.1,39461.5,Mavuno Mart Machakos,Machakos
+S016,Staples,706.2,635.1,783.8,261.4,184636.2,Mavuno Mart Machakos,Machakos
+S016,Stationery & School,39.5,25.1,51.6,301.9,11921.3,Mavuno Mart Machakos,Machakos
+S017,Baby & Kids,48.6,34.5,56.9,752.1,36562.1,Mavuno Mart Kakamega,Kakamega
+S017,Beverages,285.6,233.5,322.8,194.3,55479.0,Mavuno Mart Kakamega,Kakamega
+S017,Dairy,267.6,237.2,296.0,119.7,32032.3,Mavuno Mart Kakamega,Kakamega
+S017,Electronics & Phone,50.3,37.0,60.6,400.3,20117.8,Mavuno Mart Kakamega,Kakamega
+S017,Fresh Produce,613.9,557.4,685.4,178.0,109302.0,Mavuno Mart Kakamega,Kakamega
+S017,Household,187.2,159.1,212.2,403.8,75611.4,Mavuno Mart Kakamega,Kakamega
+S017,Personal Care,162.3,136.0,186.1,266.3,43218.8,Mavuno Mart Kakamega,Kakamega
+S017,Staples,714.4,642.5,792.9,283.0,202204.8,Mavuno Mart Kakamega,Kakamega
+S017,Stationery & School,45.4,28.9,59.3,288.1,13082.6,Mavuno Mart Kakamega,Kakamega
+S018,Baby & Kids,52.1,37.0,61.0,712.9,37168.8,Mavuno Mart Nyeri,Nyeri
+S018,Beverages,325.7,266.3,368.1,207.7,67636.2,Mavuno Mart Nyeri,Nyeri
+S018,Dairy,290.1,257.2,320.9,113.4,32894.4,Mavuno Mart Nyeri,Nyeri
+S018,Electronics & Phone,58.9,43.4,70.9,399.8,23527.2,Mavuno Mart Nyeri,Nyeri
+S018,Fresh Produce,598.0,542.9,667.6,165.7,99085.7,Mavuno Mart Nyeri,Nyeri
+S018,Household,235.9,200.5,267.4,302.8,71426.9,Mavuno Mart Nyeri,Nyeri
+S018,Personal Care,177.7,148.9,203.8,272.6,48457.1,Mavuno Mart Nyeri,Nyeri
+S018,Staples,754.4,678.4,837.3,288.9,217969.9,Mavuno Mart Nyeri,Nyeri
+S018,Stationery & School,48.6,30.9,63.5,350.9,17044.8,Mavuno Mart Nyeri,Nyeri
+S019,Baby & Kids,25.5,18.1,29.9,593.4,15155.2,Mavuno Mart Malindi,Kilifi
+S019,Beverages,173.4,141.8,196.1,207.2,35934.8,Mavuno Mart Malindi,Kilifi
+S019,Dairy,167.5,148.5,185.2,108.6,18182.2,Mavuno Mart Malindi,Kilifi
+S019,Electronics & Phone,32.0,23.6,38.6,213.1,6826.0,Mavuno Mart Malindi,Kilifi
+S019,Fresh Produce,294.8,267.7,329.1,159.9,47123.8,Mavuno Mart Malindi,Kilifi
+S019,Household,102.0,86.7,115.6,361.8,36885.8,Mavuno Mart Malindi,Kilifi
+S019,Personal Care,84.8,71.1,97.3,277.1,23509.4,Mavuno Mart Malindi,Kilifi
+S019,Staples,355.8,320.0,394.9,292.3,104012.2,Mavuno Mart Malindi,Kilifi
+S019,Stationery & School,22.2,14.1,29.0,312.8,6949.3,Mavuno Mart Malindi,Kilifi
+S020,Baby & Kids,32.9,23.3,38.5,784.3,25789.0,Mavuno Mart Kitengela,Kajiado
+S020,Beverages,260.5,213.0,294.4,202.5,52731.1,Mavuno Mart Kitengela,Kajiado
+S020,Dairy,206.5,183.0,228.4,117.4,24239.5,Mavuno Mart Kitengela,Kajiado
+S020,Electronics & Phone,38.2,28.2,46.1,419.6,16040.8,Mavuno Mart Kitengela,Kajiado
+S020,Fresh Produce,372.5,338.2,415.8,169.4,63102.5,Mavuno Mart Kitengela,Kajiado
+S020,Household,174.2,148.0,197.4,358.7,62467.3,Mavuno Mart Kitengela,Kajiado
+S020,Personal Care,108.4,90.8,124.3,248.7,26951.3,Mavuno Mart Kitengela,Kajiado
+S020,Staples,545.6,490.6,605.5,290.2,158311.1,Mavuno Mart Kitengela,Kajiado
+S020,Stationery & School,37.4,23.8,48.9,289.1,10819.7,Mavuno Mart Kitengela,Kajiado

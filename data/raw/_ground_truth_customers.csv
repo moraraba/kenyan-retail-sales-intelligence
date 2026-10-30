@@ -1,0 +1,6001 @@
+customer_id,segment_true,churn_date_true
+C00001,Regular,
+C00002,Loyal,2025-12-18
+C00003,Regular,2025-06-17
+C00004,Loyal,
+C00005,Regular,2025-04-27
+C00006,Occasional,2024-11-15
+C00007,Occasional,2026-01-26
+C00008,Deal Seeker,2026-03-21
+C00009,Deal Seeker,
+C00010,Occasional,2025-07-29
+C00011,Occasional,2025-07-29
+C00012,Occasional,2025-10-10
+C00013,Loyal,2025-10-14
+C00014,Occasional,2026-04-18
+C00015,Occasional,2025-09-11
+C00016,Deal Seeker,
+C00017,Regular,
+C00018,Deal Seeker,2026-07-29
+C00019,Loyal,
+C00020,Loyal,2025-12-12
+C00021,Occasional,2025-04-25
+C00022,Regular,2024-10-12
+C00023,Occasional,2025-10-08
+C00024,Regular,2026-05-23
+C00025,Regular,2026-01-02
+C00026,Deal Seeker,2025-10-27
+C00027,Occasional,
+C00028,Regular,
+C00029,Regular,2026-02-11
+C00030,Occasional,2025-11-27
+C00031,Regular,
+C00032,Occasional,
+C00033,Deal Seeker,2024-10-03
+C00034,Occasional,2026-02-09
+C00035,Occasional,2024-12-23
+C00036,Occasional,2024-11-24
+C00037,Regular,2025-04-02
+C00038,Occasional,2025-08-28
+C00039,Regular,2025-01-19
+C00040,Regular,
+C00041,Occasional,2025-05-07
+C00042,Regular,2025-12-31
+C00043,Occasional,2024-12-12
+C00044,Occasional,
+C00045,Deal Seeker,2026-09-13
+C00046,Regular,
+C00047,Occasional,
+C00048,Loyal,
+C00049,Loyal,
+C00050,Regular,2026-02-26
+C00051,Deal Seeker,2026-01-02
+C00052,Regular,2024-12-24
+C00053,Occasional,2026-09-24
+C00054,Deal Seeker,2025-09-24
+C00055,Regular,2025-11-17
+C00056,Occasional,2025-05-01
+C00057,Occasional,2025-03-04
+C00058,Occasional,
+C00059,Regular,
+C00060,Deal Seeker,2025-06-04
+C00061,Deal Seeker,
+C00062,Regular,2026-01-20
+C00063,Regular,
+C00064,Occasional,
+C00065,Regular,2025-09-11
+C00066,Regular,
+C00067,Deal Seeker,2026-05-01
+C00068,Occasional,2024-11-15
+C00069,Regular,
+C00070,Regular,2025-07-30
+C00071,Occasional,2026-08-03
+C00072,Regular,
+C00073,Occasional,
+C00074,Loyal,
+C00075,Regular,2025-03-08
+C00076,Occasional,2025-12-09
+C00077,Loyal,
+C00078,Occasional,
+C00079,Occasional,2024-11-15
+C00080,Occasional,
+C00081,Loyal,2026-05-19
+C00082,Occasional,2025-08-23
+C00083,Regular,
+C00084,Loyal,2025-07-04
+C00085,Loyal,
+C00086,Occasional,2024-10-25
+C00087,Occasional,2025-07-06
+C00088,Occasional,2024-12-19
+C00089,Deal Seeker,2024-12-31
+C00090,Regular,
+C00091,Loyal,
+C00092,Regular,2024-10-08
+C00093,Regular,2026-04-30
+C00094,Occasional,
+C00095,Occasional,2025-06-06
+C00096,Regular,
+C00097,Regular,
+C00098,Regular,2025-03-21
+C00099,Occasional,2026-05-05
+C00100,Loyal,
+C00101,Regular,2024-10-30
+C00102,Regular,
+C00103,Occasional,2024-10-01
+C00104,Regular,2025-10-10
+C00105,Regular,
+C00106,Regular,2025-01-11
+C00107,Regular,
+C00108,Deal Seeker,2025-11-22
+C00109,Loyal,2024-10-31
+C00110,Regular,2025-06-29
+C00111,Regular,2026-05-05
+C00112,Regular,2026-05-13
+C00113,Occasional,
+C00114,Loyal,2025-12-19
+C00115,Occasional,2025-05-11
+C00116,Occasional,2025-09-19
+C00117,Regular,2025-10-13
+C00118,Regular,
+C00119,Regular,
+C00120,Regular,
+C00121,Regular,
+C00122,Occasional,2025-10-07
+C00123,Regular,2026-08-26
+C00124,Occasional,2024-12-27
+C00125,Regular,2025-04-24
+C00126,Occasional,2026-06-27
+C00127,Deal Seeker,
+C00128,Occasional,2025-08-09
+C00129,Regular,
+C00130,Occasional,2025-06-19
+C00131,Occasional,2025-03-30
+C00132,Regular,
+C00133,Occasional,2025-04-04
+C00134,Loyal,
+C00135,Regular,
+C00136,Regular,2026-07-31
+C00137,Regular,2026-08-12
+C00138,Regular,
+C00139,Loyal,2026-03-29
+C00140,Loyal,
+C00141,Loyal,2026-01-17
+C00142,Loyal,
+C00143,Deal Seeker,2026-04-24
+C00144,Loyal,
+C00145,Regular,
+C00146,Deal Seeker,2025-09-09
+C00147,Regular,
+C00148,Deal Seeker,2024-10-12
+C00149,Regular,
+C00150,Deal Seeker,2024-11-26
+C00151,Regular,
+C00152,Occasional,2024-11-26
+C00153,Regular,
+C00154,Regular,2026-03-08
+C00155,Regular,
+C00156,Regular,2026-04-22
+C00157,Occasional,
+C00158,Occasional,2025-12-12
+C00159,Occasional,2026-01-08
+C00160,Regular,2026-08-07
+C00161,Loyal,
+C00162,Occasional,2026-02-23
+C00163,Loyal,2024-10-31
+C00164,Deal Seeker,2026-01-17
+C00165,Occasional,
+C00166,Occasional,2025-06-11
+C00167,Loyal,2026-02-03
+C00168,Regular,2024-10-03
+C00169,Loyal,
+C00170,Deal Seeker,2025-07-14
+C00171,Regular,
+C00172,Occasional,2026-04-13
+C00173,Loyal,
+C00174,Regular,
+C00175,Loyal,
+C00176,Occasional,
+C00177,Deal Seeker,
+C00178,Regular,
+C00179,Occasional,2025-09-04
+C00180,Loyal,
+C00181,Regular,
+C00182,Loyal,2025-02-13
+C00183,Loyal,2026-09-28
+C00184,Loyal,
+C00185,Occasional,2025-09-13
+C00186,Regular,
+C00187,Occasional,2025-01-27
+C00188,Occasional,
+C00189,Regular,2025-12-26
+C00190,Deal Seeker,2026-09-24
+C00191,Regular,2025-11-30
+C00192,Deal Seeker,2024-10-29
+C00193,Occasional,2026-04-07
+C00194,Occasional,2025-10-02
+C00195,Regular,
+C00196,Occasional,
+C00197,Occasional,
+C00198,Occasional,2025-02-07
+C00199,Loyal,
+C00200,Regular,2026-04-22
+C00201,Occasional,2025-02-22
+C00202,Loyal,
+C00203,Regular,
+C00204,Occasional,2026-02-08
+C00205,Regular,
+C00206,Regular,
+C00207,Occasional,2025-02-20
+C00208,Loyal,
+C00209,Loyal,2026-08-28
+C00210,Deal Seeker,
+C00211,Occasional,2025-02-15
+C00212,Occasional,2026-07-15
+C00213,Occasional,2026-01-25
+C00214,Regular,
+C00215,Occasional,2026-04-09
+C00216,Occasional,2026-04-04
+C00217,Regular,
+C00218,Regular,2024-11-03
+C00219,Regular,
+C00220,Loyal,2024-11-12
+C00221,Occasional,2025-08-23
+C00222,Deal Seeker,2026-04-26
+C00223,Deal Seeker,2024-12-15
+C00224,Occasional,
+C00225,Regular,2026-06-03
+C00226,Loyal,
+C00227,Occasional,
+C00228,Regular,2024-12-16
+C00229,Regular,
+C00230,Occasional,2025-12-14
+C00231,Loyal,2025-07-30
+C00232,Occasional,2025-03-01
+C00233,Occasional,2026-04-13
+C00234,Loyal,2025-10-03
+C00235,Occasional,2024-12-23
+C00236,Occasional,
+C00237,Regular,2026-06-20
+C00238,Regular,2025-12-27
+C00239,Loyal,
+C00240,Deal Seeker,2025-06-20
+C00241,Regular,2026-06-26
+C00242,Regular,
+C00243,Loyal,
+C00244,Regular,
+C00245,Occasional,2026-05-25
+C00246,Regular,
+C00247,Occasional,2026-06-02
+C00248,Deal Seeker,2025-11-17
+C00249,Regular,
+C00250,Occasional,2025-04-03
+C00251,Loyal,
+C00252,Regular,2025-12-11
+C00253,Regular,2025-09-04
+C00254,Occasional,2024-12-20
+C00255,Regular,
+C00256,Occasional,2025-03-17
+C00257,Occasional,
+C00258,Occasional,
+C00259,Regular,
+C00260,Occasional,
+C00261,Regular,2025-04-25
+C00262,Regular,
+C00263,Regular,2025-08-21
+C00264,Loyal,2026-08-17
+C00265,Deal Seeker,
+C00266,Loyal,
+C00267,Loyal,
+C00268,Loyal,
+C00269,Regular,
+C00270,Regular,2025-12-21
+C00271,Regular,2025-03-18
+C00272,Occasional,
+C00273,Regular,
+C00274,Loyal,
+C00275,Regular,2025-02-28
+C00276,Regular,
+C00277,Regular,
+C00278,Regular,
+C00279,Regular,
+C00280,Regular,2026-06-23
+C00281,Regular,2025-07-12
+C00282,Regular,2026-08-11
+C00283,Occasional,2026-04-20
+C00284,Deal Seeker,2025-02-26
+C00285,Regular,2026-07-18
+C00286,Regular,2026-04-18
+C00287,Regular,
+C00288,Regular,2025-03-19
+C00289,Deal Seeker,
+C00290,Regular,2025-01-09
+C00291,Regular,2026-02-22
+C00292,Deal Seeker,2025-03-13
+C00293,Occasional,2025-04-21
+C00294,Occasional,
+C00295,Occasional,2025-01-15
+C00296,Loyal,2025-12-23
+C00297,Occasional,2024-10-27
+C00298,Regular,
+C00299,Loyal,2025-04-16
+C00300,Regular,
+C00301,Regular,
+C00302,Occasional,2025-08-28
+C00303,Occasional,2026-09-20
+C00304,Regular,
+C00305,Occasional,2025-04-21
+C00306,Regular,2026-07-09
+C00307,Regular,2025-08-27
+C00308,Occasional,2024-12-14
+C00309,Regular,
+C00310,Occasional,2024-12-19
+C00311,Deal Seeker,2025-07-01
+C00312,Occasional,
+C00313,Occasional,
+C00314,Regular,
+C00315,Regular,
+C00316,Loyal,
+C00317,Occasional,
+C00318,Regular,
+C00319,Regular,
+C00320,Deal Seeker,2026-05-22
+C00321,Regular,2026-04-12
+C00322,Regular,2025-05-21
+C00323,Regular,2025-04-06
+C00324,Occasional,2025-02-16
+C00325,Regular,2026-09-28
+C00326,Occasional,
+C00327,Regular,
+C00328,Deal Seeker,
+C00329,Regular,
+C00330,Loyal,
+C00331,Occasional,2026-04-24
+C00332,Deal Seeker,2026-05-25
+C00333,Regular,2025-01-07
+C00334,Loyal,
+C00335,Loyal,2024-11-20
+C00336,Deal Seeker,2026-07-14
+C00337,Occasional,2025-01-11
+C00338,Occasional,2025-06-08
+C00339,Deal Seeker,2026-03-15
+C00340,Occasional,2025-05-17
+C00341,Occasional,2025-11-29
+C00342,Regular,2025-10-23
+C00343,Loyal,2026-02-14
+C00344,Regular,2025-01-29
+C00345,Loyal,2026-02-23
+C00346,Occasional,2025-02-16
+C00347,Occasional,2024-11-02
+C00348,Occasional,2026-08-04
+C00349,Occasional,2025-11-23
+C00350,Occasional,2024-12-09
+C00351,Regular,2025-07-02
+C00352,Loyal,2025-05-02
+C00353,Deal Seeker,2025-07-06
+C00354,Regular,2025-09-09
+C00355,Loyal,
+C00356,Regular,
+C00357,Loyal,
+C00358,Regular,2025-11-11
+C00359,Occasional,
+C00360,Regular,
+C00361,Regular,2026-05-13
+C00362,Regular,2026-05-28
+C00363,Regular,2024-10-18
+C00364,Regular,2024-12-15
+C00365,Deal Seeker,2024-12-04
+C00366,Regular,
+C00367,Occasional,2025-09-07
+C00368,Deal Seeker,2026-05-17
+C00369,Deal Seeker,2025-09-07
+C00370,Loyal,
+C00371,Loyal,
+C00372,Loyal,2026-04-16
+C00373,Occasional,2025-07-02
+C00374,Regular,
+C00375,Occasional,2025-04-02
+C00376,Loyal,
+C00377,Regular,2024-12-20
+C00378,Occasional,2026-06-02
+C00379,Occasional,2025-09-20
+C00380,Regular,2026-07-27
+C00381,Regular,
+C00382,Regular,
+C00383,Loyal,
+C00384,Loyal,
+C00385,Occasional,
+C00386,Loyal,2025-11-24
+C00387,Occasional,2024-10-12
+C00388,Loyal,2025-06-28
+C00389,Loyal,
+C00390,Loyal,2024-10-07
+C00391,Regular,
+C00392,Occasional,2026-07-19
+C00393,Regular,2025-02-14
+C00394,Deal Seeker,2025-03-18
+C00395,Occasional,2025-09-05
+C00396,Regular,
+C00397,Regular,
+C00398,Regular,
+C00399,Occasional,2024-12-28
+C00400,Regular,
+C00401,Occasional,2025-02-24
+C00402,Loyal,
+C00403,Deal Seeker,
+C00404,Deal Seeker,2025-04-11
+C00405,Occasional,2026-04-14
+C00406,Loyal,
+C00407,Regular,2024-10-16
+C00408,Regular,
+C00409,Regular,2024-11-09
+C00410,Loyal,2025-03-31
+C00411,Regular,
+C00412,Regular,2024-11-27
+C00413,Deal Seeker,2025-09-28
+C00414,Occasional,2026-08-21
+C00415,Occasional,2026-07-26
+C00416,Loyal,2025-06-15
+C00417,Regular,2026-03-29
+C00418,Deal Seeker,
+C00419,Regular,
+C00420,Loyal,
+C00421,Regular,2026-06-10
+C00422,Regular,2025-03-07
+C00423,Deal Seeker,2024-11-09
+C00424,Deal Seeker,
+C00425,Loyal,
+C00426,Occasional,
+C00427,Regular,
+C00428,Occasional,2025-02-11
+C00429,Deal Seeker,2026-02-04
+C00430,Occasional,2025-11-23
+C00431,Regular,
+C00432,Loyal,2025-03-14
+C00433,Deal Seeker,
+C00434,Deal Seeker,2025-03-17
+C00435,Occasional,
+C00436,Deal Seeker,
+C00437,Regular,
+C00438,Regular,2026-04-06
+C00439,Deal Seeker,2026-05-24
+C00440,Regular,
+C00441,Regular,
+C00442,Regular,
+C00443,Regular,
+C00444,Regular,
+C00445,Occasional,2025-08-01
+C00446,Occasional,2026-08-08
+C00447,Loyal,
+C00448,Regular,
+C00449,Occasional,
+C00450,Occasional,2024-11-15
+C00451,Regular,2024-10-20
+C00452,Occasional,2026-07-21
+C00453,Occasional,
+C00454,Regular,
+C00455,Occasional,
+C00456,Loyal,
+C00457,Loyal,
+C00458,Regular,
+C00459,Occasional,2026-08-17
+C00460,Occasional,2025-02-27
+C00461,Deal Seeker,
+C00462,Deal Seeker,
+C00463,Loyal,
+C00464,Deal Seeker,2025-06-13
+C00465,Loyal,2025-06-06
+C00466,Loyal,
+C00467,Regular,2025-12-22
+C00468,Regular,
+C00469,Occasional,2026-07-01
+C00470,Regular,
+C00471,Regular,
+C00472,Occasional,2026-05-27
+C00473,Deal Seeker,2026-08-24
+C00474,Regular,
+C00475,Occasional,2025-01-09
+C00476,Occasional,2026-04-13
+C00477,Regular,2025-08-28
+C00478,Occasional,2025-06-07
+C00479,Regular,
+C00480,Occasional,2025-07-27
+C00481,Regular,2025-02-15
+C00482,Regular,
+C00483,Regular,2026-04-16
+C00484,Regular,
+C00485,Deal Seeker,2026-05-25
+C00486,Occasional,2025-12-03
+C00487,Occasional,2025-01-10
+C00488,Regular,2025-12-01
+C00489,Occasional,
+C00490,Regular,2026-03-06
+C00491,Regular,2026-09-21
+C00492,Deal Seeker,
+C00493,Occasional,2025-01-14
+C00494,Regular,2025-10-12
+C00495,Occasional,
+C00496,Regular,
+C00497,Occasional,2025-02-05
+C00498,Regular,
+C00499,Occasional,2025-05-08
+C00500,Deal Seeker,2025-10-03
+C00501,Occasional,
+C00502,Regular,2025-12-16
+C00503,Regular,
+C00504,Regular,2026-08-19
+C00505,Regular,2026-02-08
+C00506,Loyal,
+C00507,Occasional,
+C00508,Regular,
+C00509,Loyal,
+C00510,Deal Seeker,2026-07-23
+C00511,Loyal,
+C00512,Deal Seeker,2026-01-12
+C00513,Loyal,
+C00514,Regular,
+C00515,Regular,
+C00516,Occasional,2025-05-06
+C00517,Deal Seeker,2024-12-21
+C00518,Regular,
+C00519,Occasional,2025-01-20
+C00520,Loyal,
+C00521,Loyal,2025-12-26
+C00522,Regular,2026-05-13
+C00523,Regular,
+C00524,Regular,2026-05-19
+C00525,Regular,
+C00526,Occasional,2025-09-18
+C00527,Regular,2025-06-06
+C00528,Regular,
+C00529,Regular,
+C00530,Deal Seeker,2025-01-23
+C00531,Loyal,2025-12-30
+C00532,Loyal,
+C00533,Regular,
+C00534,Occasional,2025-10-20
+C00535,Loyal,
+C00536,Occasional,2026-08-19
+C00537,Occasional,2026-09-22
+C00538,Regular,2026-04-28
+C00539,Occasional,
+C00540,Deal Seeker,2026-07-05
+C00541,Regular,
+C00542,Regular,2024-12-04
+C00543,Occasional,2026-08-12
+C00544,Regular,2025-01-18
+C00545,Deal Seeker,
+C00546,Deal Seeker,
+C00547,Regular,
+C00548,Occasional,
+C00549,Loyal,
+C00550,Occasional,2025-11-19
+C00551,Regular,
+C00552,Regular,
+C00553,Deal Seeker,2026-02-16
+C00554,Regular,2026-09-07
+C00555,Occasional,2024-11-12
+C00556,Loyal,
+C00557,Occasional,2025-12-14
+C00558,Loyal,
+C00559,Loyal,
+C00560,Loyal,
+C00561,Occasional,2025-05-21
+C00562,Regular,
+C00563,Loyal,2026-02-28
+C00564,Occasional,2026-07-20
+C00565,Occasional,2024-12-23
+C00566,Loyal,2026-06-20
+C00567,Occasional,2025-06-18
+C00568,Regular,2026-08-07
+C00569,Deal Seeker,2026-02-16
+C00570,Deal Seeker,2025-08-01
+C00571,Regular,2026-07-21
+C00572,Occasional,
+C00573,Regular,
+C00574,Regular,2025-05-23
+C00575,Occasional,2026-01-11
+C00576,Occasional,2026-09-11
+C00577,Loyal,
+C00578,Occasional,2026-09-09
+C00579,Deal Seeker,2026-08-11
+C00580,Regular,2024-12-14
+C00581,Regular,
+C00582,Regular,2025-02-10
+C00583,Occasional,2024-10-29
+C00584,Regular,
+C00585,Deal Seeker,2025-08-12
+C00586,Regular,2026-02-02
+C00587,Regular,2026-03-05
+C00588,Deal Seeker,
+C00589,Deal Seeker,
+C00590,Regular,
+C00591,Regular,
+C00592,Occasional,2025-10-19
+C00593,Occasional,2026-07-09
+C00594,Occasional,
+C00595,Occasional,2024-11-24
+C00596,Regular,2025-05-29
+C00597,Regular,2025-04-20
+C00598,Regular,
+C00599,Regular,2026-08-16
+C00600,Regular,2025-04-02
+C00601,Occasional,2025-01-29
+C00602,Deal Seeker,2025-10-27
+C00603,Deal Seeker,
+C00604,Regular,
+C00605,Occasional,2025-10-05
+C00606,Loyal,
+C00607,Deal Seeker,
+C00608,Regular,
+C00609,Regular,
+C00610,Loyal,2026-01-14
+C00611,Regular,2024-11-07
+C00612,Deal Seeker,
+C00613,Deal Seeker,2025-11-06
+C00614,Regular,2025-08-23
+C00615,Loyal,2025-01-02
+C00616,Occasional,2024-10-28
+C00617,Occasional,2025-08-20
+C00618,Deal Seeker,2024-12-16
+C00619,Occasional,2025-06-02
+C00620,Deal Seeker,
+C00621,Occasional,
+C00622,Regular,
+C00623,Deal Seeker,
+C00624,Regular,
+C00625,Regular,2025-04-14
+C00626,Occasional,
+C00627,Occasional,2025-10-18
+C00628,Occasional,2024-10-28
+C00629,Occasional,
+C00630,Loyal,2026-06-05
+C00631,Occasional,
+C00632,Occasional,
+C00633,Loyal,2024-12-08
+C00634,Occasional,2024-10-26
+C00635,Regular,
+C00636,Regular,2026-01-08
+C00637,Regular,2025-05-07
+C00638,Regular,
+C00639,Regular,2024-11-29
+C00640,Regular,2025-10-30
+C00641,Occasional,
+C00642,Loyal,2026-01-19
+C00643,Regular,2024-11-17
+C00644,Loyal,
+C00645,Occasional,2025-04-14
+C00646,Deal Seeker,2024-12-18
+C00647,Occasional,
+C00648,Deal Seeker,
+C00649,Occasional,2025-04-30
+C00650,Occasional,
+C00651,Regular,2026-07-09
+C00652,Deal Seeker,
+C00653,Loyal,2025-08-17
+C00654,Regular,2024-12-24
+C00655,Regular,
+C00656,Regular,2025-09-18
+C00657,Occasional,2024-10-15
+C00658,Loyal,2025-01-02
+C00659,Deal Seeker,2025-10-12
+C00660,Regular,
+C00661,Loyal,
+C00662,Regular,2026-08-18
+C00663,Regular,
+C00664,Regular,2026-08-14
+C00665,Loyal,
+C00666,Regular,2024-10-20
+C00667,Occasional,2025-01-19
+C00668,Regular,2025-09-13
+C00669,Regular,2026-01-10
+C00670,Occasional,2025-02-12
+C00671,Occasional,2025-01-27
+C00672,Occasional,2026-03-29
+C00673,Regular,
+C00674,Regular,2025-04-24
+C00675,Regular,2025-12-06
+C00676,Deal Seeker,2024-10-14
+C00677,Loyal,
+C00678,Occasional,2025-10-05
+C00679,Regular,
+C00680,Deal Seeker,
+C00681,Deal Seeker,
+C00682,Occasional,2025-06-19
+C00683,Occasional,2025-04-07
+C00684,Deal Seeker,2025-08-26
+C00685,Regular,2026-05-05
+C00686,Loyal,2025-07-03
+C00687,Deal Seeker,2024-11-06
+C00688,Occasional,2024-10-12
+C00689,Deal Seeker,2026-04-11
+C00690,Loyal,
+C00691,Occasional,
+C00692,Occasional,2026-06-28
+C00693,Occasional,2025-02-04
+C00694,Deal Seeker,2024-10-05
+C00695,Deal Seeker,
+C00696,Deal Seeker,
+C00697,Regular,2025-10-26
+C00698,Loyal,
+C00699,Regular,
+C00700,Loyal,
+C00701,Occasional,2025-08-03
+C00702,Regular,
+C00703,Loyal,
+C00704,Deal Seeker,2026-08-06
+C00705,Regular,2026-02-23
+C00706,Deal Seeker,
+C00707,Occasional,
+C00708,Regular,
+C00709,Regular,2025-09-08
+C00710,Occasional,
+C00711,Regular,2024-12-16
+C00712,Deal Seeker,2026-04-30
+C00713,Occasional,2025-08-05
+C00714,Occasional,2026-03-23
+C00715,Occasional,2024-11-30
+C00716,Regular,2026-01-10
+C00717,Regular,
+C00718,Occasional,
+C00719,Regular,
+C00720,Regular,2025-07-24
+C00721,Deal Seeker,2025-11-15
+C00722,Regular,
+C00723,Loyal,
+C00724,Regular,2025-05-31
+C00725,Regular,2026-06-14
+C00726,Loyal,
+C00727,Deal Seeker,2025-01-05
+C00728,Regular,2026-06-29
+C00729,Regular,2025-10-11
+C00730,Loyal,2026-08-18
+C00731,Regular,2026-05-03
+C00732,Loyal,2026-07-24
+C00733,Loyal,2026-07-14
+C00734,Occasional,
+C00735,Deal Seeker,
+C00736,Regular,
+C00737,Occasional,2025-11-14
+C00738,Regular,
+C00739,Occasional,2026-01-02
+C00740,Deal Seeker,2026-08-11
+C00741,Loyal,
+C00742,Occasional,2024-10-21
+C00743,Deal Seeker,
+C00744,Occasional,
+C00745,Regular,
+C00746,Loyal,
+C00747,Occasional,2026-04-27
+C00748,Regular,
+C00749,Regular,2026-02-10
+C00750,Regular,
+C00751,Loyal,
+C00752,Regular,2026-03-14
+C00753,Occasional,
+C00754,Deal Seeker,2026-05-02
+C00755,Occasional,2025-09-17
+C00756,Regular,
+C00757,Deal Seeker,
+C00758,Regular,2025-08-08
+C00759,Regular,
+C00760,Regular,
+C00761,Regular,2025-07-11
+C00762,Regular,
+C00763,Occasional,2025-01-21
+C00764,Occasional,2025-03-25
+C00765,Deal Seeker,2024-11-09
+C00766,Occasional,2026-07-02
+C00767,Deal Seeker,2026-02-08
+C00768,Regular,
+C00769,Occasional,2025-01-21
+C00770,Deal Seeker,
+C00771,Deal Seeker,
+C00772,Regular,
+C00773,Regular,
+C00774,Occasional,2025-04-06
+C00775,Occasional,2025-04-30
+C00776,Loyal,
+C00777,Deal Seeker,2026-08-14
+C00778,Regular,
+C00779,Regular,2026-05-29
+C00780,Occasional,2024-11-27
+C00781,Occasional,
+C00782,Regular,
+C00783,Occasional,
+C00784,Regular,2025-08-25
+C00785,Occasional,2024-11-08
+C00786,Regular,2026-08-06
+C00787,Regular,2026-05-04
+C00788,Loyal,
+C00789,Regular,2025-01-16
+C00790,Loyal,
+C00791,Regular,
+C00792,Occasional,
+C00793,Occasional,2025-05-23
+C00794,Regular,
+C00795,Occasional,2026-03-09
+C00796,Regular,
+C00797,Occasional,2025-11-21
+C00798,Occasional,
+C00799,Regular,2025-12-15
+C00800,Occasional,2025-01-27
+C00801,Regular,
+C00802,Deal Seeker,2025-06-01
+C00803,Deal Seeker,2025-11-15
+C00804,Regular,2025-06-14
+C00805,Occasional,2025-12-04
+C00806,Loyal,
+C00807,Occasional,2025-02-10
+C00808,Deal Seeker,
+C00809,Occasional,2025-08-25
+C00810,Regular,
+C00811,Regular,
+C00812,Deal Seeker,2026-03-30
+C00813,Regular,
+C00814,Regular,
+C00815,Regular,2026-06-13
+C00816,Occasional,2025-07-04
+C00817,Loyal,
+C00818,Regular,
+C00819,Occasional,2025-03-23
+C00820,Regular,2026-09-08
+C00821,Regular,
+C00822,Occasional,2024-12-30
+C00823,Regular,
+C00824,Regular,
+C00825,Occasional,2025-10-30
+C00826,Regular,
+C00827,Regular,
+C00828,Deal Seeker,
+C00829,Occasional,2025-03-14
+C00830,Regular,2025-11-14
+C00831,Regular,2025-05-08
+C00832,Occasional,2025-06-24
+C00833,Occasional,
+C00834,Loyal,2026-07-06
+C00835,Loyal,2026-01-15
+C00836,Regular,2025-02-26
+C00837,Deal Seeker,2024-12-31
+C00838,Occasional,2025-07-19
+C00839,Deal Seeker,
+C00840,Occasional,2025-07-11
+C00841,Occasional,2024-11-13
+C00842,Deal Seeker,
+C00843,Occasional,2026-06-19
+C00844,Regular,2025-09-18
+C00845,Loyal,
+C00846,Occasional,
+C00847,Deal Seeker,2025-01-04
+C00848,Regular,
+C00849,Occasional,2025-03-14
+C00850,Regular,2026-01-01
+C00851,Occasional,2025-11-16
+C00852,Loyal,
+C00853,Loyal,
+C00854,Occasional,2025-01-18
+C00855,Occasional,2026-04-10
+C00856,Occasional,2026-01-10
+C00857,Regular,2024-11-02
+C00858,Deal Seeker,2025-02-12
+C00859,Regular,
+C00860,Loyal,
+C00861,Loyal,2024-10-19
+C00862,Loyal,2025-10-14
+C00863,Occasional,2025-02-20
+C00864,Deal Seeker,2024-12-08
+C00865,Regular,2025-03-14
+C00866,Regular,
+C00867,Loyal,
+C00868,Occasional,2026-07-13
+C00869,Regular,
+C00870,Occasional,2026-08-11
+C00871,Regular,2025-06-13
+C00872,Occasional,2025-09-25
+C00873,Occasional,2024-10-21
+C00874,Regular,
+C00875,Regular,2025-12-11
+C00876,Occasional,2025-08-28
+C00877,Occasional,2025-02-13
+C00878,Loyal,
+C00879,Regular,
+C00880,Occasional,
+C00881,Regular,
+C00882,Occasional,2025-05-16
+C00883,Regular,
+C00884,Occasional,2025-03-04
+C00885,Deal Seeker,2025-12-25
+C00886,Loyal,
+C00887,Deal Seeker,
+C00888,Deal Seeker,2025-08-18
+C00889,Regular,
+C00890,Loyal,
+C00891,Occasional,2025-04-11
+C00892,Occasional,2025-11-02
+C00893,Regular,2025-05-15
+C00894,Loyal,
+C00895,Regular,2025-12-05
+C00896,Loyal,
+C00897,Regular,2026-04-14
+C00898,Loyal,2024-11-24
+C00899,Occasional,2026-08-02
+C00900,Occasional,2025-05-21
+C00901,Regular,2026-05-21
+C00902,Occasional,2025-08-19
+C00903,Loyal,
+C00904,Loyal,
+C00905,Regular,2025-06-03
+C00906,Regular,2026-02-03
+C00907,Regular,
+C00908,Occasional,2026-08-26
+C00909,Regular,
+C00910,Occasional,2026-09-11
+C00911,Occasional,2025-09-01
+C00912,Deal Seeker,2025-04-18
+C00913,Loyal,2025-12-20
+C00914,Occasional,2026-06-18
+C00915,Loyal,
+C00916,Regular,2025-09-13
+C00917,Regular,
+C00918,Loyal,2024-11-10
+C00919,Deal Seeker,
+C00920,Regular,
+C00921,Regular,
+C00922,Occasional,2026-05-09
+C00923,Occasional,2025-04-04
+C00924,Deal Seeker,2024-11-18
+C00925,Loyal,2024-11-13
+C00926,Loyal,
+C00927,Regular,2025-07-30
+C00928,Occasional,
+C00929,Occasional,2024-12-31
+C00930,Regular,
+C00931,Loyal,
+C00932,Occasional,2024-11-27
+C00933,Deal Seeker,
+C00934,Regular,2025-01-17
+C00935,Regular,
+C00936,Occasional,2026-09-09
+C00937,Occasional,2026-03-21
+C00938,Occasional,2026-04-03
+C00939,Occasional,2025-11-02
+C00940,Regular,2025-08-22
+C00941,Occasional,
+C00942,Loyal,
+C00943,Loyal,2026-07-29
+C00944,Occasional,2025-11-29
+C00945,Occasional,2024-12-04
+C00946,Deal Seeker,2025-11-01
+C00947,Regular,
+C00948,Occasional,2025-03-21
+C00949,Deal Seeker,2025-10-07
+C00950,Deal Seeker,2024-12-24
+C00951,Regular,2026-04-11
+C00952,Regular,
+C00953,Regular,2025-05-31
+C00954,Regular,
+C00955,Loyal,2025-12-15
+C00956,Loyal,
+C00957,Regular,2026-07-16
+C00958,Regular,2025-07-15
+C00959,Regular,2025-04-27
+C00960,Regular,
+C00961,Regular,2026-01-04
+C00962,Deal Seeker,2026-01-24
+C00963,Loyal,
+C00964,Regular,2026-04-03
+C00965,Occasional,2025-01-02
+C00966,Regular,
+C00967,Regular,
+C00968,Occasional,2025-06-29
+C00969,Deal Seeker,2026-04-13
+C00970,Loyal,2025-04-25
+C00971,Deal Seeker,2026-07-05
+C00972,Regular,2025-11-19
+C00973,Occasional,2025-06-18
+C00974,Occasional,2025-04-14
+C00975,Regular,
+C00976,Regular,2025-02-15
+C00977,Regular,
+C00978,Regular,
+C00979,Regular,2026-05-26
+C00980,Regular,2026-08-15
+C00981,Loyal,
+C00982,Loyal,
+C00983,Occasional,2025-09-07
+C00984,Regular,2026-02-24
+C00985,Regular,
+C00986,Loyal,
+C00987,Occasional,2025-08-01
+C00988,Occasional,2026-02-04
+C00989,Regular,2026-06-23
+C00990,Regular,2024-10-29
+C00991,Occasional,2026-01-18
+C00992,Occasional,2025-08-30
+C00993,Loyal,
+C00994,Regular,
+C00995,Regular,2026-02-01
+C00996,Regular,2026-01-06
+C00997,Occasional,2025-08-11
+C00998,Occasional,2026-07-11
+C00999,Occasional,2025-08-06
+C01000,Occasional,
+C01001,Deal Seeker,2025-12-27
+C01002,Regular,2024-12-02
+C01003,Occasional,
+C01004,Regular,
+C01005,Regular,2026-08-27
+C01006,Occasional,2025-08-07
+C01007,Deal Seeker,2024-12-22
+C01008,Occasional,2025-08-09
+C01009,Deal Seeker,2026-08-17
+C01010,Regular,2025-10-24
+C01011,Loyal,
+C01012,Occasional,2026-07-23
+C01013,Regular,2026-08-26
+C01014,Loyal,
+C01015,Occasional,2025-07-10
+C01016,Deal Seeker,2025-07-13
+C01017,Regular,
+C01018,Regular,
+C01019,Loyal,
+C01020,Deal Seeker,2025-12-18
+C01021,Deal Seeker,
+C01022,Occasional,2025-03-19
+C01023,Regular,
+C01024,Regular,2025-11-15
+C01025,Regular,
+C01026,Loyal,
+C01027,Deal Seeker,2025-04-06
+C01028,Loyal,
+C01029,Loyal,
+C01030,Loyal,2026-05-29
+C01031,Occasional,2025-06-21
+C01032,Regular,
+C01033,Regular,2024-11-02
+C01034,Regular,
+C01035,Regular,2026-09-28
+C01036,Regular,2025-11-13
+C01037,Loyal,
+C01038,Deal Seeker,2025-05-16
+C01039,Deal Seeker,2025-01-29
+C01040,Regular,2026-04-05
+C01041,Occasional,2026-06-27
+C01042,Regular,2026-02-27
+C01043,Loyal,2025-04-02
+C01044,Loyal,
+C01045,Regular,2025-01-05
+C01046,Loyal,
+C01047,Occasional,
+C01048,Occasional,2024-10-12
+C01049,Deal Seeker,2026-03-13
+C01050,Deal Seeker,
+C01051,Regular,
+C01052,Occasional,2025-01-26
+C01053,Occasional,2025-09-17
+C01054,Regular,2025-07-27
+C01055,Regular,2026-07-04
+C01056,Regular,2025-09-25
+C01057,Loyal,2026-08-12
+C01058,Occasional,2026-04-07
+C01059,Occasional,
+C01060,Regular,
+C01061,Occasional,2024-10-19
+C01062,Regular,2025-03-09
+C01063,Occasional,2025-12-14
+C01064,Regular,2026-06-05
+C01065,Loyal,
+C01066,Occasional,2025-02-27
+C01067,Deal Seeker,2024-10-11
+C01068,Regular,2026-03-13
+C01069,Regular,2025-04-07
+C01070,Loyal,
+C01071,Regular,2026-03-19
+C01072,Occasional,2026-08-07
+C01073,Regular,
+C01074,Deal Seeker,2026-05-07
+C01075,Occasional,2026-06-02
+C01076,Deal Seeker,2026-04-15
+C01077,Deal Seeker,2025-02-14
+C01078,Occasional,
+C01079,Regular,
+C01080,Occasional,2026-07-31
+C01081,Regular,2026-08-11
+C01082,Regular,2026-08-11
+C01083,Regular,2026-04-06
+C01084,Loyal,
+C01085,Regular,
+C01086,Loyal,
+C01087,Deal Seeker,2026-04-15
+C01088,Regular,2026-09-18
+C01089,Loyal,
+C01090,Regular,2024-10-19
+C01091,Occasional,2024-10-28
+C01092,Deal Seeker,2026-06-16
+C01093,Regular,2025-05-02
+C01094,Regular,2024-10-30
+C01095,Loyal,
+C01096,Deal Seeker,
+C01097,Loyal,
+C01098,Loyal,2026-01-02
+C01099,Loyal,2026-03-28
+C01100,Occasional,2025-05-30
+C01101,Regular,
+C01102,Occasional,2025-09-17
+C01103,Occasional,2025-06-24
+C01104,Occasional,
+C01105,Loyal,2024-12-11
+C01106,Occasional,
+C01107,Deal Seeker,
+C01108,Occasional,2026-05-13
+C01109,Regular,
+C01110,Loyal,
+C01111,Regular,2025-08-17
+C01112,Regular,
+C01113,Loyal,
+C01114,Loyal,2026-03-16
+C01115,Regular,2025-05-21
+C01116,Occasional,2025-06-02
+C01117,Loyal,2025-02-09
+C01118,Regular,2026-05-23
+C01119,Regular,2025-11-06
+C01120,Occasional,2024-11-06
+C01121,Regular,2026-01-29
+C01122,Loyal,
+C01123,Occasional,2025-01-15
+C01124,Occasional,2025-06-22
+C01125,Loyal,
+C01126,Regular,
+C01127,Deal Seeker,
+C01128,Regular,2025-03-20
+C01129,Occasional,2025-12-31
+C01130,Regular,2026-05-08
+C01131,Occasional,2025-07-03
+C01132,Regular,
+C01133,Regular,2025-03-11
+C01134,Loyal,
+C01135,Occasional,2025-11-28
+C01136,Deal Seeker,2025-01-31
+C01137,Regular,
+C01138,Regular,
+C01139,Occasional,2025-12-02
+C01140,Occasional,
+C01141,Occasional,
+C01142,Loyal,
+C01143,Occasional,2025-02-03
+C01144,Deal Seeker,2026-07-20
+C01145,Occasional,2025-07-14
+C01146,Loyal,
+C01147,Occasional,2025-12-22
+C01148,Regular,
+C01149,Deal Seeker,
+C01150,Occasional,2026-01-16
+C01151,Regular,2024-10-09
+C01152,Regular,
+C01153,Regular,2024-10-31
+C01154,Deal Seeker,
+C01155,Occasional,2025-02-16
+C01156,Occasional,2025-05-11
+C01157,Occasional,2026-05-07
+C01158,Loyal,2025-08-18
+C01159,Occasional,2025-12-02
+C01160,Regular,2025-10-15
+C01161,Loyal,
+C01162,Regular,
+C01163,Regular,
+C01164,Occasional,2025-04-24
+C01165,Deal Seeker,2026-09-15
+C01166,Regular,2026-06-20
+C01167,Occasional,2025-04-06
+C01168,Regular,
+C01169,Occasional,2024-12-11
+C01170,Occasional,2026-05-12
+C01171,Regular,2025-05-19
+C01172,Regular,2025-11-29
+C01173,Regular,2026-04-02
+C01174,Occasional,2025-05-11
+C01175,Occasional,2025-12-14
+C01176,Regular,2024-12-18
+C01177,Regular,2026-06-23
+C01178,Occasional,2025-10-06
+C01179,Regular,
+C01180,Occasional,2025-04-15
+C01181,Deal Seeker,
+C01182,Regular,
+C01183,Deal Seeker,2025-01-24
+C01184,Loyal,
+C01185,Occasional,2025-03-27
+C01186,Occasional,2026-04-02
+C01187,Occasional,2024-12-14
+C01188,Loyal,2025-01-10
+C01189,Regular,
+C01190,Occasional,
+C01191,Loyal,
+C01192,Regular,2024-11-28
+C01193,Occasional,2024-11-26
+C01194,Deal Seeker,2026-08-09
+C01195,Deal Seeker,2026-03-03
+C01196,Occasional,2025-05-24
+C01197,Deal Seeker,
+C01198,Occasional,2024-12-21
+C01199,Occasional,
+C01200,Regular,2025-06-01
+C01201,Occasional,2025-11-14
+C01202,Loyal,
+C01203,Regular,
+C01204,Occasional,2025-04-08
+C01205,Occasional,2026-01-04
+C01206,Loyal,
+C01207,Deal Seeker,
+C01208,Occasional,2025-08-14
+C01209,Regular,
+C01210,Occasional,
+C01211,Loyal,
+C01212,Occasional,2025-10-18
+C01213,Regular,2025-12-07
+C01214,Regular,2025-10-12
+C01215,Regular,
+C01216,Occasional,2025-06-05
+C01217,Occasional,
+C01218,Regular,2026-08-15
+C01219,Occasional,
+C01220,Regular,
+C01221,Regular,2026-08-14
+C01222,Occasional,2026-09-09
+C01223,Occasional,
+C01224,Deal Seeker,
+C01225,Loyal,
+C01226,Deal Seeker,2025-05-11
+C01227,Regular,
+C01228,Loyal,2026-08-07
+C01229,Occasional,2025-07-11
+C01230,Regular,2025-04-26
+C01231,Occasional,2026-05-17
+C01232,Regular,2024-11-20
+C01233,Deal Seeker,2025-03-31
+C01234,Occasional,
+C01235,Regular,
+C01236,Occasional,
+C01237,Loyal,
+C01238,Regular,2025-12-27
+C01239,Occasional,
+C01240,Regular,
+C01241,Regular,2026-01-13
+C01242,Regular,2026-04-13
+C01243,Regular,2026-06-22
+C01244,Occasional,
+C01245,Occasional,2025-10-30
+C01246,Loyal,
+C01247,Regular,2026-03-12
+C01248,Regular,2025-02-24
+C01249,Regular,
+C01250,Deal Seeker,
+C01251,Occasional,2025-09-18
+C01252,Regular,2025-10-30
+C01253,Occasional,2026-03-11
+C01254,Regular,
+C01255,Regular,
+C01256,Occasional,2025-02-08
+C01257,Regular,
+C01258,Regular,
+C01259,Regular,
+C01260,Loyal,
+C01261,Regular,
+C01262,Occasional,2026-09-08
+C01263,Occasional,2025-04-13
+C01264,Deal Seeker,2025-06-22
+C01265,Loyal,
+C01266,Deal Seeker,2025-09-07
+C01267,Loyal,
+C01268,Occasional,
+C01269,Regular,
+C01270,Deal Seeker,
+C01271,Regular,2025-02-04
+C01272,Loyal,
+C01273,Occasional,
+C01274,Occasional,2025-01-25
+C01275,Occasional,2024-10-07
+C01276,Deal Seeker,
+C01277,Occasional,
+C01278,Deal Seeker,2026-09-20
+C01279,Loyal,
+C01280,Regular,2024-12-25
+C01281,Loyal,
+C01282,Occasional,2025-02-11
+C01283,Regular,
+C01284,Occasional,2026-06-23
+C01285,Regular,2026-06-01
+C01286,Deal Seeker,2025-02-12
+C01287,Regular,2025-02-12
+C01288,Loyal,2025-02-27
+C01289,Loyal,
+C01290,Occasional,2025-05-13
+C01291,Occasional,2025-01-03
+C01292,Occasional,2024-12-07
+C01293,Regular,2026-01-17
+C01294,Loyal,2025-02-24
+C01295,Regular,
+C01296,Loyal,
+C01297,Occasional,2024-10-13
+C01298,Occasional,2025-09-17
+C01299,Regular,
+C01300,Loyal,
+C01301,Deal Seeker,2024-12-23
+C01302,Deal Seeker,2025-07-19
+C01303,Regular,2025-09-03
+C01304,Occasional,2024-11-04
+C01305,Regular,
+C01306,Occasional,2025-06-22
+C01307,Loyal,
+C01308,Occasional,2025-04-07
+C01309,Regular,2025-05-20
+C01310,Regular,
+C01311,Occasional,
+C01312,Occasional,2025-07-19
+C01313,Regular,
+C01314,Regular,2025-03-26
+C01315,Regular,
+C01316,Regular,2024-10-25
+C01317,Regular,2026-07-24
+C01318,Regular,
+C01319,Occasional,2025-02-13
+C01320,Deal Seeker,2026-04-07
+C01321,Loyal,
+C01322,Regular,2025-11-14
+C01323,Loyal,
+C01324,Loyal,2026-09-21
+C01325,Regular,2026-09-24
+C01326,Deal Seeker,
+C01327,Deal Seeker,
+C01328,Loyal,2025-08-02
+C01329,Occasional,2024-10-28
+C01330,Loyal,2024-10-24
+C01331,Occasional,2025-07-04
+C01332,Regular,2025-11-02
+C01333,Occasional,2025-11-30
+C01334,Regular,
+C01335,Occasional,2026-05-13
+C01336,Occasional,2025-05-16
+C01337,Deal Seeker,
+C01338,Occasional,2026-04-28
+C01339,Occasional,2026-04-01
+C01340,Regular,2025-04-18
+C01341,Regular,2025-03-25
+C01342,Loyal,2026-07-10
+C01343,Occasional,2025-03-16
+C01344,Loyal,
+C01345,Loyal,
+C01346,Regular,2024-10-18
+C01347,Regular,
+C01348,Deal Seeker,2024-11-15
+C01349,Occasional,
+C01350,Regular,
+C01351,Deal Seeker,
+C01352,Deal Seeker,2026-02-23
+C01353,Occasional,2026-03-15
+C01354,Regular,
+C01355,Regular,2026-06-17
+C01356,Deal Seeker,
+C01357,Occasional,2026-06-08
+C01358,Regular,
+C01359,Regular,
+C01360,Occasional,2025-08-21
+C01361,Regular,
+C01362,Occasional,2025-02-03
+C01363,Deal Seeker,2025-07-03
+C01364,Loyal,
+C01365,Occasional,2026-09-16
+C01366,Deal Seeker,2025-04-17
+C01367,Occasional,
+C01368,Regular,
+C01369,Regular,2025-12-09
+C01370,Regular,
+C01371,Occasional,2026-07-15
+C01372,Occasional,2026-09-24
+C01373,Occasional,2024-12-17
+C01374,Occasional,2025-07-05
+C01375,Occasional,
+C01376,Loyal,
+C01377,Occasional,2026-04-16
+C01378,Deal Seeker,2026-03-02
+C01379,Regular,2025-08-29
+C01380,Occasional,2026-03-22
+C01381,Regular,2024-12-27
+C01382,Regular,2025-03-10
+C01383,Regular,
+C01384,Occasional,2026-09-18
+C01385,Occasional,2026-01-15
+C01386,Occasional,
+C01387,Regular,
+C01388,Regular,2026-02-25
+C01389,Regular,
+C01390,Deal Seeker,2025-03-19
+C01391,Regular,
+C01392,Occasional,2026-07-24
+C01393,Regular,
+C01394,Occasional,
+C01395,Deal Seeker,2024-10-23
+C01396,Regular,2024-10-18
+C01397,Occasional,2024-11-14
+C01398,Regular,2025-12-15
+C01399,Deal Seeker,2025-12-12
+C01400,Deal Seeker,2024-11-17
+C01401,Regular,2025-11-21
+C01402,Regular,2025-11-17
+C01403,Occasional,2026-09-24
+C01404,Deal Seeker,2025-08-09
+C01405,Occasional,2026-04-02
+C01406,Occasional,2024-12-27
+C01407,Occasional,2025-06-25
+C01408,Loyal,
+C01409,Regular,2026-02-01
+C01410,Regular,
+C01411,Loyal,
+C01412,Loyal,2025-04-18
+C01413,Deal Seeker,
+C01414,Occasional,2024-11-16
+C01415,Deal Seeker,
+C01416,Loyal,
+C01417,Regular,2026-07-16
+C01418,Regular,
+C01419,Regular,
+C01420,Occasional,2025-08-19
+C01421,Occasional,2025-01-27
+C01422,Occasional,2025-09-01
+C01423,Deal Seeker,2024-10-20
+C01424,Regular,
+C01425,Deal Seeker,2026-01-05
+C01426,Deal Seeker,2026-06-09
+C01427,Regular,2024-12-12
+C01428,Occasional,2026-09-14
+C01429,Occasional,2026-06-25
+C01430,Regular,
+C01431,Regular,2025-07-20
+C01432,Loyal,2024-10-16
+C01433,Deal Seeker,2026-07-12
+C01434,Regular,
+C01435,Regular,2025-08-26
+C01436,Loyal,2026-07-28
+C01437,Deal Seeker,2026-07-19
+C01438,Regular,2025-05-01
+C01439,Regular,2024-12-09
+C01440,Regular,
+C01441,Regular,2026-04-25
+C01442,Occasional,2026-03-19
+C01443,Regular,2026-07-01
+C01444,Regular,2024-11-07
+C01445,Loyal,2026-07-13
+C01446,Loyal,
+C01447,Occasional,
+C01448,Occasional,
+C01449,Loyal,
+C01450,Occasional,2026-05-05
+C01451,Occasional,2024-12-24
+C01452,Loyal,
+C01453,Occasional,
+C01454,Regular,
+C01455,Occasional,2025-02-25
+C01456,Occasional,2025-09-03
+C01457,Occasional,2026-05-11
+C01458,Loyal,
+C01459,Deal Seeker,2025-01-05
+C01460,Regular,
+C01461,Regular,
+C01462,Deal Seeker,2025-06-25
+C01463,Regular,
+C01464,Deal Seeker,2026-03-22
+C01465,Regular,2025-10-13
+C01466,Deal Seeker,2025-09-24
+C01467,Regular,
+C01468,Deal Seeker,
+C01469,Loyal,
+C01470,Regular,
+C01471,Occasional,2026-02-23
+C01472,Regular,
+C01473,Loyal,
+C01474,Regular,
+C01475,Occasional,2024-10-14
+C01476,Loyal,
+C01477,Loyal,
+C01478,Occasional,2026-03-26
+C01479,Occasional,2026-06-20
+C01480,Occasional,2026-02-16
+C01481,Regular,2025-07-17
+C01482,Occasional,
+C01483,Occasional,2025-07-28
+C01484,Occasional,2025-10-08
+C01485,Occasional,2026-07-28
+C01486,Loyal,
+C01487,Occasional,2025-09-13
+C01488,Regular,2024-11-05
+C01489,Regular,2024-10-17
+C01490,Regular,
+C01491,Loyal,
+C01492,Loyal,
+C01493,Loyal,
+C01494,Regular,
+C01495,Occasional,2025-01-19
+C01496,Regular,
+C01497,Occasional,2024-11-10
+C01498,Deal Seeker,2024-12-07
+C01499,Regular,2025-02-27
+C01500,Regular,
+C01501,Occasional,2026-03-30
+C01502,Loyal,
+C01503,Occasional,2025-02-07
+C01504,Loyal,
+C01505,Deal Seeker,2026-07-16
+C01506,Deal Seeker,
+C01507,Regular,
+C01508,Regular,
+C01509,Occasional,2026-04-29
+C01510,Occasional,2025-07-07
+C01511,Deal Seeker,2026-07-26
+C01512,Deal Seeker,2024-12-24
+C01513,Deal Seeker,2025-10-25
+C01514,Regular,
+C01515,Occasional,
+C01516,Loyal,
+C01517,Occasional,2025-10-03
+C01518,Regular,2024-10-11
+C01519,Occasional,2024-10-11
+C01520,Regular,
+C01521,Deal Seeker,
+C01522,Occasional,2025-05-18
+C01523,Regular,
+C01524,Regular,2024-12-27
+C01525,Loyal,
+C01526,Occasional,2026-07-19
+C01527,Regular,2026-04-26
+C01528,Occasional,2025-08-11
+C01529,Occasional,2025-05-27
+C01530,Regular,2025-07-13
+C01531,Loyal,2024-12-05
+C01532,Occasional,2025-05-16
+C01533,Regular,2026-05-08
+C01534,Regular,2025-04-05
+C01535,Occasional,2025-10-04
+C01536,Deal Seeker,2026-01-27
+C01537,Occasional,2025-07-09
+C01538,Occasional,2026-07-03
+C01539,Occasional,2026-09-03
+C01540,Occasional,2025-05-09
+C01541,Deal Seeker,2024-10-29
+C01542,Regular,
+C01543,Occasional,2024-12-31
+C01544,Loyal,2026-09-26
+C01545,Occasional,2025-03-22
+C01546,Occasional,2025-02-19
+C01547,Occasional,2026-06-24
+C01548,Deal Seeker,
+C01549,Deal Seeker,
+C01550,Loyal,
+C01551,Regular,2026-04-21
+C01552,Occasional,
+C01553,Loyal,2026-02-07
+C01554,Deal Seeker,2025-04-18
+C01555,Deal Seeker,
+C01556,Regular,2026-04-07
+C01557,Loyal,
+C01558,Deal Seeker,
+C01559,Regular,2025-12-06
+C01560,Regular,
+C01561,Loyal,
+C01562,Deal Seeker,2025-03-04
+C01563,Loyal,
+C01564,Occasional,2025-01-23
+C01565,Regular,
+C01566,Regular,
+C01567,Occasional,
+C01568,Occasional,
+C01569,Regular,
+C01570,Regular,2024-12-19
+C01571,Regular,2025-08-25
+C01572,Regular,
+C01573,Occasional,2026-05-30
+C01574,Occasional,
+C01575,Loyal,2026-07-30
+C01576,Occasional,2025-10-29
+C01577,Regular,2026-04-11
+C01578,Regular,
+C01579,Loyal,2025-07-26
+C01580,Loyal,
+C01581,Regular,
+C01582,Regular,
+C01583,Regular,
+C01584,Deal Seeker,
+C01585,Deal Seeker,
+C01586,Occasional,2025-12-18
+C01587,Regular,2024-10-03
+C01588,Regular,2025-11-11
+C01589,Occasional,2026-07-08
+C01590,Loyal,
+C01591,Regular,2025-02-24
+C01592,Regular,
+C01593,Loyal,
+C01594,Regular,2026-08-25
+C01595,Deal Seeker,2025-03-22
+C01596,Regular,
+C01597,Occasional,2026-01-23
+C01598,Occasional,2025-06-18
+C01599,Occasional,2025-01-04
+C01600,Regular,2024-11-12
+C01601,Regular,
+C01602,Occasional,2026-07-17
+C01603,Regular,
+C01604,Loyal,
+C01605,Occasional,2025-06-30
+C01606,Deal Seeker,2025-05-24
+C01607,Occasional,
+C01608,Regular,
+C01609,Deal Seeker,
+C01610,Deal Seeker,2025-06-29
+C01611,Regular,
+C01612,Regular,
+C01613,Regular,2025-12-22
+C01614,Occasional,2024-12-23
+C01615,Loyal,2026-07-14
+C01616,Regular,
+C01617,Occasional,2024-10-23
+C01618,Occasional,
+C01619,Deal Seeker,2024-10-19
+C01620,Loyal,
+C01621,Occasional,
+C01622,Occasional,
+C01623,Regular,2026-09-08
+C01624,Occasional,2025-06-12
+C01625,Occasional,2024-10-24
+C01626,Deal Seeker,
+C01627,Regular,
+C01628,Regular,
+C01629,Regular,2025-02-06
+C01630,Loyal,
+C01631,Occasional,2026-08-17
+C01632,Regular,2024-12-22
+C01633,Occasional,2025-01-29
+C01634,Occasional,2024-10-10
+C01635,Regular,2026-07-13
+C01636,Occasional,2026-07-24
+C01637,Regular,
+C01638,Regular,2025-02-28
+C01639,Regular,
+C01640,Occasional,2024-12-23
+C01641,Occasional,2025-05-07
+C01642,Regular,
+C01643,Loyal,2026-09-20
+C01644,Loyal,
+C01645,Regular,
+C01646,Occasional,2025-06-21
+C01647,Loyal,
+C01648,Occasional,2025-11-29
+C01649,Loyal,2026-09-10
+C01650,Occasional,2026-08-12
+C01651,Regular,2025-05-30
+C01652,Loyal,2026-09-17
+C01653,Deal Seeker,2026-06-28
+C01654,Regular,
+C01655,Deal Seeker,
+C01656,Loyal,
+C01657,Occasional,2025-12-05
+C01658,Deal Seeker,
+C01659,Regular,2025-09-15
+C01660,Occasional,2025-09-17
+C01661,Occasional,2025-03-29
+C01662,Regular,
+C01663,Occasional,2025-09-12
+C01664,Occasional,2026-05-12
+C01665,Deal Seeker,
+C01666,Occasional,2024-10-01
+C01667,Loyal,
+C01668,Loyal,
+C01669,Regular,2025-05-09
+C01670,Occasional,2026-08-21
+C01671,Regular,2026-04-10
+C01672,Occasional,2025-11-04
+C01673,Occasional,2026-09-14
+C01674,Occasional,2026-08-27
+C01675,Occasional,2026-06-13
+C01676,Deal Seeker,2025-05-15
+C01677,Deal Seeker,2025-10-08
+C01678,Loyal,2025-03-24
+C01679,Deal Seeker,
+C01680,Deal Seeker,2026-01-12
+C01681,Regular,
+C01682,Loyal,
+C01683,Regular,
+C01684,Regular,
+C01685,Occasional,2025-05-28
+C01686,Occasional,2025-01-06
+C01687,Regular,
+C01688,Loyal,
+C01689,Loyal,
+C01690,Occasional,2026-01-20
+C01691,Regular,2025-07-24
+C01692,Regular,
+C01693,Regular,2024-12-05
+C01694,Regular,
+C01695,Occasional,2025-06-12
+C01696,Regular,2025-04-12
+C01697,Occasional,
+C01698,Regular,2024-10-28
+C01699,Occasional,2025-01-28
+C01700,Deal Seeker,2024-11-15
+C01701,Regular,2026-08-30
+C01702,Occasional,2025-09-20
+C01703,Regular,2026-04-27
+C01704,Regular,
+C01705,Loyal,
+C01706,Occasional,2026-04-17
+C01707,Deal Seeker,2026-03-25
+C01708,Regular,2025-08-14
+C01709,Regular,2025-11-05
+C01710,Regular,
+C01711,Regular,2026-04-04
+C01712,Deal Seeker,2024-11-01
+C01713,Occasional,2026-06-15
+C01714,Occasional,
+C01715,Occasional,
+C01716,Occasional,2025-07-06
+C01717,Occasional,2025-05-29
+C01718,Deal Seeker,
+C01719,Occasional,
+C01720,Occasional,
+C01721,Occasional,
+C01722,Regular,2024-12-16
+C01723,Deal Seeker,
+C01724,Regular,2025-03-20
+C01725,Occasional,2025-12-24
+C01726,Deal Seeker,
+C01727,Loyal,2025-04-17
+C01728,Regular,2025-03-20
+C01729,Regular,2026-05-05
+C01730,Deal Seeker,2026-09-08
+C01731,Regular,2026-01-14
+C01732,Regular,2025-08-16
+C01733,Loyal,
+C01734,Deal Seeker,2025-08-09
+C01735,Occasional,2025-08-31
+C01736,Occasional,
+C01737,Occasional,
+C01738,Occasional,2025-07-16
+C01739,Occasional,2025-10-26
+C01740,Regular,
+C01741,Deal Seeker,
+C01742,Regular,2025-02-22
+C01743,Regular,
+C01744,Deal Seeker,2026-05-11
+C01745,Regular,
+C01746,Regular,
+C01747,Loyal,
+C01748,Occasional,2025-02-19
+C01749,Occasional,2025-12-18
+C01750,Occasional,2025-01-20
+C01751,Occasional,2025-01-30
+C01752,Deal Seeker,
+C01753,Loyal,
+C01754,Occasional,2025-12-21
+C01755,Occasional,2024-11-27
+C01756,Deal Seeker,
+C01757,Occasional,2026-01-17
+C01758,Regular,
+C01759,Occasional,2024-10-14
+C01760,Occasional,2026-02-06
+C01761,Loyal,
+C01762,Regular,
+C01763,Regular,
+C01764,Deal Seeker,2026-08-04
+C01765,Regular,2026-03-17
+C01766,Regular,2025-01-26
+C01767,Occasional,
+C01768,Occasional,2024-12-13
+C01769,Regular,
+C01770,Loyal,
+C01771,Deal Seeker,
+C01772,Loyal,
+C01773,Deal Seeker,2025-07-07
+C01774,Regular,
+C01775,Regular,2025-08-30
+C01776,Regular,
+C01777,Loyal,
+C01778,Occasional,2025-07-21
+C01779,Occasional,2025-09-24
+C01780,Loyal,
+C01781,Loyal,2025-09-28
+C01782,Occasional,
+C01783,Deal Seeker,2025-09-05
+C01784,Regular,2026-09-26
+C01785,Occasional,
+C01786,Occasional,2025-01-12
+C01787,Loyal,
+C01788,Loyal,
+C01789,Occasional,
+C01790,Occasional,2026-03-18
+C01791,Regular,2025-01-17
+C01792,Occasional,2025-06-07
+C01793,Regular,2025-07-19
+C01794,Regular,
+C01795,Occasional,
+C01796,Regular,
+C01797,Loyal,
+C01798,Regular,2026-08-21
+C01799,Occasional,2025-09-06
+C01800,Loyal,2025-05-16
+C01801,Deal Seeker,
+C01802,Regular,2025-06-17
+C01803,Regular,
+C01804,Regular,2024-11-22
+C01805,Regular,
+C01806,Regular,
+C01807,Regular,2026-06-25
+C01808,Regular,2025-11-24
+C01809,Occasional,
+C01810,Occasional,2025-12-25
+C01811,Regular,
+C01812,Deal Seeker,
+C01813,Regular,
+C01814,Occasional,2026-07-30
+C01815,Occasional,
+C01816,Regular,
+C01817,Occasional,
+C01818,Occasional,
+C01819,Deal Seeker,
+C01820,Occasional,2024-12-02
+C01821,Deal Seeker,2026-06-09
+C01822,Occasional,2025-01-21
+C01823,Occasional,2025-03-25
+C01824,Regular,
+C01825,Occasional,2025-08-28
+C01826,Deal Seeker,2026-03-15
+C01827,Regular,
+C01828,Loyal,
+C01829,Loyal,
+C01830,Loyal,2025-03-17
+C01831,Regular,2025-02-05
+C01832,Loyal,
+C01833,Regular,2026-02-25
+C01834,Occasional,2025-07-25
+C01835,Loyal,2026-02-11
+C01836,Regular,
+C01837,Deal Seeker,2025-07-17
+C01838,Loyal,
+C01839,Loyal,2025-11-04
+C01840,Occasional,
+C01841,Loyal,2026-07-17
+C01842,Occasional,2024-10-15
+C01843,Occasional,
+C01844,Loyal,2026-05-06
+C01845,Occasional,2025-03-29
+C01846,Occasional,2024-12-18
+C01847,Regular,2024-12-02
+C01848,Deal Seeker,2026-07-08
+C01849,Regular,
+C01850,Occasional,2026-08-04
+C01851,Occasional,2025-08-13
+C01852,Loyal,
+C01853,Occasional,2026-09-05
+C01854,Occasional,2026-01-11
+C01855,Regular,2024-10-12
+C01856,Deal Seeker,
+C01857,Occasional,2024-12-09
+C01858,Regular,
+C01859,Occasional,2024-10-08
+C01860,Occasional,
+C01861,Occasional,2025-01-09
+C01862,Deal Seeker,2025-06-08
+C01863,Deal Seeker,2025-11-05
+C01864,Loyal,2026-05-19
+C01865,Occasional,2025-06-07
+C01866,Regular,2025-09-24
+C01867,Regular,
+C01868,Loyal,
+C01869,Loyal,
+C01870,Occasional,2026-04-03
+C01871,Occasional,2025-03-14
+C01872,Loyal,
+C01873,Occasional,
+C01874,Regular,
+C01875,Deal Seeker,2026-09-10
+C01876,Regular,
+C01877,Regular,2025-10-22
+C01878,Loyal,
+C01879,Regular,
+C01880,Loyal,
+C01881,Regular,2026-07-12
+C01882,Regular,
+C01883,Regular,
+C01884,Loyal,
+C01885,Regular,
+C01886,Occasional,2025-07-30
+C01887,Regular,2026-07-21
+C01888,Regular,
+C01889,Occasional,2025-09-28
+C01890,Occasional,2025-06-17
+C01891,Regular,
+C01892,Occasional,
+C01893,Deal Seeker,2026-06-15
+C01894,Occasional,2024-10-12
+C01895,Occasional,2025-10-16
+C01896,Deal Seeker,
+C01897,Regular,2025-05-29
+C01898,Deal Seeker,2025-01-15
+C01899,Loyal,
+C01900,Occasional,2025-03-27
+C01901,Regular,
+C01902,Regular,2025-01-04
+C01903,Loyal,
+C01904,Deal Seeker,2025-02-21
+C01905,Loyal,2026-02-27
+C01906,Loyal,
+C01907,Occasional,2025-05-12
+C01908,Occasional,2024-12-03
+C01909,Regular,
+C01910,Occasional,2025-04-20
+C01911,Occasional,2026-08-27
+C01912,Deal Seeker,2025-03-14
+C01913,Loyal,2026-08-03
+C01914,Occasional,2024-11-23
+C01915,Regular,2025-05-05
+C01916,Deal Seeker,
+C01917,Regular,2025-07-31
+C01918,Loyal,
+C01919,Deal Seeker,2026-07-12
+C01920,Deal Seeker,
+C01921,Loyal,
+C01922,Regular,2025-07-29
+C01923,Loyal,
+C01924,Regular,2024-12-25
+C01925,Loyal,
+C01926,Deal Seeker,2026-05-25
+C01927,Regular,2025-11-24
+C01928,Occasional,2026-09-02
+C01929,Occasional,2025-08-20
+C01930,Deal Seeker,2025-12-12
+C01931,Occasional,2026-01-18
+C01932,Occasional,2026-01-23
+C01933,Loyal,2026-04-18
+C01934,Regular,2025-07-26
+C01935,Occasional,
+C01936,Regular,2025-03-06
+C01937,Loyal,
+C01938,Regular,2026-01-05
+C01939,Occasional,2026-08-05
+C01940,Loyal,2026-05-18
+C01941,Regular,2024-12-16
+C01942,Regular,2025-09-14
+C01943,Loyal,
+C01944,Occasional,2025-03-03
+C01945,Occasional,
+C01946,Deal Seeker,2024-11-21
+C01947,Occasional,2025-02-01
+C01948,Occasional,2025-04-30
+C01949,Occasional,
+C01950,Regular,2025-03-02
+C01951,Occasional,2025-01-25
+C01952,Occasional,2026-03-25
+C01953,Occasional,2025-12-20
+C01954,Loyal,2026-05-06
+C01955,Occasional,2025-01-21
+C01956,Deal Seeker,
+C01957,Regular,
+C01958,Occasional,2025-09-26
+C01959,Regular,
+C01960,Regular,2026-08-25
+C01961,Occasional,2025-04-13
+C01962,Regular,2024-10-14
+C01963,Regular,
+C01964,Loyal,
+C01965,Occasional,2026-07-09
+C01966,Regular,2026-07-21
+C01967,Occasional,2026-01-10
+C01968,Regular,2025-08-16
+C01969,Regular,2026-02-19
+C01970,Loyal,
+C01971,Deal Seeker,2025-08-13
+C01972,Regular,2025-12-14
+C01973,Loyal,
+C01974,Occasional,2025-06-18
+C01975,Occasional,2026-01-24
+C01976,Regular,2025-05-22
+C01977,Occasional,2025-04-05
+C01978,Loyal,2025-02-19
+C01979,Deal Seeker,2025-03-02
+C01980,Loyal,
+C01981,Regular,
+C01982,Occasional,2024-11-16
+C01983,Occasional,
+C01984,Regular,
+C01985,Deal Seeker,2026-09-16
+C01986,Loyal,
+C01987,Occasional,2026-07-16
+C01988,Loyal,
+C01989,Loyal,2026-03-04
+C01990,Loyal,2026-07-18
+C01991,Occasional,
+C01992,Loyal,
+C01993,Occasional,2024-12-12
+C01994,Occasional,2025-09-14
+C01995,Occasional,2026-07-09
+C01996,Regular,
+C01997,Loyal,2026-05-22
+C01998,Regular,2026-06-17
+C01999,Deal Seeker,2026-06-16
+C02000,Regular,
+C02001,Occasional,2026-04-09
+C02002,Loyal,
+C02003,Loyal,2025-04-26
+C02004,Regular,2025-01-16
+C02005,Occasional,2025-11-07
+C02006,Regular,
+C02007,Deal Seeker,
+C02008,Deal Seeker,2025-07-16
+C02009,Loyal,
+C02010,Occasional,2025-03-03
+C02011,Loyal,2025-06-23
+C02012,Regular,
+C02013,Occasional,
+C02014,Regular,2026-06-07
+C02015,Occasional,2024-11-09
+C02016,Occasional,2026-06-05
+C02017,Deal Seeker,
+C02018,Loyal,
+C02019,Deal Seeker,2026-07-31
+C02020,Occasional,2025-11-07
+C02021,Occasional,
+C02022,Occasional,2026-05-01
+C02023,Occasional,
+C02024,Loyal,
+C02025,Regular,
+C02026,Regular,2025-09-05
+C02027,Regular,2025-09-01
+C02028,Regular,
+C02029,Loyal,
+C02030,Occasional,2025-12-12
+C02031,Regular,
+C02032,Occasional,
+C02033,Loyal,
+C02034,Loyal,2026-09-14
+C02035,Loyal,
+C02036,Deal Seeker,
+C02037,Occasional,2025-12-31
+C02038,Deal Seeker,2026-06-29
+C02039,Loyal,
+C02040,Regular,
+C02041,Occasional,2024-12-23
+C02042,Regular,
+C02043,Regular,
+C02044,Regular,
+C02045,Regular,2025-03-03
+C02046,Loyal,2025-04-04
+C02047,Deal Seeker,2025-01-24
+C02048,Occasional,
+C02049,Deal Seeker,2026-07-27
+C02050,Occasional,2026-03-01
+C02051,Loyal,
+C02052,Deal Seeker,2025-07-01
+C02053,Occasional,
+C02054,Deal Seeker,
+C02055,Occasional,2026-01-23
+C02056,Loyal,
+C02057,Deal Seeker,2025-04-26
+C02058,Loyal,
+C02059,Loyal,
+C02060,Regular,
+C02061,Regular,2025-05-04
+C02062,Regular,
+C02063,Occasional,2024-12-02
+C02064,Occasional,2025-05-15
+C02065,Deal Seeker,2026-07-21
+C02066,Occasional,2025-01-15
+C02067,Deal Seeker,
+C02068,Deal Seeker,2025-04-28
+C02069,Occasional,2025-10-22
+C02070,Regular,2026-03-22
+C02071,Loyal,
+C02072,Loyal,
+C02073,Occasional,2026-03-15
+C02074,Deal Seeker,2025-09-06
+C02075,Occasional,2025-03-13
+C02076,Occasional,2024-12-13
+C02077,Deal Seeker,2025-05-25
+C02078,Occasional,2025-04-04
+C02079,Regular,
+C02080,Occasional,
+C02081,Occasional,2025-04-07
+C02082,Deal Seeker,2025-04-08
+C02083,Occasional,2026-01-13
+C02084,Regular,2024-12-23
+C02085,Deal Seeker,2025-04-15
+C02086,Regular,
+C02087,Loyal,
+C02088,Occasional,2025-11-25
+C02089,Regular,
+C02090,Regular,
+C02091,Occasional,2026-07-23
+C02092,Occasional,2026-04-08
+C02093,Regular,2025-08-17
+C02094,Regular,
+C02095,Occasional,2025-06-14
+C02096,Occasional,2026-04-10
+C02097,Loyal,
+C02098,Regular,2024-12-12
+C02099,Occasional,2025-02-21
+C02100,Deal Seeker,
+C02101,Occasional,
+C02102,Occasional,2025-10-16
+C02103,Regular,
+C02104,Regular,
+C02105,Regular,2025-06-26
+C02106,Regular,
+C02107,Occasional,
+C02108,Regular,
+C02109,Occasional,2026-09-03
+C02110,Occasional,
+C02111,Regular,
+C02112,Loyal,
+C02113,Occasional,
+C02114,Deal Seeker,
+C02115,Regular,
+C02116,Regular,
+C02117,Occasional,
+C02118,Loyal,
+C02119,Regular,2026-07-25
+C02120,Deal Seeker,2025-07-11
+C02121,Regular,
+C02122,Occasional,2026-03-27
+C02123,Regular,2025-02-28
+C02124,Deal Seeker,2024-12-21
+C02125,Deal Seeker,2026-01-01
+C02126,Occasional,2024-11-26
+C02127,Deal Seeker,2026-06-02
+C02128,Deal Seeker,
+C02129,Occasional,2025-05-17
+C02130,Occasional,2025-06-07
+C02131,Deal Seeker,2025-05-29
+C02132,Occasional,2025-08-27
+C02133,Occasional,2025-01-02
+C02134,Regular,2026-07-09
+C02135,Occasional,2026-05-23
+C02136,Regular,
+C02137,Regular,2024-10-13
+C02138,Regular,2026-07-06
+C02139,Regular,2025-11-21
+C02140,Loyal,
+C02141,Occasional,2024-12-16
+C02142,Occasional,2024-11-13
+C02143,Occasional,
+C02144,Occasional,2025-03-24
+C02145,Regular,
+C02146,Occasional,
+C02147,Regular,
+C02148,Regular,
+C02149,Regular,2025-05-04
+C02150,Deal Seeker,
+C02151,Occasional,2025-11-27
+C02152,Loyal,
+C02153,Deal Seeker,2026-07-31
+C02154,Regular,
+C02155,Regular,2025-03-15
+C02156,Occasional,
+C02157,Occasional,2025-04-28
+C02158,Loyal,
+C02159,Occasional,2025-12-18
+C02160,Occasional,2025-10-22
+C02161,Deal Seeker,2025-03-22
+C02162,Occasional,2026-08-11
+C02163,Regular,
+C02164,Regular,2026-06-11
+C02165,Regular,2026-02-11
+C02166,Loyal,2025-04-20
+C02167,Regular,
+C02168,Regular,2026-07-19
+C02169,Occasional,
+C02170,Deal Seeker,2025-11-10
+C02171,Deal Seeker,
+C02172,Regular,2026-01-27
+C02173,Regular,2024-12-14
+C02174,Regular,2025-03-10
+C02175,Deal Seeker,2026-08-01
+C02176,Occasional,2025-08-10
+C02177,Occasional,2026-05-21
+C02178,Deal Seeker,2026-08-02
+C02179,Regular,
+C02180,Occasional,2025-09-25
+C02181,Regular,
+C02182,Deal Seeker,
+C02183,Occasional,2026-05-06
+C02184,Loyal,
+C02185,Occasional,2026-05-05
+C02186,Loyal,
+C02187,Regular,
+C02188,Deal Seeker,2026-02-20
+C02189,Occasional,
+C02190,Deal Seeker,
+C02191,Loyal,2026-04-01
+C02192,Deal Seeker,2024-10-22
+C02193,Regular,
+C02194,Regular,
+C02195,Deal Seeker,2025-10-22
+C02196,Loyal,
+C02197,Loyal,
+C02198,Regular,2025-08-06
+C02199,Occasional,
+C02200,Occasional,2025-04-26
+C02201,Deal Seeker,2025-02-15
+C02202,Occasional,2026-02-01
+C02203,Deal Seeker,2025-03-23
+C02204,Deal Seeker,2025-03-15
+C02205,Regular,2026-02-27
+C02206,Occasional,2025-12-30
+C02207,Occasional,
+C02208,Loyal,
+C02209,Occasional,2026-03-10
+C02210,Regular,2026-05-01
+C02211,Loyal,
+C02212,Regular,2025-04-13
+C02213,Loyal,
+C02214,Regular,2025-02-28
+C02215,Loyal,
+C02216,Occasional,
+C02217,Regular,
+C02218,Regular,
+C02219,Deal Seeker,2025-04-04
+C02220,Regular,2025-06-06
+C02221,Regular,2026-07-01
+C02222,Loyal,
+C02223,Occasional,2024-12-06
+C02224,Occasional,2024-12-16
+C02225,Loyal,
+C02226,Deal Seeker,
+C02227,Loyal,2026-07-02
+C02228,Regular,
+C02229,Loyal,2025-03-10
+C02230,Occasional,2025-03-02
+C02231,Deal Seeker,
+C02232,Regular,2025-11-20
+C02233,Occasional,2025-02-12
+C02234,Occasional,
+C02235,Deal Seeker,2025-09-08
+C02236,Occasional,2025-07-25
+C02237,Regular,2025-09-25
+C02238,Loyal,
+C02239,Loyal,
+C02240,Loyal,
+C02241,Loyal,
+C02242,Occasional,2026-05-12
+C02243,Deal Seeker,2026-08-10
+C02244,Occasional,
+C02245,Regular,
+C02246,Regular,
+C02247,Deal Seeker,2025-12-11
+C02248,Loyal,2024-11-20
+C02249,Regular,2026-08-16
+C02250,Regular,2026-06-28
+C02251,Deal Seeker,2025-12-29
+C02252,Occasional,2026-04-06
+C02253,Occasional,2026-01-09
+C02254,Deal Seeker,
+C02255,Regular,
+C02256,Loyal,
+C02257,Deal Seeker,2025-09-07
+C02258,Occasional,2025-09-12
+C02259,Occasional,2024-11-11
+C02260,Regular,
+C02261,Occasional,
+C02262,Deal Seeker,
+C02263,Occasional,
+C02264,Regular,2026-01-12
+C02265,Regular,2026-09-10
+C02266,Occasional,2025-01-17
+C02267,Loyal,
+C02268,Regular,
+C02269,Regular,2026-06-13
+C02270,Loyal,
+C02271,Loyal,
+C02272,Occasional,2026-03-16
+C02273,Occasional,2024-10-26
+C02274,Occasional,2026-05-13
+C02275,Occasional,2025-08-19
+C02276,Loyal,
+C02277,Loyal,
+C02278,Regular,2026-05-20
+C02279,Loyal,2025-02-01
+C02280,Regular,
+C02281,Regular,2026-04-01
+C02282,Deal Seeker,2024-10-03
+C02283,Loyal,
+C02284,Loyal,
+C02285,Deal Seeker,2026-03-02
+C02286,Loyal,
+C02287,Loyal,
+C02288,Loyal,
+C02289,Occasional,2026-03-15
+C02290,Regular,2026-06-05
+C02291,Loyal,2026-04-13
+C02292,Occasional,2026-07-03
+C02293,Occasional,
+C02294,Regular,2026-04-29
+C02295,Loyal,
+C02296,Regular,
+C02297,Occasional,2026-09-30
+C02298,Occasional,2026-07-01
+C02299,Occasional,2025-08-31
+C02300,Regular,2026-09-27
+C02301,Regular,2026-06-18
+C02302,Occasional,2025-10-30
+C02303,Occasional,2026-06-25
+C02304,Occasional,2025-05-18
+C02305,Regular,
+C02306,Deal Seeker,2026-03-30
+C02307,Occasional,2025-08-11
+C02308,Deal Seeker,2024-10-18
+C02309,Loyal,
+C02310,Regular,2025-10-07
+C02311,Occasional,2026-05-11
+C02312,Occasional,
+C02313,Regular,
+C02314,Loyal,
+C02315,Deal Seeker,
+C02316,Regular,2026-07-27
+C02317,Loyal,2025-05-16
+C02318,Loyal,
+C02319,Occasional,
+C02320,Regular,2026-08-27
+C02321,Occasional,2025-11-03
+C02322,Loyal,
+C02323,Regular,
+C02324,Regular,2025-01-13
+C02325,Regular,2025-04-10
+C02326,Regular,
+C02327,Regular,2026-02-24
+C02328,Occasional,2024-11-14
+C02329,Regular,
+C02330,Regular,2025-06-22
+C02331,Deal Seeker,2025-02-15
+C02332,Occasional,2024-11-21
+C02333,Loyal,
+C02334,Regular,
+C02335,Regular,
+C02336,Occasional,2025-03-16
+C02337,Loyal,
+C02338,Occasional,
+C02339,Regular,
+C02340,Regular,2025-10-13
+C02341,Regular,2025-02-15
+C02342,Occasional,2025-02-05
+C02343,Regular,
+C02344,Regular,2025-04-29
+C02345,Occasional,2026-06-04
+C02346,Occasional,2025-01-06
+C02347,Regular,2025-02-10
+C02348,Occasional,
+C02349,Occasional,2025-04-05
+C02350,Occasional,2025-10-23
+C02351,Regular,
+C02352,Deal Seeker,
+C02353,Occasional,2025-10-27
+C02354,Loyal,
+C02355,Occasional,2025-03-13
+C02356,Occasional,2025-02-13
+C02357,Occasional,2025-04-08
+C02358,Regular,2026-08-07
+C02359,Loyal,
+C02360,Occasional,2025-06-08
+C02361,Regular,2026-01-02
+C02362,Occasional,2025-03-22
+C02363,Deal Seeker,
+C02364,Regular,2026-05-05
+C02365,Loyal,
+C02366,Regular,
+C02367,Deal Seeker,2026-09-14
+C02368,Loyal,
+C02369,Deal Seeker,2026-09-08
+C02370,Regular,2026-01-17
+C02371,Occasional,2025-01-10
+C02372,Regular,
+C02373,Occasional,2026-08-30
+C02374,Loyal,2025-05-26
+C02375,Occasional,2026-02-19
+C02376,Occasional,
+C02377,Regular,2025-01-23
+C02378,Regular,
+C02379,Occasional,
+C02380,Regular,
+C02381,Occasional,
+C02382,Regular,2025-06-18
+C02383,Regular,
+C02384,Loyal,
+C02385,Regular,
+C02386,Regular,
+C02387,Loyal,
+C02388,Regular,
+C02389,Loyal,2025-10-18
+C02390,Regular,
+C02391,Loyal,
+C02392,Occasional,2025-04-04
+C02393,Loyal,
+C02394,Occasional,
+C02395,Regular,
+C02396,Regular,
+C02397,Occasional,2026-07-14
+C02398,Loyal,2026-09-11
+C02399,Regular,
+C02400,Regular,2025-09-15
+C02401,Regular,
+C02402,Occasional,2026-06-27
+C02403,Occasional,2025-12-05
+C02404,Regular,
+C02405,Occasional,2026-04-01
+C02406,Occasional,2025-08-23
+C02407,Occasional,
+C02408,Occasional,
+C02409,Loyal,2025-02-20
+C02410,Occasional,2024-10-14
+C02411,Regular,2024-11-16
+C02412,Regular,2026-07-24
+C02413,Regular,
+C02414,Regular,2026-05-06
+C02415,Occasional,2025-07-16
+C02416,Deal Seeker,2025-03-07
+C02417,Deal Seeker,2025-03-21
+C02418,Regular,
+C02419,Regular,2025-12-22
+C02420,Occasional,2025-01-15
+C02421,Occasional,
+C02422,Occasional,
+C02423,Regular,2026-09-01
+C02424,Occasional,2025-11-23
+C02425,Deal Seeker,2026-02-12
+C02426,Loyal,
+C02427,Occasional,2025-08-09
+C02428,Regular,
+C02429,Occasional,2026-09-14
+C02430,Deal Seeker,2025-07-25
+C02431,Deal Seeker,2026-05-13
+C02432,Loyal,
+C02433,Deal Seeker,2024-12-25
+C02434,Regular,2025-08-30
+C02435,Loyal,2024-12-05
+C02436,Regular,2025-03-08
+C02437,Regular,2026-08-16
+C02438,Loyal,
+C02439,Loyal,
+C02440,Deal Seeker,2026-01-10
+C02441,Loyal,
+C02442,Occasional,2026-07-21
+C02443,Regular,
+C02444,Loyal,
+C02445,Occasional,2024-10-17
+C02446,Regular,
+C02447,Loyal,
+C02448,Deal Seeker,2025-10-05
+C02449,Regular,2026-03-31
+C02450,Occasional,2025-07-29
+C02451,Occasional,2026-04-08
+C02452,Occasional,2026-02-10
+C02453,Regular,
+C02454,Regular,2026-06-27
+C02455,Regular,
+C02456,Occasional,2025-06-04
+C02457,Occasional,2024-11-27
+C02458,Occasional,2026-03-09
+C02459,Regular,2024-10-28
+C02460,Deal Seeker,2024-10-05
+C02461,Regular,2026-05-09
+C02462,Loyal,
+C02463,Deal Seeker,2026-01-29
+C02464,Occasional,2026-05-25
+C02465,Occasional,2026-08-27
+C02466,Loyal,
+C02467,Occasional,2024-10-08
+C02468,Occasional,2025-09-16
+C02469,Occasional,2026-02-18
+C02470,Occasional,2026-03-19
+C02471,Regular,2026-03-29
+C02472,Regular,
+C02473,Occasional,2026-06-26
+C02474,Regular,2026-09-19
+C02475,Occasional,2024-12-07
+C02476,Occasional,2026-04-21
+C02477,Loyal,2024-11-09
+C02478,Loyal,2026-08-08
+C02479,Deal Seeker,
+C02480,Loyal,
+C02481,Occasional,2026-04-24
+C02482,Occasional,2025-06-14
+C02483,Deal Seeker,2024-11-16
+C02484,Regular,
+C02485,Loyal,2025-06-23
+C02486,Regular,2025-11-05
+C02487,Occasional,2025-05-03
+C02488,Loyal,
+C02489,Regular,
+C02490,Regular,2025-01-28
+C02491,Deal Seeker,2025-05-03
+C02492,Regular,
+C02493,Loyal,2024-12-21
+C02494,Deal Seeker,
+C02495,Deal Seeker,2024-10-03
+C02496,Occasional,2025-04-25
+C02497,Loyal,
+C02498,Occasional,2024-11-19
+C02499,Deal Seeker,2026-07-26
+C02500,Occasional,
+C02501,Deal Seeker,2024-10-20
+C02502,Regular,2024-12-13
+C02503,Deal Seeker,2025-05-19
+C02504,Loyal,
+C02505,Regular,
+C02506,Deal Seeker,
+C02507,Occasional,2024-11-06
+C02508,Regular,2024-10-25
+C02509,Occasional,2026-05-11
+C02510,Occasional,2025-11-15
+C02511,Occasional,
+C02512,Loyal,
+C02513,Occasional,2025-08-13
+C02514,Occasional,2025-07-12
+C02515,Occasional,2024-10-05
+C02516,Regular,
+C02517,Regular,2025-10-14
+C02518,Regular,2026-05-21
+C02519,Occasional,
+C02520,Regular,2025-10-06
+C02521,Deal Seeker,2026-06-24
+C02522,Occasional,2026-03-09
+C02523,Occasional,2026-08-03
+C02524,Loyal,
+C02525,Occasional,
+C02526,Regular,2025-11-06
+C02527,Loyal,
+C02528,Regular,
+C02529,Occasional,2025-12-11
+C02530,Occasional,
+C02531,Deal Seeker,2026-09-01
+C02532,Regular,
+C02533,Deal Seeker,
+C02534,Regular,2025-01-20
+C02535,Occasional,2025-05-13
+C02536,Loyal,2025-10-08
+C02537,Occasional,
+C02538,Occasional,2026-03-27
+C02539,Regular,2025-06-09
+C02540,Deal Seeker,
+C02541,Regular,
+C02542,Deal Seeker,
+C02543,Regular,
+C02544,Loyal,
+C02545,Occasional,
+C02546,Regular,2025-10-01
+C02547,Regular,
+C02548,Regular,2025-09-27
+C02549,Occasional,
+C02550,Regular,2026-07-02
+C02551,Regular,2026-04-27
+C02552,Occasional,
+C02553,Deal Seeker,2025-01-13
+C02554,Loyal,
+C02555,Regular,2024-12-02
+C02556,Deal Seeker,2024-11-26
+C02557,Occasional,2025-07-08
+C02558,Occasional,2025-12-21
+C02559,Occasional,
+C02560,Regular,2025-01-02
+C02561,Occasional,2025-06-26
+C02562,Occasional,2026-01-23
+C02563,Occasional,2025-12-31
+C02564,Regular,
+C02565,Regular,2026-04-02
+C02566,Occasional,2025-01-05
+C02567,Occasional,2025-01-09
+C02568,Deal Seeker,2026-07-17
+C02569,Regular,
+C02570,Occasional,2025-08-21
+C02571,Regular,2026-08-21
+C02572,Regular,
+C02573,Regular,
+C02574,Deal Seeker,2026-01-23
+C02575,Regular,2024-11-29
+C02576,Regular,2025-05-07
+C02577,Regular,
+C02578,Regular,2025-05-20
+C02579,Occasional,
+C02580,Deal Seeker,
+C02581,Occasional,2026-04-20
+C02582,Deal Seeker,2025-01-23
+C02583,Loyal,2024-11-01
+C02584,Regular,2026-09-08
+C02585,Regular,2025-06-14
+C02586,Occasional,2025-05-26
+C02587,Regular,2024-10-14
+C02588,Regular,2024-12-07
+C02589,Regular,
+C02590,Occasional,2025-02-13
+C02591,Loyal,
+C02592,Regular,
+C02593,Regular,
+C02594,Loyal,
+C02595,Regular,
+C02596,Regular,
+C02597,Deal Seeker,2025-06-21
+C02598,Occasional,2025-11-22
+C02599,Occasional,2025-12-23
+C02600,Deal Seeker,
+C02601,Occasional,
+C02602,Regular,2026-09-20
+C02603,Deal Seeker,
+C02604,Deal Seeker,2026-04-08
+C02605,Occasional,2025-03-27
+C02606,Regular,2026-06-09
+C02607,Occasional,2026-08-09
+C02608,Loyal,
+C02609,Deal Seeker,2024-10-27
+C02610,Regular,2025-11-12
+C02611,Occasional,
+C02612,Regular,
+C02613,Regular,2025-10-13
+C02614,Deal Seeker,
+C02615,Deal Seeker,
+C02616,Occasional,2024-10-24
+C02617,Deal Seeker,2025-12-27
+C02618,Regular,
+C02619,Occasional,2025-08-01
+C02620,Occasional,2026-09-29
+C02621,Occasional,2026-08-17
+C02622,Regular,
+C02623,Loyal,
+C02624,Regular,2025-01-23
+C02625,Regular,2025-10-27
+C02626,Loyal,
+C02627,Occasional,
+C02628,Deal Seeker,2025-12-14
+C02629,Regular,
+C02630,Occasional,2026-04-08
+C02631,Occasional,2026-03-07
+C02632,Occasional,
+C02633,Deal Seeker,2026-09-19
+C02634,Deal Seeker,2025-06-08
+C02635,Loyal,
+C02636,Occasional,2025-04-07
+C02637,Deal Seeker,2026-08-26
+C02638,Occasional,2026-05-25
+C02639,Regular,
+C02640,Occasional,2025-12-18
+C02641,Regular,2026-03-20
+C02642,Regular,
+C02643,Occasional,
+C02644,Loyal,
+C02645,Occasional,2025-01-11
+C02646,Regular,
+C02647,Regular,
+C02648,Regular,
+C02649,Regular,2026-03-22
+C02650,Deal Seeker,2025-08-15
+C02651,Occasional,2025-04-11
+C02652,Deal Seeker,2025-05-07
+C02653,Deal Seeker,
+C02654,Occasional,2024-10-16
+C02655,Loyal,2024-12-18
+C02656,Occasional,2025-05-04
+C02657,Regular,
+C02658,Occasional,2026-07-04
+C02659,Occasional,2025-12-25
+C02660,Loyal,2025-12-23
+C02661,Regular,
+C02662,Loyal,2026-03-12
+C02663,Occasional,
+C02664,Regular,
+C02665,Deal Seeker,2025-09-22
+C02666,Loyal,
+C02667,Regular,
+C02668,Loyal,
+C02669,Loyal,
+C02670,Regular,2025-05-13
+C02671,Loyal,
+C02672,Regular,2025-01-03
+C02673,Occasional,
+C02674,Regular,
+C02675,Loyal,
+C02676,Loyal,
+C02677,Loyal,
+C02678,Occasional,2024-11-26
+C02679,Regular,2025-06-02
+C02680,Occasional,2024-12-26
+C02681,Regular,2025-08-07
+C02682,Occasional,2024-12-06
+C02683,Occasional,2025-07-30
+C02684,Occasional,2024-11-05
+C02685,Occasional,
+C02686,Regular,2025-03-26
+C02687,Loyal,
+C02688,Loyal,
+C02689,Regular,
+C02690,Deal Seeker,
+C02691,Regular,
+C02692,Occasional,
+C02693,Regular,
+C02694,Deal Seeker,
+C02695,Occasional,2026-03-13
+C02696,Loyal,
+C02697,Occasional,2025-03-19
+C02698,Deal Seeker,2026-03-05
+C02699,Regular,
+C02700,Regular,
+C02701,Occasional,2025-11-01
+C02702,Occasional,2025-04-30
+C02703,Occasional,2025-02-12
+C02704,Loyal,
+C02705,Deal Seeker,2026-04-15
+C02706,Loyal,
+C02707,Regular,2024-12-17
+C02708,Occasional,2026-08-31
+C02709,Regular,
+C02710,Deal Seeker,2026-02-01
+C02711,Regular,2025-04-18
+C02712,Regular,
+C02713,Occasional,
+C02714,Occasional,2025-08-09
+C02715,Regular,
+C02716,Loyal,
+C02717,Regular,2026-09-30
+C02718,Regular,2025-05-15
+C02719,Deal Seeker,
+C02720,Deal Seeker,2026-09-12
+C02721,Occasional,2025-01-11
+C02722,Deal Seeker,2025-01-21
+C02723,Regular,2025-06-02
+C02724,Occasional,
+C02725,Regular,
+C02726,Loyal,
+C02727,Loyal,2025-09-30
+C02728,Loyal,
+C02729,Loyal,2026-06-11
+C02730,Deal Seeker,2025-03-30
+C02731,Loyal,
+C02732,Deal Seeker,2025-10-26
+C02733,Deal Seeker,2025-10-04
+C02734,Regular,
+C02735,Regular,2025-01-29
+C02736,Occasional,2026-03-01
+C02737,Regular,
+C02738,Regular,2025-05-21
+C02739,Loyal,
+C02740,Loyal,2024-10-17
+C02741,Occasional,2026-01-02
+C02742,Regular,
+C02743,Occasional,2026-02-23
+C02744,Occasional,2024-10-15
+C02745,Regular,
+C02746,Occasional,2026-09-24
+C02747,Occasional,2025-01-26
+C02748,Occasional,2025-07-15
+C02749,Deal Seeker,2026-03-20
+C02750,Regular,2025-06-15
+C02751,Occasional,2025-01-25
+C02752,Regular,2026-09-16
+C02753,Loyal,
+C02754,Occasional,
+C02755,Loyal,2025-04-04
+C02756,Regular,2025-11-17
+C02757,Occasional,2025-01-29
+C02758,Deal Seeker,2025-03-02
+C02759,Occasional,2024-11-28
+C02760,Deal Seeker,2025-08-22
+C02761,Regular,
+C02762,Regular,2025-11-14
+C02763,Regular,2025-02-12
+C02764,Loyal,
+C02765,Loyal,
+C02766,Regular,
+C02767,Deal Seeker,2025-08-05
+C02768,Loyal,2026-08-14
+C02769,Regular,
+C02770,Deal Seeker,
+C02771,Deal Seeker,
+C02772,Loyal,
+C02773,Occasional,2024-11-24
+C02774,Deal Seeker,2026-05-04
+C02775,Regular,
+C02776,Regular,
+C02777,Occasional,2025-07-25
+C02778,Occasional,2025-08-18
+C02779,Deal Seeker,
+C02780,Regular,
+C02781,Loyal,
+C02782,Deal Seeker,
+C02783,Regular,2026-02-26
+C02784,Occasional,
+C02785,Deal Seeker,2025-12-04
+C02786,Occasional,
+C02787,Regular,2026-07-26
+C02788,Regular,2026-07-16
+C02789,Loyal,
+C02790,Loyal,
+C02791,Occasional,
+C02792,Regular,2025-09-15
+C02793,Regular,
+C02794,Regular,
+C02795,Deal Seeker,2026-04-23
+C02796,Occasional,2025-12-07
+C02797,Occasional,2024-11-05
+C02798,Occasional,2025-05-30
+C02799,Regular,2025-07-26
+C02800,Occasional,2025-07-24
+C02801,Loyal,
+C02802,Loyal,
+C02803,Deal Seeker,2025-02-22
+C02804,Regular,2025-05-25
+C02805,Regular,
+C02806,Loyal,
+C02807,Regular,2025-04-20
+C02808,Deal Seeker,2025-01-28
+C02809,Deal Seeker,2025-11-09
+C02810,Occasional,
+C02811,Regular,
+C02812,Deal Seeker,2025-02-10
+C02813,Occasional,2026-06-25
+C02814,Loyal,
+C02815,Occasional,2026-07-05
+C02816,Regular,
+C02817,Loyal,2026-07-16
+C02818,Regular,2025-10-24
+C02819,Occasional,2024-12-06
+C02820,Occasional,
+C02821,Deal Seeker,2025-03-21
+C02822,Regular,2025-07-01
+C02823,Regular,
+C02824,Deal Seeker,
+C02825,Regular,2026-02-04
+C02826,Occasional,
+C02827,Regular,2026-07-14
+C02828,Occasional,2025-12-14
+C02829,Occasional,
+C02830,Occasional,2026-08-31
+C02831,Regular,
+C02832,Occasional,
+C02833,Occasional,2024-11-17
+C02834,Occasional,2024-11-27
+C02835,Deal Seeker,2024-11-06
+C02836,Regular,
+C02837,Occasional,2026-05-17
+C02838,Occasional,2025-11-15
+C02839,Occasional,2025-08-08
+C02840,Regular,
+C02841,Occasional,
+C02842,Regular,2024-10-22
+C02843,Occasional,2025-02-03
+C02844,Regular,
+C02845,Deal Seeker,2026-05-09
+C02846,Regular,
+C02847,Deal Seeker,2025-12-12
+C02848,Occasional,2025-10-09
+C02849,Occasional,2026-06-14
+C02850,Occasional,
+C02851,Occasional,2026-04-10
+C02852,Occasional,2024-11-17
+C02853,Occasional,
+C02854,Loyal,2025-03-15
+C02855,Regular,
+C02856,Regular,
+C02857,Deal Seeker,2026-05-31
+C02858,Regular,
+C02859,Occasional,2024-12-13
+C02860,Regular,
+C02861,Deal Seeker,
+C02862,Deal Seeker,2025-09-30
+C02863,Occasional,
+C02864,Deal Seeker,2026-03-11
+C02865,Regular,2026-08-03
+C02866,Loyal,
+C02867,Deal Seeker,
+C02868,Regular,2025-01-11
+C02869,Occasional,
+C02870,Deal Seeker,2025-09-02
+C02871,Regular,
+C02872,Occasional,2025-03-17
+C02873,Occasional,2026-07-03
+C02874,Occasional,2025-02-19
+C02875,Occasional,
+C02876,Regular,
+C02877,Regular,
+C02878,Occasional,2025-08-07
+C02879,Deal Seeker,2025-09-21
+C02880,Deal Seeker,2025-11-17
+C02881,Regular,2025-07-13
+C02882,Regular,2026-02-04
+C02883,Regular,2025-09-10
+C02884,Occasional,
+C02885,Occasional,2025-12-18
+C02886,Loyal,
+C02887,Deal Seeker,2026-07-22
+C02888,Regular,2025-07-01
+C02889,Regular,2026-09-07
+C02890,Occasional,2025-04-27
+C02891,Regular,2024-10-10
+C02892,Occasional,2026-03-31
+C02893,Occasional,
+C02894,Deal Seeker,
+C02895,Occasional,2026-08-12
+C02896,Deal Seeker,2025-02-13
+C02897,Regular,2025-02-24
+C02898,Occasional,2025-08-28
+C02899,Regular,2026-03-05
+C02900,Occasional,2025-07-30
+C02901,Occasional,
+C02902,Regular,
+C02903,Occasional,2025-12-23
+C02904,Regular,2026-08-30
+C02905,Deal Seeker,
+C02906,Regular,2024-10-24
+C02907,Regular,2025-04-09
+C02908,Regular,
+C02909,Regular,2025-02-04
+C02910,Regular,
+C02911,Occasional,
+C02912,Regular,
+C02913,Regular,2026-05-22
+C02914,Loyal,2026-01-09
+C02915,Occasional,
+C02916,Deal Seeker,
+C02917,Occasional,
+C02918,Deal Seeker,2025-03-27
+C02919,Regular,2025-04-11
+C02920,Deal Seeker,2024-11-14
+C02921,Loyal,
+C02922,Deal Seeker,2025-03-24
+C02923,Deal Seeker,2024-11-16
+C02924,Deal Seeker,2025-07-13
+C02925,Regular,2026-01-31
+C02926,Loyal,
+C02927,Occasional,2026-01-20
+C02928,Loyal,
+C02929,Occasional,
+C02930,Regular,2026-02-12
+C02931,Loyal,
+C02932,Regular,2024-12-16
+C02933,Loyal,
+C02934,Regular,2025-02-19
+C02935,Regular,
+C02936,Regular,
+C02937,Loyal,2025-05-21
+C02938,Occasional,2025-02-05
+C02939,Occasional,2025-11-29
+C02940,Occasional,
+C02941,Occasional,
+C02942,Occasional,
+C02943,Deal Seeker,2026-06-08
+C02944,Occasional,2025-04-24
+C02945,Occasional,2025-01-11
+C02946,Deal Seeker,2025-05-19
+C02947,Occasional,2025-07-09
+C02948,Regular,2025-06-12
+C02949,Occasional,2024-12-11
+C02950,Occasional,2026-05-26
+C02951,Deal Seeker,
+C02952,Regular,
+C02953,Regular,2024-12-15
+C02954,Loyal,
+C02955,Occasional,2024-10-15
+C02956,Regular,
+C02957,Occasional,2026-03-20
+C02958,Deal Seeker,
+C02959,Deal Seeker,2026-07-28
+C02960,Loyal,
+C02961,Occasional,2025-04-26
+C02962,Occasional,
+C02963,Regular,
+C02964,Regular,
+C02965,Occasional,2026-04-30
+C02966,Regular,
+C02967,Regular,
+C02968,Occasional,2024-10-25
+C02969,Regular,
+C02970,Deal Seeker,
+C02971,Occasional,2025-10-10
+C02972,Deal Seeker,2024-12-04
+C02973,Occasional,2026-08-31
+C02974,Occasional,
+C02975,Occasional,2025-08-12
+C02976,Regular,2025-09-13
+C02977,Deal Seeker,2024-11-13
+C02978,Loyal,
+C02979,Occasional,2025-08-04
+C02980,Regular,
+C02981,Deal Seeker,2025-05-06
+C02982,Regular,
+C02983,Occasional,
+C02984,Regular,2026-05-02
+C02985,Regular,2024-11-04
+C02986,Occasional,2024-10-05
+C02987,Regular,2025-08-16
+C02988,Regular,
+C02989,Occasional,2026-04-09
+C02990,Occasional,2025-04-12
+C02991,Occasional,
+C02992,Regular,2025-02-23
+C02993,Deal Seeker,2026-04-29
+C02994,Regular,
+C02995,Loyal,2025-03-03
+C02996,Occasional,2026-07-25
+C02997,Occasional,
+C02998,Loyal,2025-05-30
+C02999,Occasional,2026-08-06
+C03000,Regular,2026-01-26
+C03001,Regular,2025-06-11
+C03002,Occasional,2025-03-17
+C03003,Regular,
+C03004,Occasional,
+C03005,Deal Seeker,2025-08-24
+C03006,Regular,
+C03007,Regular,
+C03008,Occasional,2025-06-22
+C03009,Occasional,2025-04-14
+C03010,Loyal,
+C03011,Regular,
+C03012,Occasional,2025-10-13
+C03013,Deal Seeker,
+C03014,Occasional,2025-02-16
+C03015,Deal Seeker,2024-11-01
+C03016,Regular,2025-07-13
+C03017,Occasional,
+C03018,Deal Seeker,2024-11-24
+C03019,Regular,2025-10-17
+C03020,Deal Seeker,2025-06-09
+C03021,Regular,
+C03022,Regular,2026-06-18
+C03023,Regular,2024-11-04
+C03024,Loyal,
+C03025,Occasional,2026-08-12
+C03026,Occasional,2025-09-20
+C03027,Occasional,2025-11-03
+C03028,Deal Seeker,2025-02-03
+C03029,Loyal,
+C03030,Occasional,2025-06-22
+C03031,Occasional,2025-11-14
+C03032,Deal Seeker,2025-03-20
+C03033,Loyal,
+C03034,Regular,2025-05-28
+C03035,Regular,
+C03036,Loyal,2025-05-23
+C03037,Occasional,
+C03038,Occasional,2025-05-05
+C03039,Occasional,2025-03-05
+C03040,Deal Seeker,2025-03-21
+C03041,Regular,
+C03042,Loyal,
+C03043,Regular,
+C03044,Deal Seeker,2026-06-13
+C03045,Deal Seeker,2024-11-19
+C03046,Regular,
+C03047,Regular,2025-10-02
+C03048,Regular,2025-01-29
+C03049,Occasional,
+C03050,Occasional,2026-04-03
+C03051,Regular,
+C03052,Regular,2025-05-11
+C03053,Regular,2025-03-06
+C03054,Deal Seeker,2026-08-26
+C03055,Loyal,
+C03056,Regular,
+C03057,Deal Seeker,2025-04-18
+C03058,Occasional,
+C03059,Loyal,
+C03060,Loyal,
+C03061,Deal Seeker,
+C03062,Occasional,2026-05-23
+C03063,Deal Seeker,
+C03064,Deal Seeker,
+C03065,Loyal,
+C03066,Regular,
+C03067,Occasional,2025-03-03
+C03068,Regular,
+C03069,Regular,
+C03070,Deal Seeker,2026-01-26
+C03071,Occasional,2026-03-20
+C03072,Deal Seeker,
+C03073,Regular,2024-10-16
+C03074,Deal Seeker,2026-07-29
+C03075,Regular,
+C03076,Occasional,2026-08-06
+C03077,Occasional,2024-11-03
+C03078,Regular,
+C03079,Occasional,
+C03080,Deal Seeker,
+C03081,Occasional,2025-05-25
+C03082,Regular,2026-01-02
+C03083,Loyal,
+C03084,Loyal,
+C03085,Deal Seeker,
+C03086,Loyal,2025-04-15
+C03087,Loyal,
+C03088,Regular,2026-01-12
+C03089,Loyal,
+C03090,Regular,2025-06-19
+C03091,Loyal,
+C03092,Regular,
+C03093,Occasional,2025-03-02
+C03094,Occasional,
+C03095,Occasional,2026-02-23
+C03096,Regular,
+C03097,Deal Seeker,2025-03-04
+C03098,Occasional,2026-05-30
+C03099,Loyal,2026-02-24
+C03100,Occasional,
+C03101,Deal Seeker,
+C03102,Deal Seeker,2025-09-28
+C03103,Regular,
+C03104,Loyal,2025-01-09
+C03105,Deal Seeker,2025-04-19
+C03106,Regular,
+C03107,Deal Seeker,2025-10-16
+C03108,Occasional,
+C03109,Occasional,2025-01-17
+C03110,Deal Seeker,2025-05-23
+C03111,Deal Seeker,
+C03112,Deal Seeker,2025-04-30
+C03113,Regular,
+C03114,Occasional,2025-01-08
+C03115,Loyal,
+C03116,Deal Seeker,
+C03117,Occasional,2025-05-02
+C03118,Occasional,2025-09-04
+C03119,Loyal,
+C03120,Regular,2026-09-07
+C03121,Loyal,
+C03122,Deal Seeker,2025-03-23
+C03123,Occasional,
+C03124,Loyal,
+C03125,Regular,2025-09-24
+C03126,Loyal,
+C03127,Occasional,2024-12-28
+C03128,Occasional,2026-08-27
+C03129,Loyal,2026-05-13
+C03130,Regular,2024-12-15
+C03131,Loyal,
+C03132,Occasional,2025-11-13
+C03133,Regular,2024-10-01
+C03134,Regular,
+C03135,Loyal,
+C03136,Occasional,2025-06-18
+C03137,Deal Seeker,2024-11-28
+C03138,Regular,2025-10-28
+C03139,Deal Seeker,2025-06-01
+C03140,Regular,
+C03141,Occasional,2024-12-18
+C03142,Occasional,2025-10-01
+C03143,Loyal,
+C03144,Loyal,
+C03145,Regular,
+C03146,Occasional,2025-08-28
+C03147,Regular,
+C03148,Occasional,
+C03149,Occasional,
+C03150,Occasional,2026-07-30
+C03151,Loyal,2025-06-05
+C03152,Occasional,
+C03153,Occasional,2025-10-09
+C03154,Occasional,2025-01-01
+C03155,Regular,2025-04-07
+C03156,Occasional,2026-07-11
+C03157,Loyal,
+C03158,Regular,
+C03159,Regular,2025-10-12
+C03160,Deal Seeker,
+C03161,Occasional,2024-11-10
+C03162,Deal Seeker,
+C03163,Regular,
+C03164,Regular,2026-06-03
+C03165,Occasional,
+C03166,Occasional,2025-12-18
+C03167,Regular,
+C03168,Occasional,
+C03169,Loyal,
+C03170,Deal Seeker,
+C03171,Loyal,
+C03172,Deal Seeker,
+C03173,Occasional,2026-04-18
+C03174,Occasional,
+C03175,Occasional,2026-03-28
+C03176,Loyal,
+C03177,Occasional,2025-12-10
+C03178,Occasional,2025-02-01
+C03179,Regular,2025-06-28
+C03180,Occasional,2025-11-19
+C03181,Deal Seeker,2025-07-05
+C03182,Regular,
+C03183,Occasional,
+C03184,Regular,
+C03185,Regular,2025-06-05
+C03186,Deal Seeker,
+C03187,Regular,2024-10-25
+C03188,Occasional,2026-07-17
+C03189,Loyal,2024-10-28
+C03190,Deal Seeker,
+C03191,Occasional,2025-12-21
+C03192,Loyal,2026-04-21
+C03193,Occasional,2026-05-03
+C03194,Deal Seeker,2026-03-07
+C03195,Regular,
+C03196,Regular,
+C03197,Loyal,2026-08-01
+C03198,Regular,2025-10-14
+C03199,Occasional,
+C03200,Occasional,2026-05-09
+C03201,Regular,
+C03202,Deal Seeker,2025-05-16
+C03203,Regular,
+C03204,Deal Seeker,2025-02-18
+C03205,Deal Seeker,2026-05-15
+C03206,Regular,2026-04-29
+C03207,Occasional,2026-08-29
+C03208,Loyal,2026-08-22
+C03209,Deal Seeker,2025-10-16
+C03210,Deal Seeker,
+C03211,Regular,
+C03212,Deal Seeker,2026-03-09
+C03213,Regular,2026-06-20
+C03214,Occasional,2026-09-19
+C03215,Occasional,2025-01-10
+C03216,Regular,
+C03217,Occasional,
+C03218,Occasional,2025-04-14
+C03219,Deal Seeker,2024-10-13
+C03220,Occasional,2026-01-03
+C03221,Deal Seeker,
+C03222,Regular,2026-03-02
+C03223,Regular,
+C03224,Occasional,2025-02-22
+C03225,Occasional,2025-05-04
+C03226,Regular,2025-08-19
+C03227,Regular,2025-03-07
+C03228,Loyal,2026-07-09
+C03229,Occasional,
+C03230,Loyal,
+C03231,Occasional,
+C03232,Occasional,2026-04-05
+C03233,Regular,
+C03234,Regular,
+C03235,Regular,
+C03236,Occasional,2025-07-08
+C03237,Occasional,2025-04-21
+C03238,Regular,2025-07-09
+C03239,Regular,2025-06-13
+C03240,Occasional,2026-08-20
+C03241,Regular,2026-02-13
+C03242,Loyal,
+C03243,Loyal,
+C03244,Occasional,2026-09-03
+C03245,Occasional,
+C03246,Regular,2024-11-14
+C03247,Loyal,
+C03248,Occasional,2026-08-15
+C03249,Occasional,2025-07-05
+C03250,Occasional,2026-04-27
+C03251,Occasional,2024-11-06
+C03252,Occasional,2026-07-19
+C03253,Loyal,
+C03254,Regular,
+C03255,Regular,
+C03256,Deal Seeker,2024-11-10
+C03257,Regular,
+C03258,Occasional,2025-11-15
+C03259,Loyal,
+C03260,Regular,2026-07-12
+C03261,Regular,2025-06-30
+C03262,Regular,2026-08-05
+C03263,Deal Seeker,
+C03264,Loyal,2025-11-14
+C03265,Occasional,2024-12-08
+C03266,Deal Seeker,2025-01-23
+C03267,Occasional,2025-11-15
+C03268,Regular,
+C03269,Occasional,2025-08-01
+C03270,Occasional,2026-03-04
+C03271,Regular,
+C03272,Regular,
+C03273,Occasional,2026-08-15
+C03274,Occasional,2025-01-16
+C03275,Regular,
+C03276,Deal Seeker,
+C03277,Occasional,2026-05-11
+C03278,Regular,
+C03279,Occasional,2026-03-13
+C03280,Regular,2026-09-24
+C03281,Regular,
+C03282,Deal Seeker,2025-03-03
+C03283,Regular,2025-10-20
+C03284,Occasional,2025-01-26
+C03285,Deal Seeker,
+C03286,Loyal,2025-04-19
+C03287,Regular,2026-07-05
+C03288,Deal Seeker,2025-07-08
+C03289,Loyal,
+C03290,Regular,2024-12-04
+C03291,Deal Seeker,2026-05-22
+C03292,Loyal,
+C03293,Loyal,
+C03294,Regular,2026-04-20
+C03295,Loyal,
+C03296,Loyal,2026-03-30
+C03297,Regular,
+C03298,Regular,
+C03299,Deal Seeker,
+C03300,Deal Seeker,2025-11-15
+C03301,Loyal,
+C03302,Regular,2025-06-20
+C03303,Regular,2024-12-30
+C03304,Regular,2026-09-03
+C03305,Regular,
+C03306,Occasional,2026-03-23
+C03307,Loyal,
+C03308,Deal Seeker,2025-10-09
+C03309,Occasional,2026-07-01
+C03310,Regular,
+C03311,Regular,2024-11-26
+C03312,Occasional,
+C03313,Regular,2026-01-01
+C03314,Regular,2026-02-02
+C03315,Deal Seeker,2025-08-31
+C03316,Loyal,
+C03317,Deal Seeker,
+C03318,Deal Seeker,2026-04-30
+C03319,Regular,2025-04-29
+C03320,Regular,2026-03-17
+C03321,Occasional,
+C03322,Deal Seeker,2026-01-28
+C03323,Regular,
+C03324,Regular,
+C03325,Deal Seeker,2026-07-03
+C03326,Deal Seeker,2026-07-20
+C03327,Occasional,2026-02-26
+C03328,Regular,2025-01-17
+C03329,Regular,2025-01-12
+C03330,Deal Seeker,
+C03331,Regular,2025-08-04
+C03332,Deal Seeker,
+C03333,Occasional,2026-02-12
+C03334,Regular,2024-12-15
+C03335,Loyal,2025-07-12
+C03336,Regular,2024-10-05
+C03337,Occasional,2024-11-28
+C03338,Deal Seeker,2025-09-22
+C03339,Regular,
+C03340,Deal Seeker,2026-05-15
+C03341,Regular,2026-08-12
+C03342,Deal Seeker,2025-03-13
+C03343,Regular,
+C03344,Regular,2025-09-17
+C03345,Occasional,2024-10-09
+C03346,Deal Seeker,
+C03347,Regular,
+C03348,Occasional,2024-12-13
+C03349,Occasional,
+C03350,Deal Seeker,2025-06-02
+C03351,Occasional,2024-12-14
+C03352,Regular,
+C03353,Loyal,
+C03354,Regular,2025-02-11
+C03355,Loyal,
+C03356,Deal Seeker,2026-09-10
+C03357,Regular,
+C03358,Occasional,2024-11-07
+C03359,Regular,
+C03360,Occasional,2025-08-27
+C03361,Occasional,2026-02-14
+C03362,Loyal,2025-11-25
+C03363,Deal Seeker,2026-02-05
+C03364,Regular,2025-12-17
+C03365,Loyal,
+C03366,Loyal,
+C03367,Occasional,2026-03-28
+C03368,Regular,2025-07-07
+C03369,Occasional,2025-02-27
+C03370,Occasional,2026-01-04
+C03371,Loyal,
+C03372,Occasional,2024-11-09
+C03373,Occasional,2025-11-04
+C03374,Regular,
+C03375,Occasional,2025-06-07
+C03376,Regular,
+C03377,Occasional,2026-05-16
+C03378,Loyal,
+C03379,Regular,
+C03380,Loyal,2024-12-18
+C03381,Occasional,
+C03382,Loyal,
+C03383,Occasional,2025-02-22
+C03384,Occasional,2025-03-13
+C03385,Deal Seeker,2024-12-01
+C03386,Occasional,2025-11-10
+C03387,Regular,
+C03388,Regular,2024-10-02
+C03389,Deal Seeker,2025-12-28
+C03390,Occasional,2025-06-22
+C03391,Regular,2026-09-25
+C03392,Deal Seeker,2026-06-01
+C03393,Regular,2025-06-23
+C03394,Loyal,
+C03395,Deal Seeker,
+C03396,Deal Seeker,2024-12-17
+C03397,Occasional,2026-06-24
+C03398,Loyal,
+C03399,Occasional,2024-11-17
+C03400,Occasional,2025-01-27
+C03401,Loyal,
+C03402,Regular,
+C03403,Regular,
+C03404,Deal Seeker,
+C03405,Loyal,
+C03406,Loyal,
+C03407,Regular,
+C03408,Regular,
+C03409,Regular,
+C03410,Regular,
+C03411,Occasional,2026-03-25
+C03412,Regular,2025-11-17
+C03413,Occasional,2024-12-10
+C03414,Regular,2025-08-24
+C03415,Regular,2026-02-22
+C03416,Regular,
+C03417,Loyal,
+C03418,Regular,
+C03419,Deal Seeker,2026-04-06
+C03420,Deal Seeker,2025-06-11
+C03421,Loyal,
+C03422,Deal Seeker,2026-04-06
+C03423,Regular,2026-02-04
+C03424,Regular,2025-03-21
+C03425,Loyal,
+C03426,Regular,2025-12-17
+C03427,Loyal,
+C03428,Regular,
+C03429,Deal Seeker,
+C03430,Deal Seeker,2026-07-24
+C03431,Occasional,2025-06-26
+C03432,Occasional,2025-04-12
+C03433,Regular,
+C03434,Regular,
+C03435,Regular,2026-05-15
+C03436,Occasional,2025-05-28
+C03437,Regular,
+C03438,Occasional,2026-05-03
+C03439,Regular,
+C03440,Loyal,
+C03441,Occasional,2026-02-02
+C03442,Occasional,2025-05-30
+C03443,Deal Seeker,
+C03444,Deal Seeker,
+C03445,Occasional,2025-11-21
+C03446,Occasional,
+C03447,Loyal,2025-09-18
+C03448,Occasional,2025-07-29
+C03449,Loyal,
+C03450,Regular,
+C03451,Loyal,2025-10-27
+C03452,Deal Seeker,
+C03453,Occasional,
+C03454,Regular,2025-10-29
+C03455,Occasional,
+C03456,Regular,
+C03457,Regular,
+C03458,Occasional,
+C03459,Regular,
+C03460,Loyal,
+C03461,Regular,2026-01-23
+C03462,Deal Seeker,2026-08-27
+C03463,Regular,2026-06-01
+C03464,Regular,2026-03-20
+C03465,Loyal,
+C03466,Deal Seeker,2025-08-09
+C03467,Loyal,
+C03468,Occasional,2026-02-03
+C03469,Regular,2026-07-02
+C03470,Loyal,
+C03471,Deal Seeker,2026-06-21
+C03472,Loyal,
+C03473,Loyal,
+C03474,Regular,2025-12-03
+C03475,Loyal,2025-04-08
+C03476,Occasional,2026-04-21
+C03477,Deal Seeker,2025-02-05
+C03478,Loyal,2026-03-18
+C03479,Occasional,2026-05-17
+C03480,Regular,2026-04-25
+C03481,Loyal,
+C03482,Regular,
+C03483,Occasional,2025-09-19
+C03484,Regular,2025-12-07
+C03485,Loyal,
+C03486,Occasional,2025-07-16
+C03487,Occasional,2025-07-16
+C03488,Regular,
+C03489,Loyal,
+C03490,Occasional,
+C03491,Deal Seeker,2025-09-30
+C03492,Deal Seeker,2025-09-17
+C03493,Occasional,2026-09-18
+C03494,Loyal,
+C03495,Regular,
+C03496,Regular,
+C03497,Loyal,
+C03498,Loyal,
+C03499,Occasional,2025-07-07
+C03500,Loyal,
+C03501,Deal Seeker,2026-03-20
+C03502,Regular,
+C03503,Loyal,
+C03504,Regular,
+C03505,Occasional,2026-07-11
+C03506,Regular,2026-02-01
+C03507,Regular,
+C03508,Regular,2026-08-30
+C03509,Regular,
+C03510,Loyal,
+C03511,Deal Seeker,2026-05-11
+C03512,Occasional,2025-08-28
+C03513,Occasional,2025-10-22
+C03514,Occasional,2025-04-29
+C03515,Regular,
+C03516,Occasional,2026-06-22
+C03517,Regular,
+C03518,Regular,
+C03519,Regular,
+C03520,Regular,
+C03521,Deal Seeker,2026-01-05
+C03522,Deal Seeker,2025-06-30
+C03523,Regular,
+C03524,Loyal,
+C03525,Occasional,
+C03526,Loyal,
+C03527,Deal Seeker,2026-05-18
+C03528,Deal Seeker,2026-05-04
+C03529,Regular,
+C03530,Loyal,
+C03531,Occasional,2026-05-29
+C03532,Deal Seeker,2026-05-26
+C03533,Occasional,2026-01-18
+C03534,Occasional,2025-08-27
+C03535,Occasional,2026-01-01
+C03536,Loyal,
+C03537,Occasional,2026-07-18
+C03538,Regular,
+C03539,Deal Seeker,2024-10-12
+C03540,Occasional,
+C03541,Loyal,
+C03542,Regular,2025-04-02
+C03543,Regular,
+C03544,Deal Seeker,
+C03545,Occasional,2026-05-15
+C03546,Occasional,2025-12-06
+C03547,Regular,2025-05-31
+C03548,Occasional,2025-01-07
+C03549,Occasional,2026-04-19
+C03550,Regular,2024-11-23
+C03551,Deal Seeker,2026-05-18
+C03552,Regular,
+C03553,Deal Seeker,
+C03554,Occasional,
+C03555,Deal Seeker,2026-04-24
+C03556,Occasional,2024-10-23
+C03557,Occasional,2024-10-29
+C03558,Occasional,
+C03559,Regular,
+C03560,Loyal,
+C03561,Regular,2025-10-02
+C03562,Regular,2025-02-13
+C03563,Regular,
+C03564,Regular,2026-04-04
+C03565,Regular,
+C03566,Loyal,
+C03567,Occasional,2026-03-19
+C03568,Regular,
+C03569,Regular,
+C03570,Occasional,2026-07-25
+C03571,Loyal,2025-08-25
+C03572,Deal Seeker,
+C03573,Deal Seeker,2026-07-01
+C03574,Occasional,2026-05-07
+C03575,Occasional,
+C03576,Regular,2026-03-21
+C03577,Loyal,2026-03-04
+C03578,Occasional,2025-12-07
+C03579,Loyal,
+C03580,Deal Seeker,2024-10-14
+C03581,Loyal,
+C03582,Occasional,2025-12-31
+C03583,Loyal,2025-02-25
+C03584,Deal Seeker,2026-06-28
+C03585,Loyal,
+C03586,Regular,
+C03587,Loyal,
+C03588,Regular,2024-11-15
+C03589,Occasional,2026-07-20
+C03590,Regular,2026-09-07
+C03591,Regular,2026-07-30
+C03592,Regular,2025-08-17
+C03593,Occasional,
+C03594,Occasional,2025-04-17
+C03595,Occasional,
+C03596,Occasional,2026-07-20
+C03597,Occasional,2026-07-02
+C03598,Occasional,2025-03-15
+C03599,Occasional,2025-03-17
+C03600,Occasional,2025-12-01
+C03601,Occasional,2026-04-08
+C03602,Regular,
+C03603,Regular,
+C03604,Loyal,2026-04-16
+C03605,Deal Seeker,2026-04-25
+C03606,Regular,
+C03607,Loyal,
+C03608,Deal Seeker,
+C03609,Occasional,2026-02-22
+C03610,Deal Seeker,2024-10-05
+C03611,Loyal,
+C03612,Regular,
+C03613,Regular,2025-09-17
+C03614,Regular,2026-03-08
+C03615,Regular,
+C03616,Loyal,
+C03617,Occasional,2025-01-01
+C03618,Loyal,
+C03619,Regular,
+C03620,Regular,2024-12-10
+C03621,Deal Seeker,2025-08-26
+C03622,Occasional,2026-04-19
+C03623,Regular,
+C03624,Regular,
+C03625,Occasional,2024-10-17
+C03626,Occasional,2024-12-08
+C03627,Occasional,2026-01-13
+C03628,Occasional,2025-08-18
+C03629,Regular,2024-11-25
+C03630,Deal Seeker,
+C03631,Deal Seeker,2024-10-27
+C03632,Deal Seeker,
+C03633,Occasional,2026-07-08
+C03634,Loyal,
+C03635,Occasional,2026-04-01
+C03636,Occasional,2025-02-23
+C03637,Regular,
+C03638,Occasional,2025-06-17
+C03639,Loyal,2025-01-19
+C03640,Regular,2026-01-25
+C03641,Loyal,
+C03642,Occasional,2026-05-07
+C03643,Regular,
+C03644,Loyal,
+C03645,Occasional,2026-09-13
+C03646,Occasional,
+C03647,Occasional,2025-10-03
+C03648,Occasional,2025-05-17
+C03649,Regular,2025-07-18
+C03650,Loyal,
+C03651,Regular,2025-05-27
+C03652,Deal Seeker,
+C03653,Regular,2026-03-08
+C03654,Occasional,2025-01-26
+C03655,Occasional,
+C03656,Occasional,
+C03657,Occasional,
+C03658,Occasional,2025-03-06
+C03659,Regular,2025-05-10
+C03660,Loyal,2025-04-22
+C03661,Occasional,2026-04-13
+C03662,Occasional,2024-10-13
+C03663,Deal Seeker,2025-04-22
+C03664,Occasional,2025-08-27
+C03665,Occasional,2025-02-27
+C03666,Occasional,2025-10-08
+C03667,Regular,2024-12-28
+C03668,Occasional,2025-10-05
+C03669,Occasional,2025-12-20
+C03670,Occasional,2025-08-03
+C03671,Regular,2024-10-13
+C03672,Occasional,2026-01-27
+C03673,Occasional,2025-03-10
+C03674,Regular,2025-12-09
+C03675,Regular,2025-07-08
+C03676,Loyal,
+C03677,Loyal,2025-12-28
+C03678,Deal Seeker,
+C03679,Occasional,
+C03680,Regular,
+C03681,Loyal,
+C03682,Loyal,
+C03683,Regular,
+C03684,Occasional,2026-05-07
+C03685,Loyal,
+C03686,Loyal,
+C03687,Occasional,2026-09-22
+C03688,Occasional,2026-03-23
+C03689,Deal Seeker,2026-02-25
+C03690,Deal Seeker,
+C03691,Occasional,2026-05-23
+C03692,Occasional,2024-11-20
+C03693,Deal Seeker,
+C03694,Deal Seeker,2025-07-20
+C03695,Loyal,
+C03696,Occasional,2025-05-21
+C03697,Occasional,2024-10-30
+C03698,Deal Seeker,2026-04-22
+C03699,Regular,
+C03700,Occasional,2025-01-01
+C03701,Deal Seeker,2025-05-24
+C03702,Loyal,2025-08-07
+C03703,Regular,2025-06-28
+C03704,Regular,
+C03705,Deal Seeker,2026-05-28
+C03706,Deal Seeker,
+C03707,Regular,
+C03708,Deal Seeker,2025-01-17
+C03709,Deal Seeker,2025-11-10
+C03710,Regular,2025-08-19
+C03711,Deal Seeker,2026-04-24
+C03712,Loyal,2026-03-23
+C03713,Regular,
+C03714,Occasional,
+C03715,Loyal,
+C03716,Regular,2026-06-06
+C03717,Occasional,
+C03718,Loyal,2025-02-06
+C03719,Occasional,2025-01-21
+C03720,Deal Seeker,2026-03-05
+C03721,Deal Seeker,
+C03722,Occasional,2025-06-18
+C03723,Occasional,
+C03724,Occasional,2024-11-04
+C03725,Loyal,
+C03726,Occasional,2025-07-30
+C03727,Deal Seeker,
+C03728,Deal Seeker,2025-07-27
+C03729,Occasional,2025-02-27
+C03730,Occasional,2026-02-21
+C03731,Occasional,2024-12-04
+C03732,Regular,2025-03-01
+C03733,Regular,
+C03734,Regular,2024-10-25
+C03735,Regular,2026-08-28
+C03736,Regular,
+C03737,Regular,2024-10-09
+C03738,Loyal,
+C03739,Regular,2025-08-15
+C03740,Occasional,2025-03-10
+C03741,Regular,
+C03742,Loyal,2026-05-06
+C03743,Occasional,2024-10-16
+C03744,Occasional,2025-05-22
+C03745,Occasional,2026-01-15
+C03746,Regular,
+C03747,Occasional,2026-02-22
+C03748,Occasional,2026-05-24
+C03749,Regular,
+C03750,Occasional,2025-12-10
+C03751,Regular,2025-08-16
+C03752,Occasional,2026-09-19
+C03753,Regular,2025-05-20
+C03754,Regular,2025-03-01
+C03755,Regular,2026-04-12
+C03756,Regular,
+C03757,Regular,
+C03758,Regular,2025-04-06
+C03759,Occasional,2026-09-24
+C03760,Occasional,2025-10-19
+C03761,Occasional,2025-01-25
+C03762,Regular,
+C03763,Deal Seeker,2025-09-27
+C03764,Regular,2025-12-31
+C03765,Occasional,2026-04-24
+C03766,Regular,
+C03767,Loyal,2026-04-12
+C03768,Regular,2026-06-12
+C03769,Occasional,2025-01-04
+C03770,Deal Seeker,
+C03771,Deal Seeker,2025-09-12
+C03772,Occasional,2025-02-17
+C03773,Deal Seeker,2025-03-09
+C03774,Occasional,2025-06-09
+C03775,Loyal,2026-06-21
+C03776,Regular,2025-10-17
+C03777,Occasional,2025-03-25
+C03778,Regular,2026-07-08
+C03779,Occasional,2025-07-31
+C03780,Regular,
+C03781,Regular,
+C03782,Regular,
+C03783,Regular,2025-02-02
+C03784,Loyal,
+C03785,Regular,2026-06-10
+C03786,Deal Seeker,2025-09-18
+C03787,Deal Seeker,2024-10-29
+C03788,Occasional,
+C03789,Occasional,2025-09-21
+C03790,Occasional,
+C03791,Occasional,2026-06-13
+C03792,Regular,2025-04-30
+C03793,Deal Seeker,2026-04-02
+C03794,Occasional,2026-05-17
+C03795,Occasional,
+C03796,Regular,2025-03-03
+C03797,Regular,2024-11-21
+C03798,Deal Seeker,2026-01-07
+C03799,Deal Seeker,2026-03-09
+C03800,Deal Seeker,2025-05-15
+C03801,Occasional,2025-03-09
+C03802,Loyal,
+C03803,Occasional,2026-03-02
+C03804,Regular,
+C03805,Deal Seeker,2026-07-29
+C03806,Deal Seeker,2025-04-08
+C03807,Occasional,2024-10-28
+C03808,Occasional,
+C03809,Loyal,
+C03810,Regular,2026-08-08
+C03811,Deal Seeker,2025-01-28
+C03812,Occasional,2025-05-22
+C03813,Occasional,2024-12-03
+C03814,Loyal,
+C03815,Loyal,
+C03816,Occasional,2026-08-22
+C03817,Occasional,2025-10-23
+C03818,Regular,
+C03819,Regular,
+C03820,Occasional,2024-10-21
+C03821,Loyal,
+C03822,Regular,2026-05-14
+C03823,Regular,2026-05-18
+C03824,Regular,2026-07-28
+C03825,Loyal,2026-06-30
+C03826,Occasional,2025-05-11
+C03827,Regular,
+C03828,Regular,2025-02-03
+C03829,Loyal,
+C03830,Occasional,2026-06-20
+C03831,Regular,2025-05-26
+C03832,Regular,
+C03833,Deal Seeker,2025-08-30
+C03834,Loyal,2025-08-05
+C03835,Deal Seeker,2024-11-29
+C03836,Regular,
+C03837,Occasional,2026-02-05
+C03838,Deal Seeker,2025-02-03
+C03839,Regular,
+C03840,Occasional,
+C03841,Loyal,
+C03842,Deal Seeker,2026-09-16
+C03843,Loyal,
+C03844,Deal Seeker,2024-11-12
+C03845,Regular,
+C03846,Occasional,2024-11-24
+C03847,Occasional,2026-01-02
+C03848,Occasional,2025-03-14
+C03849,Occasional,2025-07-20
+C03850,Regular,
+C03851,Occasional,2025-12-26
+C03852,Regular,
+C03853,Loyal,
+C03854,Regular,2026-05-05
+C03855,Regular,2024-12-26
+C03856,Deal Seeker,
+C03857,Regular,2026-07-11
+C03858,Loyal,2025-08-20
+C03859,Deal Seeker,2025-12-23
+C03860,Regular,
+C03861,Loyal,
+C03862,Regular,2026-07-05
+C03863,Deal Seeker,2026-04-15
+C03864,Regular,
+C03865,Regular,2024-10-15
+C03866,Deal Seeker,2025-09-22
+C03867,Deal Seeker,
+C03868,Deal Seeker,2024-12-25
+C03869,Loyal,
+C03870,Loyal,
+C03871,Deal Seeker,
+C03872,Occasional,2025-11-23
+C03873,Regular,
+C03874,Regular,
+C03875,Loyal,
+C03876,Occasional,
+C03877,Regular,
+C03878,Deal Seeker,2025-04-06
+C03879,Regular,
+C03880,Occasional,2025-09-19
+C03881,Regular,
+C03882,Regular,
+C03883,Regular,2026-06-05
+C03884,Regular,
+C03885,Deal Seeker,2025-06-26
+C03886,Deal Seeker,2025-01-01
+C03887,Regular,2025-05-01
+C03888,Occasional,2026-05-29
+C03889,Occasional,2025-11-28
+C03890,Loyal,
+C03891,Occasional,
+C03892,Deal Seeker,2025-07-09
+C03893,Occasional,2026-03-07
+C03894,Occasional,2026-09-29
+C03895,Occasional,2024-10-09
+C03896,Regular,2025-07-24
+C03897,Regular,
+C03898,Occasional,
+C03899,Occasional,2026-02-09
+C03900,Occasional,2024-12-27
+C03901,Loyal,
+C03902,Occasional,
+C03903,Regular,2026-08-01
+C03904,Loyal,
+C03905,Occasional,2025-04-23
+C03906,Occasional,2025-01-13
+C03907,Regular,
+C03908,Loyal,
+C03909,Regular,2026-02-06
+C03910,Deal Seeker,
+C03911,Loyal,
+C03912,Regular,
+C03913,Regular,
+C03914,Loyal,2026-06-29
+C03915,Occasional,2026-08-04
+C03916,Regular,2025-08-09
+C03917,Occasional,2026-06-05
+C03918,Regular,2026-04-04
+C03919,Occasional,2026-07-19
+C03920,Occasional,2026-01-21
+C03921,Loyal,
+C03922,Occasional,
+C03923,Deal Seeker,2025-04-24
+C03924,Regular,2026-08-28
+C03925,Regular,2024-11-20
+C03926,Loyal,
+C03927,Loyal,2026-03-02
+C03928,Regular,2025-12-26
+C03929,Regular,
+C03930,Regular,
+C03931,Loyal,
+C03932,Occasional,2026-09-02
+C03933,Regular,2025-05-11
+C03934,Occasional,2025-12-13
+C03935,Regular,2026-04-13
+C03936,Regular,2026-04-25
+C03937,Loyal,
+C03938,Regular,
+C03939,Regular,2025-09-30
+C03940,Regular,
+C03941,Occasional,2026-07-18
+C03942,Loyal,
+C03943,Occasional,
+C03944,Loyal,
+C03945,Regular,
+C03946,Regular,2024-10-22
+C03947,Regular,2026-06-28
+C03948,Loyal,
+C03949,Occasional,2026-07-26
+C03950,Loyal,
+C03951,Occasional,
+C03952,Regular,
+C03953,Loyal,2026-01-13
+C03954,Loyal,
+C03955,Regular,2025-04-30
+C03956,Occasional,2025-04-14
+C03957,Regular,2025-01-23
+C03958,Regular,
+C03959,Occasional,2025-06-15
+C03960,Loyal,
+C03961,Deal Seeker,2025-01-14
+C03962,Loyal,
+C03963,Occasional,2025-01-16
+C03964,Occasional,
+C03965,Regular,2026-02-16
+C03966,Occasional,2025-02-06
+C03967,Occasional,2025-06-08
+C03968,Occasional,2026-03-07
+C03969,Regular,
+C03970,Occasional,2025-08-20
+C03971,Occasional,
+C03972,Loyal,2024-11-02
+C03973,Loyal,
+C03974,Loyal,
+C03975,Occasional,2026-08-28
+C03976,Occasional,2024-10-31
+C03977,Regular,
+C03978,Occasional,2026-04-17
+C03979,Regular,2026-09-02
+C03980,Occasional,2025-11-19
+C03981,Occasional,
+C03982,Occasional,
+C03983,Occasional,
+C03984,Loyal,
+C03985,Regular,
+C03986,Deal Seeker,2026-03-15
+C03987,Regular,2025-10-09
+C03988,Deal Seeker,
+C03989,Regular,2026-03-05
+C03990,Occasional,2025-02-21
+C03991,Occasional,2026-04-01
+C03992,Regular,2026-08-11
+C03993,Occasional,
+C03994,Loyal,
+C03995,Regular,
+C03996,Occasional,2025-01-30
+C03997,Regular,2025-04-23
+C03998,Regular,
+C03999,Occasional,
+C04000,Deal Seeker,2025-02-13
+C04001,Occasional,
+C04002,Regular,2026-02-01
+C04003,Deal Seeker,2025-11-09
+C04004,Regular,2025-01-10
+C04005,Deal Seeker,
+C04006,Regular,2026-05-15
+C04007,Regular,2025-10-17
+C04008,Occasional,2026-09-18
+C04009,Occasional,
+C04010,Occasional,2025-11-27
+C04011,Loyal,
+C04012,Loyal,2025-04-03
+C04013,Occasional,2026-01-07
+C04014,Loyal,
+C04015,Loyal,
+C04016,Regular,
+C04017,Occasional,2026-09-08
+C04018,Regular,2025-12-07
+C04019,Regular,2026-03-13
+C04020,Occasional,2025-05-03
+C04021,Deal Seeker,2025-06-09
+C04022,Occasional,2026-09-06
+C04023,Occasional,
+C04024,Occasional,2025-12-24
+C04025,Loyal,
+C04026,Regular,2025-10-19
+C04027,Occasional,2025-01-04
+C04028,Loyal,
+C04029,Regular,
+C04030,Deal Seeker,2025-12-02
+C04031,Regular,
+C04032,Loyal,
+C04033,Occasional,
+C04034,Regular,2026-05-06
+C04035,Occasional,
+C04036,Occasional,2026-07-19
+C04037,Loyal,
+C04038,Loyal,
+C04039,Occasional,2024-12-14
+C04040,Regular,2025-06-24
+C04041,Occasional,2026-07-13
+C04042,Deal Seeker,2026-01-14
+C04043,Loyal,
+C04044,Occasional,2026-07-15
+C04045,Occasional,2025-12-13
+C04046,Occasional,2026-07-10
+C04047,Regular,2025-01-13
+C04048,Regular,
+C04049,Regular,2026-08-29
+C04050,Deal Seeker,2026-04-08
+C04051,Loyal,
+C04052,Loyal,
+C04053,Loyal,2026-02-15
+C04054,Regular,
+C04055,Regular,2025-03-04
+C04056,Occasional,2026-05-02
+C04057,Regular,2024-11-28
+C04058,Regular,
+C04059,Regular,2025-01-17
+C04060,Regular,
+C04061,Regular,
+C04062,Regular,2025-04-11
+C04063,Regular,2025-04-08
+C04064,Occasional,2026-07-14
+C04065,Occasional,2026-05-06
+C04066,Occasional,
+C04067,Occasional,
+C04068,Occasional,2025-01-23
+C04069,Occasional,2024-10-22
+C04070,Loyal,
+C04071,Loyal,
+C04072,Occasional,2024-12-23
+C04073,Loyal,
+C04074,Loyal,
+C04075,Loyal,
+C04076,Occasional,2025-12-12
+C04077,Regular,2025-06-02
+C04078,Loyal,2024-10-09
+C04079,Occasional,2026-04-07
+C04080,Regular,2026-04-30
+C04081,Regular,2026-09-05
+C04082,Occasional,2026-04-09
+C04083,Regular,2025-02-26
+C04084,Loyal,
+C04085,Regular,2025-06-13
+C04086,Regular,2025-02-16
+C04087,Occasional,2024-10-06
+C04088,Loyal,
+C04089,Occasional,2025-05-10
+C04090,Loyal,
+C04091,Deal Seeker,2026-01-17
+C04092,Regular,
+C04093,Occasional,2024-10-14
+C04094,Occasional,
+C04095,Deal Seeker,2025-11-21
+C04096,Regular,2025-05-02
+C04097,Regular,2025-12-06
+C04098,Occasional,2025-10-15
+C04099,Regular,2025-03-03
+C04100,Loyal,
+C04101,Occasional,2026-05-04
+C04102,Regular,2025-12-22
+C04103,Regular,
+C04104,Regular,
+C04105,Regular,
+C04106,Occasional,2025-08-14
+C04107,Deal Seeker,2025-03-05
+C04108,Occasional,2025-02-16
+C04109,Regular,
+C04110,Occasional,
+C04111,Regular,2025-02-08
+C04112,Regular,2025-06-09
+C04113,Loyal,
+C04114,Deal Seeker,
+C04115,Regular,2025-11-18
+C04116,Regular,2026-09-21
+C04117,Deal Seeker,2025-10-18
+C04118,Occasional,
+C04119,Occasional,2026-09-30
+C04120,Deal Seeker,2026-07-05
+C04121,Loyal,
+C04122,Occasional,2026-07-09
+C04123,Deal Seeker,2025-10-04
+C04124,Loyal,2025-12-07
+C04125,Regular,2025-09-26
+C04126,Regular,
+C04127,Regular,
+C04128,Regular,
+C04129,Regular,
+C04130,Regular,
+C04131,Regular,
+C04132,Regular,2026-03-20
+C04133,Regular,2025-03-29
+C04134,Loyal,2026-09-21
+C04135,Loyal,
+C04136,Occasional,
+C04137,Deal Seeker,2024-12-19
+C04138,Occasional,2025-09-17
+C04139,Occasional,2026-05-06
+C04140,Loyal,
+C04141,Occasional,2026-06-10
+C04142,Deal Seeker,
+C04143,Deal Seeker,2026-03-17
+C04144,Loyal,
+C04145,Loyal,
+C04146,Regular,
+C04147,Loyal,
+C04148,Deal Seeker,2026-02-08
+C04149,Loyal,
+C04150,Regular,
+C04151,Deal Seeker,2025-03-16
+C04152,Deal Seeker,2025-08-13
+C04153,Occasional,2025-03-31
+C04154,Regular,2025-03-27
+C04155,Occasional,2026-07-09
+C04156,Regular,
+C04157,Loyal,
+C04158,Occasional,2024-12-16
+C04159,Loyal,
+C04160,Regular,
+C04161,Deal Seeker,
+C04162,Loyal,
+C04163,Occasional,2025-05-13
+C04164,Regular,2025-08-01
+C04165,Occasional,2025-02-27
+C04166,Regular,
+C04167,Regular,2025-01-17
+C04168,Occasional,2025-05-12
+C04169,Deal Seeker,
+C04170,Loyal,
+C04171,Occasional,2026-01-23
+C04172,Occasional,2026-01-11
+C04173,Occasional,2024-10-05
+C04174,Deal Seeker,2025-08-24
+C04175,Occasional,2025-07-16
+C04176,Regular,
+C04177,Loyal,
+C04178,Regular,2026-03-21
+C04179,Deal Seeker,
+C04180,Occasional,2025-02-13
+C04181,Regular,
+C04182,Occasional,2025-03-10
+C04183,Occasional,2025-10-08
+C04184,Occasional,2024-12-27
+C04185,Regular,
+C04186,Loyal,
+C04187,Occasional,2026-01-29
+C04188,Deal Seeker,2024-11-12
+C04189,Loyal,2024-10-15
+C04190,Occasional,
+C04191,Deal Seeker,2025-01-11
+C04192,Regular,
+C04193,Loyal,
+C04194,Regular,
+C04195,Loyal,
+C04196,Occasional,
+C04197,Regular,
+C04198,Occasional,
+C04199,Regular,2024-12-02
+C04200,Occasional,2026-06-18
+C04201,Regular,2026-03-24
+C04202,Occasional,2024-12-27
+C04203,Regular,2026-03-19
+C04204,Deal Seeker,2025-01-22
+C04205,Occasional,
+C04206,Loyal,
+C04207,Occasional,
+C04208,Regular,2026-03-14
+C04209,Regular,
+C04210,Occasional,2024-10-29
+C04211,Regular,2025-02-25
+C04212,Regular,2026-09-02
+C04213,Loyal,
+C04214,Occasional,2026-09-13
+C04215,Loyal,2025-06-24
+C04216,Loyal,
+C04217,Regular,
+C04218,Loyal,
+C04219,Occasional,2026-09-13
+C04220,Regular,
+C04221,Regular,
+C04222,Loyal,
+C04223,Deal Seeker,2026-07-27
+C04224,Occasional,2025-05-22
+C04225,Loyal,
+C04226,Deal Seeker,
+C04227,Occasional,2026-09-13
+C04228,Loyal,2025-07-01
+C04229,Occasional,
+C04230,Occasional,
+C04231,Regular,
+C04232,Regular,2025-02-07
+C04233,Occasional,2025-10-04
+C04234,Loyal,
+C04235,Regular,2025-06-14
+C04236,Regular,2024-12-06
+C04237,Loyal,2025-08-10
+C04238,Occasional,2026-04-24
+C04239,Loyal,
+C04240,Loyal,
+C04241,Deal Seeker,
+C04242,Loyal,
+C04243,Occasional,2025-04-19
+C04244,Occasional,2024-12-14
+C04245,Regular,2025-10-11
+C04246,Regular,2024-11-11
+C04247,Occasional,2025-06-19
+C04248,Deal Seeker,2026-01-10
+C04249,Occasional,
+C04250,Occasional,2025-11-19
+C04251,Deal Seeker,2026-03-11
+C04252,Occasional,2025-02-22
+C04253,Occasional,2025-02-15
+C04254,Loyal,2026-04-07
+C04255,Regular,
+C04256,Regular,2025-08-09
+C04257,Loyal,
+C04258,Regular,
+C04259,Regular,2026-04-17
+C04260,Regular,
+C04261,Regular,2026-08-29
+C04262,Regular,
+C04263,Regular,2026-07-26
+C04264,Occasional,2026-03-10
+C04265,Loyal,
+C04266,Deal Seeker,2026-06-02
+C04267,Regular,
+C04268,Loyal,
+C04269,Regular,
+C04270,Loyal,
+C04271,Occasional,2026-01-17
+C04272,Regular,2026-05-24
+C04273,Deal Seeker,2026-04-12
+C04274,Loyal,
+C04275,Occasional,2024-12-30
+C04276,Regular,2025-08-08
+C04277,Regular,
+C04278,Deal Seeker,
+C04279,Loyal,
+C04280,Deal Seeker,2024-10-05
+C04281,Regular,
+C04282,Occasional,
+C04283,Regular,2025-02-04
+C04284,Occasional,2025-10-13
+C04285,Occasional,2026-02-19
+C04286,Regular,2026-02-19
+C04287,Deal Seeker,2026-04-22
+C04288,Occasional,2026-09-11
+C04289,Occasional,2025-04-09
+C04290,Loyal,
+C04291,Occasional,2024-10-24
+C04292,Occasional,2025-03-05
+C04293,Regular,
+C04294,Loyal,2026-07-01
+C04295,Regular,
+C04296,Deal Seeker,2024-12-20
+C04297,Regular,2025-01-04
+C04298,Loyal,2024-10-18
+C04299,Loyal,
+C04300,Regular,2025-02-26
+C04301,Loyal,2026-01-24
+C04302,Loyal,
+C04303,Loyal,
+C04304,Occasional,
+C04305,Deal Seeker,
+C04306,Deal Seeker,
+C04307,Loyal,
+C04308,Occasional,2026-03-05
+C04309,Occasional,2025-01-02
+C04310,Loyal,2026-07-18
+C04311,Deal Seeker,
+C04312,Deal Seeker,2025-07-25
+C04313,Regular,
+C04314,Deal Seeker,2025-02-05
+C04315,Occasional,2025-04-26
+C04316,Regular,
+C04317,Loyal,
+C04318,Occasional,2026-08-11
+C04319,Regular,2025-10-03
+C04320,Regular,2025-12-08
+C04321,Occasional,2026-04-12
+C04322,Occasional,2026-07-29
+C04323,Occasional,2025-01-04
+C04324,Regular,2025-07-02
+C04325,Regular,2025-11-21
+C04326,Loyal,2026-09-11
+C04327,Occasional,2025-12-10
+C04328,Occasional,2024-10-22
+C04329,Loyal,2025-09-16
+C04330,Loyal,
+C04331,Regular,2024-11-06
+C04332,Regular,2025-02-21
+C04333,Regular,
+C04334,Occasional,2026-01-21
+C04335,Regular,
+C04336,Regular,2025-11-02
+C04337,Regular,2026-07-21
+C04338,Occasional,2025-12-13
+C04339,Occasional,
+C04340,Occasional,2025-10-27
+C04341,Deal Seeker,2026-05-29
+C04342,Occasional,2025-08-16
+C04343,Regular,2026-09-03
+C04344,Deal Seeker,2025-08-03
+C04345,Occasional,2026-04-05
+C04346,Occasional,2026-03-27
+C04347,Deal Seeker,2024-10-13
+C04348,Deal Seeker,2024-12-04
+C04349,Regular,2025-05-11
+C04350,Loyal,
+C04351,Occasional,
+C04352,Occasional,2024-12-01
+C04353,Regular,
+C04354,Regular,
+C04355,Loyal,2025-05-16
+C04356,Regular,
+C04357,Deal Seeker,2025-08-10
+C04358,Loyal,2026-05-08
+C04359,Occasional,2026-03-29
+C04360,Occasional,2024-10-30
+C04361,Regular,2025-12-09
+C04362,Occasional,2026-04-21
+C04363,Deal Seeker,2026-02-11
+C04364,Deal Seeker,
+C04365,Occasional,2024-12-31
+C04366,Regular,2025-07-10
+C04367,Deal Seeker,
+C04368,Occasional,
+C04369,Deal Seeker,2025-05-31
+C04370,Loyal,
+C04371,Occasional,2025-05-12
+C04372,Deal Seeker,
+C04373,Loyal,
+C04374,Regular,2025-02-07
+C04375,Loyal,
+C04376,Regular,
+C04377,Regular,
+C04378,Occasional,2024-11-06
+C04379,Occasional,2026-01-07
+C04380,Occasional,2026-07-08
+C04381,Regular,2025-09-13
+C04382,Occasional,2025-04-01
+C04383,Regular,2026-08-03
+C04384,Regular,
+C04385,Deal Seeker,
+C04386,Regular,
+C04387,Deal Seeker,2025-09-28
+C04388,Occasional,
+C04389,Deal Seeker,
+C04390,Occasional,
+C04391,Deal Seeker,
+C04392,Regular,
+C04393,Regular,
+C04394,Regular,2024-10-29
+C04395,Deal Seeker,2026-02-27
+C04396,Regular,
+C04397,Deal Seeker,2025-10-27
+C04398,Occasional,
+C04399,Occasional,2025-07-22
+C04400,Regular,
+C04401,Deal Seeker,2025-07-20
+C04402,Occasional,2025-04-12
+C04403,Occasional,
+C04404,Occasional,2026-01-24
+C04405,Loyal,
+C04406,Regular,
+C04407,Regular,2024-11-04
+C04408,Loyal,
+C04409,Occasional,2025-02-17
+C04410,Regular,2026-01-25
+C04411,Loyal,
+C04412,Regular,2026-04-03
+C04413,Deal Seeker,2024-12-26
+C04414,Regular,2026-08-22
+C04415,Regular,2025-06-11
+C04416,Loyal,
+C04417,Loyal,
+C04418,Occasional,2024-11-20
+C04419,Occasional,
+C04420,Occasional,2026-04-25
+C04421,Deal Seeker,
+C04422,Occasional,2026-06-22
+C04423,Regular,
+C04424,Occasional,2025-03-19
+C04425,Occasional,2025-08-09
+C04426,Regular,2024-12-05
+C04427,Deal Seeker,2025-11-10
+C04428,Deal Seeker,
+C04429,Occasional,2024-11-23
+C04430,Regular,
+C04431,Occasional,2026-02-21
+C04432,Regular,2025-12-30
+C04433,Regular,
+C04434,Regular,2025-05-05
+C04435,Occasional,2025-10-13
+C04436,Occasional,2026-03-21
+C04437,Occasional,2026-06-23
+C04438,Regular,2025-01-09
+C04439,Deal Seeker,2025-11-10
+C04440,Regular,2025-01-28
+C04441,Regular,2025-11-13
+C04442,Occasional,2025-02-08
+C04443,Occasional,2026-06-14
+C04444,Loyal,2026-08-27
+C04445,Occasional,2024-10-26
+C04446,Occasional,
+C04447,Regular,
+C04448,Loyal,
+C04449,Regular,
+C04450,Regular,2025-07-22
+C04451,Regular,
+C04452,Loyal,
+C04453,Regular,2025-12-24
+C04454,Regular,2026-05-02
+C04455,Occasional,
+C04456,Occasional,
+C04457,Occasional,2026-05-15
+C04458,Loyal,
+C04459,Loyal,
+C04460,Regular,
+C04461,Regular,
+C04462,Occasional,2026-09-17
+C04463,Occasional,2026-06-20
+C04464,Occasional,2025-06-23
+C04465,Regular,2026-06-02
+C04466,Regular,
+C04467,Regular,2026-04-17
+C04468,Loyal,2025-02-17
+C04469,Occasional,
+C04470,Loyal,
+C04471,Regular,2026-03-21
+C04472,Regular,
+C04473,Regular,2024-10-31
+C04474,Regular,
+C04475,Occasional,2026-01-23
+C04476,Regular,
+C04477,Regular,2025-02-21
+C04478,Occasional,
+C04479,Regular,
+C04480,Loyal,
+C04481,Regular,
+C04482,Deal Seeker,
+C04483,Regular,
+C04484,Loyal,2026-07-13
+C04485,Occasional,2026-01-13
+C04486,Occasional,
+C04487,Loyal,
+C04488,Occasional,2026-08-07
+C04489,Occasional,2025-10-19
+C04490,Occasional,2024-11-02
+C04491,Regular,2026-08-23
+C04492,Deal Seeker,2025-01-10
+C04493,Regular,
+C04494,Occasional,2024-11-28
+C04495,Deal Seeker,2026-09-13
+C04496,Deal Seeker,2026-01-17
+C04497,Occasional,2025-10-26
+C04498,Deal Seeker,2025-06-03
+C04499,Regular,
+C04500,Regular,2026-07-07
+C04501,Regular,
+C04502,Occasional,2025-09-13
+C04503,Regular,
+C04504,Occasional,2024-10-11
+C04505,Loyal,
+C04506,Occasional,2025-11-04
+C04507,Regular,2025-10-19
+C04508,Regular,
+C04509,Deal Seeker,
+C04510,Regular,2024-12-29
+C04511,Occasional,2025-02-18
+C04512,Deal Seeker,
+C04513,Occasional,2024-12-13
+C04514,Loyal,2024-11-18
+C04515,Regular,2025-08-07
+C04516,Deal Seeker,2025-12-12
+C04517,Loyal,
+C04518,Loyal,
+C04519,Deal Seeker,2025-11-04
+C04520,Deal Seeker,
+C04521,Regular,2026-02-11
+C04522,Loyal,2026-04-17
+C04523,Loyal,
+C04524,Occasional,2025-12-25
+C04525,Regular,2025-02-16
+C04526,Loyal,
+C04527,Regular,2025-05-28
+C04528,Regular,
+C04529,Deal Seeker,
+C04530,Occasional,2025-01-04
+C04531,Occasional,2025-08-23
+C04532,Occasional,
+C04533,Deal Seeker,2025-06-13
+C04534,Occasional,2025-08-10
+C04535,Regular,2026-01-25
+C04536,Regular,
+C04537,Loyal,2025-07-31
+C04538,Loyal,
+C04539,Occasional,2026-02-18
+C04540,Occasional,2025-02-19
+C04541,Regular,
+C04542,Occasional,
+C04543,Occasional,2026-09-12
+C04544,Occasional,2026-03-05
+C04545,Deal Seeker,
+C04546,Occasional,2025-09-17
+C04547,Regular,2024-12-20
+C04548,Loyal,
+C04549,Occasional,2026-03-03
+C04550,Deal Seeker,2024-12-25
+C04551,Regular,2026-01-16
+C04552,Regular,2025-05-15
+C04553,Regular,
+C04554,Deal Seeker,2026-08-23
+C04555,Deal Seeker,2025-07-30
+C04556,Occasional,
+C04557,Loyal,
+C04558,Regular,
+C04559,Regular,2026-09-30
+C04560,Deal Seeker,
+C04561,Regular,
+C04562,Loyal,
+C04563,Occasional,2026-07-15
+C04564,Occasional,
+C04565,Occasional,2025-07-05
+C04566,Occasional,
+C04567,Loyal,
+C04568,Occasional,2025-12-03
+C04569,Regular,
+C04570,Loyal,2026-08-26
+C04571,Regular,2025-03-25
+C04572,Occasional,2026-08-10
+C04573,Deal Seeker,2026-03-10
+C04574,Deal Seeker,2025-05-01
+C04575,Occasional,2024-10-17
+C04576,Occasional,2025-10-01
+C04577,Loyal,
+C04578,Regular,
+C04579,Regular,
+C04580,Occasional,2024-10-17
+C04581,Regular,
+C04582,Loyal,
+C04583,Occasional,2025-06-16
+C04584,Loyal,
+C04585,Regular,
+C04586,Regular,
+C04587,Deal Seeker,2025-05-04
+C04588,Loyal,
+C04589,Deal Seeker,2025-05-13
+C04590,Occasional,2026-05-14
+C04591,Deal Seeker,
+C04592,Occasional,
+C04593,Regular,2024-12-24
+C04594,Occasional,2025-07-11
+C04595,Deal Seeker,2025-11-22
+C04596,Occasional,2025-08-13
+C04597,Loyal,
+C04598,Regular,2025-04-03
+C04599,Deal Seeker,2025-05-26
+C04600,Regular,2025-02-18
+C04601,Loyal,
+C04602,Occasional,2025-04-19
+C04603,Loyal,2026-07-19
+C04604,Regular,2024-10-24
+C04605,Regular,
+C04606,Occasional,2025-05-17
+C04607,Regular,2026-08-06
+C04608,Occasional,
+C04609,Occasional,
+C04610,Loyal,2026-07-06
+C04611,Regular,
+C04612,Loyal,
+C04613,Deal Seeker,
+C04614,Loyal,2026-05-05
+C04615,Deal Seeker,
+C04616,Loyal,
+C04617,Regular,2025-07-24
+C04618,Occasional,2026-08-17
+C04619,Loyal,2025-04-07
+C04620,Loyal,
+C04621,Occasional,2024-12-22
+C04622,Regular,
+C04623,Loyal,
+C04624,Occasional,
+C04625,Loyal,
+C04626,Regular,
+C04627,Loyal,
+C04628,Regular,2024-11-12
+C04629,Deal Seeker,
+C04630,Regular,2025-07-29
+C04631,Regular,2025-10-23
+C04632,Regular,
+C04633,Regular,
+C04634,Regular,2026-04-07
+C04635,Deal Seeker,
+C04636,Occasional,2026-07-16
+C04637,Deal Seeker,2025-06-30
+C04638,Occasional,
+C04639,Regular,
+C04640,Deal Seeker,2024-10-11
+C04641,Regular,2026-02-16
+C04642,Deal Seeker,
+C04643,Regular,
+C04644,Deal Seeker,2025-07-23
+C04645,Regular,2024-11-12
+C04646,Occasional,2026-05-15
+C04647,Deal Seeker,2025-05-24
+C04648,Occasional,2026-07-25
+C04649,Occasional,2025-01-11
+C04650,Loyal,
+C04651,Regular,
+C04652,Regular,2025-08-21
+C04653,Deal Seeker,2026-05-30
+C04654,Occasional,2025-02-18
+C04655,Loyal,
+C04656,Occasional,
+C04657,Loyal,
+C04658,Deal Seeker,2026-01-12
+C04659,Regular,2024-12-21
+C04660,Occasional,2025-04-06
+C04661,Occasional,
+C04662,Occasional,2026-07-18
+C04663,Deal Seeker,2026-02-17
+C04664,Regular,2026-06-17
+C04665,Loyal,
+C04666,Regular,2025-01-02
+C04667,Occasional,2026-09-03
+C04668,Regular,
+C04669,Loyal,
+C04670,Loyal,
+C04671,Deal Seeker,2025-08-06
+C04672,Regular,
+C04673,Loyal,
+C04674,Loyal,
+C04675,Occasional,2025-02-25
+C04676,Occasional,2025-12-02
+C04677,Regular,
+C04678,Regular,
+C04679,Regular,
+C04680,Regular,
+C04681,Deal Seeker,2025-01-09
+C04682,Regular,
+C04683,Regular,
+C04684,Occasional,2024-10-22
+C04685,Occasional,2024-12-09
+C04686,Regular,2025-09-20
+C04687,Regular,2025-07-16
+C04688,Occasional,2026-03-10
+C04689,Occasional,
+C04690,Occasional,2026-07-13
+C04691,Deal Seeker,2025-03-12
+C04692,Loyal,
+C04693,Loyal,2025-07-27
+C04694,Loyal,
+C04695,Regular,
+C04696,Occasional,
+C04697,Deal Seeker,2026-04-10
+C04698,Regular,2025-01-27
+C04699,Deal Seeker,2024-12-09
+C04700,Occasional,2025-04-09
+C04701,Loyal,
+C04702,Loyal,
+C04703,Loyal,
+C04704,Deal Seeker,2025-04-22
+C04705,Regular,
+C04706,Regular,
+C04707,Regular,
+C04708,Regular,
+C04709,Regular,
+C04710,Loyal,
+C04711,Regular,
+C04712,Occasional,2024-10-11
+C04713,Deal Seeker,2024-12-22
+C04714,Loyal,
+C04715,Regular,
+C04716,Regular,2025-04-23
+C04717,Deal Seeker,2025-06-11
+C04718,Regular,2026-02-08
+C04719,Regular,2026-07-29
+C04720,Regular,
+C04721,Loyal,
+C04722,Deal Seeker,2025-07-18
+C04723,Regular,2025-07-05
+C04724,Occasional,
+C04725,Regular,
+C04726,Loyal,
+C04727,Occasional,2025-09-07
+C04728,Occasional,
+C04729,Occasional,2024-10-20
+C04730,Regular,2024-12-20
+C04731,Occasional,2025-01-12
+C04732,Occasional,2025-07-10
+C04733,Occasional,
+C04734,Deal Seeker,2025-07-03
+C04735,Loyal,
+C04736,Occasional,
+C04737,Loyal,
+C04738,Occasional,2026-06-05
+C04739,Loyal,
+C04740,Regular,
+C04741,Occasional,2026-02-22
+C04742,Regular,
+C04743,Loyal,
+C04744,Regular,2026-02-22
+C04745,Occasional,2025-02-03
+C04746,Loyal,2024-10-14
+C04747,Occasional,2025-03-20
+C04748,Regular,
+C04749,Loyal,2024-10-31
+C04750,Regular,
+C04751,Loyal,
+C04752,Occasional,2026-03-13
+C04753,Regular,
+C04754,Regular,
+C04755,Regular,2025-04-15
+C04756,Occasional,2025-10-21
+C04757,Loyal,
+C04758,Deal Seeker,2025-01-16
+C04759,Loyal,
+C04760,Occasional,2026-04-01
+C04761,Regular,
+C04762,Occasional,2025-07-21
+C04763,Occasional,2026-09-01
+C04764,Loyal,
+C04765,Loyal,2026-09-04
+C04766,Deal Seeker,2026-06-08
+C04767,Loyal,2026-07-30
+C04768,Occasional,2026-03-09
+C04769,Occasional,
+C04770,Occasional,2025-02-09
+C04771,Loyal,2026-07-04
+C04772,Occasional,2025-12-31
+C04773,Occasional,2025-05-04
+C04774,Regular,2025-10-12
+C04775,Loyal,
+C04776,Loyal,
+C04777,Loyal,
+C04778,Regular,2026-06-27
+C04779,Deal Seeker,
+C04780,Occasional,2026-02-25
+C04781,Regular,2025-03-03
+C04782,Regular,2025-01-24
+C04783,Loyal,2025-09-29
+C04784,Occasional,2026-01-13
+C04785,Regular,2025-06-12
+C04786,Regular,2026-08-26
+C04787,Regular,2026-05-01
+C04788,Occasional,2026-04-29
+C04789,Regular,2026-03-12
+C04790,Regular,2026-02-27
+C04791,Regular,2026-07-25
+C04792,Loyal,
+C04793,Deal Seeker,
+C04794,Occasional,2025-01-21
+C04795,Occasional,2026-03-13
+C04796,Loyal,
+C04797,Occasional,2025-08-11
+C04798,Loyal,
+C04799,Loyal,2026-08-31
+C04800,Loyal,
+C04801,Regular,
+C04802,Occasional,2026-06-01
+C04803,Occasional,
+C04804,Regular,2026-04-05
+C04805,Occasional,2024-10-02
+C04806,Deal Seeker,2025-09-28
+C04807,Regular,2025-10-07
+C04808,Regular,2025-08-23
+C04809,Deal Seeker,2025-01-17
+C04810,Regular,2025-02-08
+C04811,Regular,2026-01-02
+C04812,Regular,
+C04813,Regular,
+C04814,Occasional,
+C04815,Loyal,
+C04816,Loyal,
+C04817,Occasional,
+C04818,Occasional,2025-01-05
+C04819,Loyal,2026-02-17
+C04820,Deal Seeker,2025-10-11
+C04821,Regular,
+C04822,Regular,
+C04823,Occasional,2025-01-07
+C04824,Deal Seeker,2025-12-07
+C04825,Occasional,
+C04826,Occasional,2026-02-25
+C04827,Regular,
+C04828,Regular,2026-04-17
+C04829,Deal Seeker,
+C04830,Regular,2026-04-28
+C04831,Deal Seeker,2026-02-15
+C04832,Regular,
+C04833,Occasional,2025-05-30
+C04834,Occasional,2025-08-13
+C04835,Occasional,
+C04836,Loyal,2025-07-06
+C04837,Deal Seeker,
+C04838,Occasional,2026-05-05
+C04839,Loyal,
+C04840,Loyal,
+C04841,Deal Seeker,2025-06-25
+C04842,Deal Seeker,
+C04843,Loyal,
+C04844,Occasional,2024-12-28
+C04845,Regular,2024-11-22
+C04846,Deal Seeker,
+C04847,Regular,
+C04848,Occasional,2024-11-09
+C04849,Regular,2024-10-11
+C04850,Deal Seeker,2026-08-22
+C04851,Occasional,2024-12-08
+C04852,Regular,2026-09-07
+C04853,Occasional,2024-12-01
+C04854,Deal Seeker,2025-04-01
+C04855,Regular,2026-09-14
+C04856,Deal Seeker,2024-10-17
+C04857,Occasional,2026-03-18
+C04858,Loyal,2025-01-27
+C04859,Occasional,2025-02-02
+C04860,Occasional,2026-05-13
+C04861,Occasional,2026-04-20
+C04862,Deal Seeker,2026-07-18
+C04863,Regular,2025-04-02
+C04864,Occasional,2026-08-05
+C04865,Deal Seeker,2025-01-29
+C04866,Regular,2026-03-14
+C04867,Loyal,
+C04868,Occasional,
+C04869,Occasional,2024-11-25
+C04870,Regular,
+C04871,Deal Seeker,
+C04872,Occasional,2025-09-22
+C04873,Occasional,2024-10-06
+C04874,Deal Seeker,2026-09-09
+C04875,Deal Seeker,2026-03-31
+C04876,Regular,
+C04877,Deal Seeker,2025-11-08
+C04878,Occasional,
+C04879,Deal Seeker,2026-07-24
+C04880,Loyal,
+C04881,Occasional,
+C04882,Regular,2024-12-11
+C04883,Loyal,
+C04884,Deal Seeker,2025-08-17
+C04885,Loyal,
+C04886,Occasional,
+C04887,Occasional,
+C04888,Regular,
+C04889,Regular,
+C04890,Regular,2024-10-27
+C04891,Occasional,
+C04892,Occasional,2024-10-12
+C04893,Loyal,2024-12-25
+C04894,Regular,
+C04895,Regular,
+C04896,Occasional,2025-02-15
+C04897,Deal Seeker,2026-06-10
+C04898,Occasional,2024-10-05
+C04899,Regular,
+C04900,Occasional,2024-10-09
+C04901,Regular,
+C04902,Occasional,2026-02-16
+C04903,Regular,2026-09-24
+C04904,Regular,2025-12-26
+C04905,Loyal,
+C04906,Regular,2026-04-24
+C04907,Occasional,2026-07-19
+C04908,Occasional,
+C04909,Regular,
+C04910,Occasional,2026-07-23
+C04911,Deal Seeker,2025-07-09
+C04912,Occasional,2024-10-25
+C04913,Regular,
+C04914,Occasional,
+C04915,Regular,2026-08-04
+C04916,Occasional,2026-04-20
+C04917,Loyal,
+C04918,Regular,
+C04919,Regular,2026-03-18
+C04920,Regular,
+C04921,Occasional,2026-04-26
+C04922,Regular,
+C04923,Occasional,2024-10-02
+C04924,Regular,2026-08-23
+C04925,Occasional,
+C04926,Occasional,2024-11-07
+C04927,Deal Seeker,2024-12-25
+C04928,Regular,2025-06-26
+C04929,Loyal,
+C04930,Occasional,2025-01-19
+C04931,Regular,2026-09-28
+C04932,Regular,2025-04-06
+C04933,Deal Seeker,2024-12-07
+C04934,Loyal,
+C04935,Occasional,2025-01-05
+C04936,Loyal,
+C04937,Occasional,
+C04938,Loyal,
+C04939,Occasional,2025-03-15
+C04940,Occasional,
+C04941,Occasional,2024-11-30
+C04942,Occasional,2024-11-30
+C04943,Deal Seeker,2026-08-31
+C04944,Loyal,
+C04945,Occasional,2025-12-22
+C04946,Regular,2025-06-24
+C04947,Loyal,
+C04948,Occasional,2025-12-29
+C04949,Regular,
+C04950,Loyal,2025-08-23
+C04951,Deal Seeker,
+C04952,Regular,2026-01-10
+C04953,Regular,
+C04954,Deal Seeker,2025-06-05
+C04955,Occasional,
+C04956,Regular,
+C04957,Occasional,2026-01-08
+C04958,Occasional,2025-04-17
+C04959,Deal Seeker,2025-06-18
+C04960,Occasional,2025-03-01
+C04961,Regular,
+C04962,Deal Seeker,
+C04963,Regular,
+C04964,Regular,2025-01-17
+C04965,Regular,2025-11-18
+C04966,Regular,2024-12-27
+C04967,Regular,
+C04968,Occasional,2025-10-30
+C04969,Loyal,
+C04970,Deal Seeker,2026-02-23
+C04971,Loyal,
+C04972,Regular,2025-07-06
+C04973,Loyal,
+C04974,Deal Seeker,2026-09-20
+C04975,Occasional,2024-12-19
+C04976,Regular,
+C04977,Regular,2024-10-02
+C04978,Occasional,2026-01-16
+C04979,Deal Seeker,2026-09-07
+C04980,Regular,
+C04981,Occasional,2026-03-10
+C04982,Regular,
+C04983,Regular,
+C04984,Occasional,2025-01-28
+C04985,Deal Seeker,2025-11-14
+C04986,Occasional,2025-04-10
+C04987,Regular,2026-02-10
+C04988,Regular,
+C04989,Regular,2025-03-31
+C04990,Occasional,
+C04991,Regular,
+C04992,Deal Seeker,
+C04993,Occasional,
+C04994,Regular,2025-09-17
+C04995,Occasional,2025-03-10
+C04996,Regular,
+C04997,Regular,2026-08-30
+C04998,Regular,
+C04999,Regular,
+C05000,Loyal,2025-03-06
+C05001,Deal Seeker,2026-01-19
+C05002,Regular,
+C05003,Regular,2026-03-22
+C05004,Regular,
+C05005,Regular,
+C05006,Regular,
+C05007,Deal Seeker,2026-05-17
+C05008,Occasional,
+C05009,Regular,2025-11-21
+C05010,Loyal,
+C05011,Regular,2025-08-07
+C05012,Loyal,
+C05013,Regular,
+C05014,Regular,
+C05015,Occasional,2025-02-04
+C05016,Deal Seeker,
+C05017,Regular,
+C05018,Regular,
+C05019,Loyal,
+C05020,Deal Seeker,2024-11-17
+C05021,Regular,2025-02-10
+C05022,Regular,
+C05023,Loyal,2025-04-17
+C05024,Occasional,2025-06-03
+C05025,Regular,
+C05026,Regular,
+C05027,Occasional,
+C05028,Regular,2025-04-08
+C05029,Deal Seeker,
+C05030,Loyal,
+C05031,Regular,
+C05032,Occasional,2024-11-14
+C05033,Regular,
+C05034,Occasional,
+C05035,Occasional,2026-01-02
+C05036,Regular,
+C05037,Regular,2025-06-23
+C05038,Regular,2026-08-29
+C05039,Regular,
+C05040,Regular,
+C05041,Regular,
+C05042,Loyal,2025-12-05
+C05043,Occasional,
+C05044,Occasional,
+C05045,Regular,
+C05046,Occasional,2024-10-05
+C05047,Loyal,
+C05048,Loyal,
+C05049,Occasional,2025-12-04
+C05050,Occasional,2026-05-13
+C05051,Regular,2025-10-09
+C05052,Occasional,2026-06-12
+C05053,Occasional,2026-03-29
+C05054,Occasional,2024-10-24
+C05055,Deal Seeker,2026-05-16
+C05056,Loyal,
+C05057,Occasional,
+C05058,Regular,
+C05059,Regular,2025-07-21
+C05060,Occasional,2024-12-24
+C05061,Deal Seeker,2025-06-09
+C05062,Regular,
+C05063,Loyal,
+C05064,Occasional,
+C05065,Regular,
+C05066,Regular,2026-08-07
+C05067,Regular,2026-06-22
+C05068,Loyal,2024-12-18
+C05069,Loyal,
+C05070,Loyal,
+C05071,Loyal,
+C05072,Loyal,
+C05073,Occasional,2025-10-27
+C05074,Regular,
+C05075,Loyal,
+C05076,Deal Seeker,2025-04-10
+C05077,Deal Seeker,
+C05078,Deal Seeker,2026-06-01
+C05079,Regular,
+C05080,Regular,2025-02-07
+C05081,Occasional,2026-09-28
+C05082,Occasional,2025-07-05
+C05083,Occasional,2026-06-29
+C05084,Regular,
+C05085,Deal Seeker,2026-02-14
+C05086,Occasional,2025-07-23
+C05087,Occasional,2025-09-21
+C05088,Regular,2025-08-21
+C05089,Regular,2025-08-27
+C05090,Occasional,2026-03-08
+C05091,Loyal,
+C05092,Regular,2025-07-22
+C05093,Loyal,
+C05094,Loyal,
+C05095,Deal Seeker,
+C05096,Occasional,2026-07-18
+C05097,Loyal,2026-01-23
+C05098,Regular,
+C05099,Regular,2025-11-26
+C05100,Loyal,
+C05101,Regular,2025-05-24
+C05102,Loyal,
+C05103,Regular,2024-12-01
+C05104,Regular,2025-04-21
+C05105,Deal Seeker,2025-11-10
+C05106,Regular,
+C05107,Regular,
+C05108,Regular,2025-12-01
+C05109,Occasional,2024-10-29
+C05110,Regular,
+C05111,Regular,2025-04-02
+C05112,Regular,
+C05113,Regular,
+C05114,Occasional,
+C05115,Occasional,
+C05116,Regular,
+C05117,Deal Seeker,2026-05-04
+C05118,Deal Seeker,2025-07-26
+C05119,Loyal,
+C05120,Regular,
+C05121,Deal Seeker,
+C05122,Regular,
+C05123,Occasional,
+C05124,Regular,2026-08-04
+C05125,Regular,
+C05126,Occasional,2025-09-23
+C05127,Regular,2025-09-03
+C05128,Regular,
+C05129,Regular,
+C05130,Loyal,2026-03-22
+C05131,Occasional,2025-05-31
+C05132,Regular,
+C05133,Regular,
+C05134,Deal Seeker,2026-06-30
+C05135,Loyal,2025-04-19
+C05136,Occasional,2026-07-28
+C05137,Regular,2026-06-19
+C05138,Deal Seeker,
+C05139,Occasional,2025-11-02
+C05140,Loyal,
+C05141,Deal Seeker,2025-11-12
+C05142,Regular,2026-07-22
+C05143,Loyal,2025-03-01
+C05144,Loyal,
+C05145,Regular,2026-09-22
+C05146,Occasional,2026-05-10
+C05147,Regular,
+C05148,Regular,2025-09-13
+C05149,Regular,
+C05150,Deal Seeker,2025-09-12
+C05151,Regular,2025-03-26
+C05152,Regular,2025-04-26
+C05153,Occasional,2025-10-29
+C05154,Occasional,
+C05155,Regular,2025-03-12
+C05156,Regular,2024-11-12
+C05157,Occasional,2025-01-15
+C05158,Occasional,2025-04-08
+C05159,Deal Seeker,
+C05160,Regular,2026-01-17
+C05161,Regular,
+C05162,Occasional,2026-03-03
+C05163,Occasional,2024-10-28
+C05164,Regular,
+C05165,Deal Seeker,2025-05-03
+C05166,Loyal,
+C05167,Regular,
+C05168,Occasional,2025-02-07
+C05169,Regular,
+C05170,Deal Seeker,2026-09-15
+C05171,Regular,
+C05172,Loyal,2025-11-06
+C05173,Regular,2025-10-11
+C05174,Occasional,2026-04-12
+C05175,Deal Seeker,
+C05176,Deal Seeker,
+C05177,Occasional,
+C05178,Occasional,2026-06-11
+C05179,Regular,2025-01-11
+C05180,Regular,2025-12-03
+C05181,Regular,
+C05182,Regular,
+C05183,Loyal,2026-08-22
+C05184,Regular,
+C05185,Deal Seeker,
+C05186,Regular,
+C05187,Loyal,
+C05188,Loyal,
+C05189,Occasional,2024-12-04
+C05190,Loyal,
+C05191,Occasional,2025-12-03
+C05192,Deal Seeker,2024-11-21
+C05193,Occasional,2026-09-13
+C05194,Occasional,
+C05195,Deal Seeker,2025-08-09
+C05196,Regular,
+C05197,Regular,
+C05198,Occasional,
+C05199,Deal Seeker,2025-03-08
+C05200,Occasional,2026-02-15
+C05201,Regular,2024-12-31
+C05202,Regular,2026-02-14
+C05203,Occasional,2025-02-14
+C05204,Deal Seeker,2026-01-03
+C05205,Loyal,
+C05206,Deal Seeker,2025-03-03
+C05207,Loyal,2025-01-31
+C05208,Loyal,
+C05209,Regular,
+C05210,Loyal,
+C05211,Occasional,2026-05-05
+C05212,Regular,2026-07-13
+C05213,Regular,
+C05214,Deal Seeker,
+C05215,Regular,
+C05216,Occasional,2024-11-28
+C05217,Regular,
+C05218,Occasional,
+C05219,Loyal,
+C05220,Occasional,2026-06-11
+C05221,Occasional,
+C05222,Regular,
+C05223,Occasional,2025-11-23
+C05224,Occasional,
+C05225,Regular,
+C05226,Occasional,
+C05227,Regular,2026-08-19
+C05228,Regular,
+C05229,Regular,
+C05230,Occasional,
+C05231,Occasional,2025-04-18
+C05232,Occasional,2025-11-20
+C05233,Deal Seeker,
+C05234,Occasional,2026-03-24
+C05235,Regular,2026-01-17
+C05236,Occasional,2025-04-27
+C05237,Occasional,2026-08-03
+C05238,Occasional,2026-09-13
+C05239,Occasional,2024-10-24
+C05240,Deal Seeker,
+C05241,Deal Seeker,2025-12-11
+C05242,Deal Seeker,
+C05243,Occasional,2024-11-12
+C05244,Deal Seeker,2025-03-11
+C05245,Regular,
+C05246,Occasional,2026-01-14
+C05247,Deal Seeker,2026-05-16
+C05248,Regular,
+C05249,Loyal,
+C05250,Regular,
+C05251,Regular,
+C05252,Loyal,
+C05253,Occasional,2025-04-17
+C05254,Regular,2025-09-05
+C05255,Loyal,
+C05256,Regular,2025-08-23
+C05257,Regular,2026-03-24
+C05258,Loyal,
+C05259,Regular,2026-07-26
+C05260,Regular,
+C05261,Loyal,
+C05262,Loyal,
+C05263,Occasional,
+C05264,Occasional,2025-09-16
+C05265,Loyal,
+C05266,Occasional,2024-10-15
+C05267,Occasional,
+C05268,Occasional,2026-07-08
+C05269,Occasional,2024-11-09
+C05270,Occasional,2026-09-21
+C05271,Regular,
+C05272,Regular,
+C05273,Regular,
+C05274,Occasional,2026-06-17
+C05275,Regular,
+C05276,Regular,2025-05-25
+C05277,Regular,2025-05-28
+C05278,Regular,2026-05-12
+C05279,Deal Seeker,2026-08-02
+C05280,Regular,2025-11-02
+C05281,Occasional,
+C05282,Loyal,2025-03-17
+C05283,Regular,2025-09-24
+C05284,Deal Seeker,
+C05285,Occasional,2025-10-18
+C05286,Occasional,2025-09-22
+C05287,Loyal,
+C05288,Occasional,2025-02-05
+C05289,Regular,
+C05290,Loyal,
+C05291,Regular,
+C05292,Occasional,
+C05293,Regular,
+C05294,Occasional,2025-08-03
+C05295,Deal Seeker,2025-07-06
+C05296,Loyal,
+C05297,Occasional,2024-10-25
+C05298,Regular,2025-01-31
+C05299,Occasional,2024-10-03
+C05300,Regular,2025-12-11
+C05301,Occasional,2026-05-05
+C05302,Occasional,
+C05303,Occasional,2026-09-02
+C05304,Deal Seeker,2025-12-27
+C05305,Occasional,2025-04-12
+C05306,Regular,
+C05307,Deal Seeker,2025-08-27
+C05308,Regular,
+C05309,Regular,
+C05310,Regular,2025-10-02
+C05311,Regular,2025-03-14
+C05312,Regular,2025-02-22
+C05313,Occasional,
+C05314,Deal Seeker,2026-02-24
+C05315,Occasional,2025-12-28
+C05316,Regular,2026-08-24
+C05317,Occasional,2024-11-25
+C05318,Regular,
+C05319,Regular,2025-11-15
+C05320,Occasional,2024-12-13
+C05321,Deal Seeker,2025-03-05
+C05322,Loyal,
+C05323,Occasional,2026-09-27
+C05324,Regular,2025-05-15
+C05325,Regular,
+C05326,Deal Seeker,2026-01-02
+C05327,Regular,2026-04-08
+C05328,Regular,2026-03-26
+C05329,Occasional,2026-05-13
+C05330,Occasional,
+C05331,Regular,
+C05332,Occasional,2025-02-17
+C05333,Regular,2026-05-28
+C05334,Deal Seeker,2025-05-08
+C05335,Regular,
+C05336,Loyal,2025-12-20
+C05337,Deal Seeker,2025-03-13
+C05338,Occasional,2026-03-18
+C05339,Occasional,2026-02-05
+C05340,Occasional,2026-07-27
+C05341,Occasional,
+C05342,Loyal,
+C05343,Deal Seeker,2025-12-13
+C05344,Loyal,
+C05345,Loyal,
+C05346,Loyal,2026-01-02
+C05347,Deal Seeker,2025-11-03
+C05348,Loyal,
+C05349,Regular,2026-09-06
+C05350,Regular,
+C05351,Occasional,2025-03-04
+C05352,Occasional,2026-08-20
+C05353,Occasional,2026-01-13
+C05354,Occasional,2025-06-19
+C05355,Deal Seeker,2025-08-11
+C05356,Loyal,2026-04-17
+C05357,Deal Seeker,2025-07-31
+C05358,Regular,
+C05359,Occasional,2025-10-13
+C05360,Loyal,
+C05361,Regular,2025-03-07
+C05362,Occasional,2026-05-10
+C05363,Regular,2026-04-20
+C05364,Regular,
+C05365,Deal Seeker,
+C05366,Deal Seeker,2026-09-20
+C05367,Loyal,
+C05368,Regular,
+C05369,Loyal,
+C05370,Loyal,
+C05371,Loyal,
+C05372,Occasional,
+C05373,Occasional,2026-08-23
+C05374,Regular,2026-08-08
+C05375,Loyal,
+C05376,Regular,
+C05377,Regular,
+C05378,Regular,2026-07-27
+C05379,Regular,2025-04-15
+C05380,Deal Seeker,2024-12-06
+C05381,Regular,2025-05-16
+C05382,Loyal,
+C05383,Occasional,2025-03-31
+C05384,Loyal,
+C05385,Loyal,
+C05386,Regular,2026-05-13
+C05387,Occasional,2025-06-15
+C05388,Loyal,2026-04-29
+C05389,Occasional,2024-12-16
+C05390,Regular,2025-04-07
+C05391,Regular,2025-07-08
+C05392,Loyal,
+C05393,Regular,
+C05394,Occasional,2025-09-18
+C05395,Deal Seeker,2025-06-17
+C05396,Loyal,
+C05397,Occasional,2026-06-17
+C05398,Occasional,2025-06-10
+C05399,Deal Seeker,2025-09-10
+C05400,Occasional,2026-09-13
+C05401,Occasional,
+C05402,Regular,
+C05403,Regular,
+C05404,Occasional,2025-08-01
+C05405,Regular,
+C05406,Deal Seeker,2025-02-10
+C05407,Regular,
+C05408,Regular,2026-05-30
+C05409,Deal Seeker,2026-07-10
+C05410,Occasional,2025-11-21
+C05411,Loyal,2026-01-19
+C05412,Regular,
+C05413,Loyal,2025-03-15
+C05414,Deal Seeker,2025-01-24
+C05415,Regular,2026-06-09
+C05416,Deal Seeker,2026-08-08
+C05417,Occasional,
+C05418,Regular,2026-02-06
+C05419,Occasional,2024-12-04
+C05420,Loyal,
+C05421,Deal Seeker,2025-01-05
+C05422,Regular,
+C05423,Regular,
+C05424,Occasional,2024-12-16
+C05425,Regular,
+C05426,Occasional,
+C05427,Deal Seeker,2025-07-11
+C05428,Occasional,2025-12-14
+C05429,Loyal,
+C05430,Regular,
+C05431,Occasional,2025-03-23
+C05432,Occasional,2024-11-14
+C05433,Loyal,
+C05434,Regular,2025-12-11
+C05435,Regular,
+C05436,Regular,2026-03-23
+C05437,Regular,
+C05438,Deal Seeker,2025-11-14
+C05439,Regular,2025-08-31
+C05440,Regular,2024-11-15
+C05441,Regular,
+C05442,Regular,2026-02-07
+C05443,Deal Seeker,2026-03-30
+C05444,Regular,
+C05445,Loyal,
+C05446,Occasional,2026-08-08
+C05447,Loyal,
+C05448,Regular,
+C05449,Loyal,
+C05450,Regular,
+C05451,Loyal,
+C05452,Deal Seeker,
+C05453,Regular,2026-02-19
+C05454,Occasional,2024-11-26
+C05455,Regular,
+C05456,Regular,
+C05457,Occasional,2025-01-26
+C05458,Regular,2026-06-05
+C05459,Loyal,
+C05460,Occasional,2025-09-21
+C05461,Loyal,
+C05462,Regular,
+C05463,Deal Seeker,2025-02-13
+C05464,Regular,2025-09-06
+C05465,Deal Seeker,2025-05-04
+C05466,Regular,2026-09-30
+C05467,Occasional,2026-07-30
+C05468,Regular,2024-12-11
+C05469,Deal Seeker,
+C05470,Deal Seeker,2026-06-11
+C05471,Regular,
+C05472,Loyal,
+C05473,Occasional,2026-04-29
+C05474,Regular,
+C05475,Regular,
+C05476,Occasional,
+C05477,Regular,2025-02-08
+C05478,Regular,
+C05479,Regular,2025-10-24
+C05480,Regular,
+C05481,Deal Seeker,
+C05482,Deal Seeker,2026-03-18
+C05483,Regular,
+C05484,Occasional,2026-04-15
+C05485,Occasional,
+C05486,Regular,2026-03-20
+C05487,Regular,2026-06-20
+C05488,Regular,
+C05489,Regular,
+C05490,Occasional,2025-09-12
+C05491,Loyal,
+C05492,Regular,
+C05493,Regular,
+C05494,Occasional,
+C05495,Occasional,2026-04-04
+C05496,Regular,
+C05497,Deal Seeker,2025-11-03
+C05498,Regular,2026-03-06
+C05499,Occasional,2025-07-26
+C05500,Regular,2025-04-17
+C05501,Occasional,2024-12-11
+C05502,Occasional,2026-03-20
+C05503,Regular,
+C05504,Deal Seeker,2025-03-09
+C05505,Deal Seeker,2025-05-23
+C05506,Occasional,2026-01-24
+C05507,Regular,
+C05508,Loyal,
+C05509,Regular,
+C05510,Occasional,
+C05511,Loyal,
+C05512,Regular,
+C05513,Loyal,2026-09-10
+C05514,Regular,
+C05515,Regular,2024-10-31
+C05516,Regular,
+C05517,Loyal,2026-06-01
+C05518,Regular,2025-07-31
+C05519,Loyal,
+C05520,Deal Seeker,2026-03-29
+C05521,Deal Seeker,2025-10-24
+C05522,Occasional,2026-01-19
+C05523,Regular,
+C05524,Occasional,2026-07-24
+C05525,Occasional,2026-07-16
+C05526,Occasional,
+C05527,Occasional,2025-10-12
+C05528,Regular,2024-10-06
+C05529,Occasional,
+C05530,Regular,
+C05531,Regular,
+C05532,Occasional,2025-11-05
+C05533,Regular,2025-11-23
+C05534,Deal Seeker,2025-08-07
+C05535,Occasional,
+C05536,Regular,2026-07-25
+C05537,Regular,2025-06-06
+C05538,Regular,
+C05539,Deal Seeker,2025-10-18
+C05540,Regular,
+C05541,Regular,2026-03-19
+C05542,Occasional,
+C05543,Regular,2025-10-08
+C05544,Loyal,
+C05545,Regular,
+C05546,Deal Seeker,2025-04-26
+C05547,Occasional,2025-04-24
+C05548,Deal Seeker,2025-05-03
+C05549,Regular,
+C05550,Occasional,2026-04-29
+C05551,Regular,
+C05552,Occasional,
+C05553,Regular,2025-08-05
+C05554,Deal Seeker,2024-10-07
+C05555,Occasional,
+C05556,Regular,
+C05557,Loyal,2025-05-29
+C05558,Regular,
+C05559,Occasional,2024-12-23
+C05560,Occasional,2025-05-27
+C05561,Regular,
+C05562,Deal Seeker,2025-07-14
+C05563,Regular,
+C05564,Occasional,2026-02-21
+C05565,Loyal,2026-03-05
+C05566,Loyal,
+C05567,Regular,2025-12-18
+C05568,Loyal,
+C05569,Deal Seeker,2026-03-28
+C05570,Occasional,2025-01-30
+C05571,Deal Seeker,2025-09-28
+C05572,Occasional,2026-07-25
+C05573,Regular,2026-03-09
+C05574,Regular,
+C05575,Regular,2026-05-31
+C05576,Deal Seeker,2026-01-31
+C05577,Occasional,2025-02-14
+C05578,Occasional,2025-05-27
+C05579,Regular,
+C05580,Occasional,2025-12-12
+C05581,Regular,
+C05582,Regular,2025-06-18
+C05583,Regular,2025-10-23
+C05584,Regular,2025-08-16
+C05585,Regular,
+C05586,Regular,
+C05587,Loyal,2025-03-22
+C05588,Occasional,
+C05589,Occasional,2025-03-24
+C05590,Occasional,2026-04-01
+C05591,Occasional,2026-08-25
+C05592,Occasional,2026-01-14
+C05593,Occasional,2025-12-20
+C05594,Loyal,
+C05595,Occasional,2025-03-31
+C05596,Regular,
+C05597,Occasional,2024-11-20
+C05598,Regular,2025-05-05
+C05599,Loyal,
+C05600,Regular,
+C05601,Regular,2025-09-20
+C05602,Regular,2025-03-17
+C05603,Loyal,
+C05604,Regular,
+C05605,Deal Seeker,
+C05606,Loyal,
+C05607,Regular,
+C05608,Regular,2025-04-11
+C05609,Regular,2025-08-13
+C05610,Regular,
+C05611,Regular,
+C05612,Regular,2026-07-22
+C05613,Loyal,
+C05614,Occasional,2025-07-06
+C05615,Regular,
+C05616,Occasional,2025-02-04
+C05617,Loyal,
+C05618,Regular,2024-11-01
+C05619,Regular,
+C05620,Deal Seeker,
+C05621,Occasional,2026-01-21
+C05622,Loyal,
+C05623,Occasional,2026-09-19
+C05624,Loyal,
+C05625,Regular,2025-05-24
+C05626,Regular,
+C05627,Regular,2025-01-06
+C05628,Loyal,
+C05629,Loyal,
+C05630,Occasional,2026-05-19
+C05631,Regular,
+C05632,Occasional,2026-07-13
+C05633,Deal Seeker,2025-02-25
+C05634,Regular,
+C05635,Loyal,2025-09-03
+C05636,Regular,2026-08-05
+C05637,Regular,2025-02-08
+C05638,Regular,
+C05639,Loyal,
+C05640,Occasional,2024-12-12
+C05641,Loyal,
+C05642,Regular,
+C05643,Loyal,
+C05644,Occasional,2025-01-19
+C05645,Occasional,2026-08-08
+C05646,Occasional,
+C05647,Regular,
+C05648,Loyal,
+C05649,Loyal,
+C05650,Loyal,
+C05651,Loyal,
+C05652,Occasional,2026-03-03
+C05653,Regular,2025-12-15
+C05654,Loyal,
+C05655,Loyal,
+C05656,Occasional,2025-04-26
+C05657,Deal Seeker,
+C05658,Deal Seeker,2024-11-24
+C05659,Loyal,
+C05660,Occasional,2025-03-25
+C05661,Occasional,2026-03-31
+C05662,Occasional,2025-04-20
+C05663,Regular,
+C05664,Deal Seeker,
+C05665,Regular,2026-08-19
+C05666,Deal Seeker,2025-03-09
+C05667,Regular,2026-06-27
+C05668,Regular,2025-04-15
+C05669,Occasional,2026-04-28
+C05670,Occasional,2026-01-28
+C05671,Deal Seeker,
+C05672,Deal Seeker,2025-01-19
+C05673,Regular,
+C05674,Regular,
+C05675,Occasional,2026-09-02
+C05676,Regular,
+C05677,Regular,2026-06-08
+C05678,Occasional,2025-03-29
+C05679,Deal Seeker,
+C05680,Regular,
+C05681,Occasional,2025-07-23
+C05682,Occasional,2026-04-22
+C05683,Occasional,2025-01-23
+C05684,Loyal,2026-09-23
+C05685,Loyal,
+C05686,Occasional,2025-11-20
+C05687,Regular,
+C05688,Loyal,
+C05689,Occasional,
+C05690,Deal Seeker,2024-10-25
+C05691,Occasional,2025-08-15
+C05692,Loyal,
+C05693,Occasional,2025-03-18
+C05694,Occasional,2026-02-05
+C05695,Loyal,
+C05696,Deal Seeker,2025-06-27
+C05697,Regular,2026-03-24
+C05698,Occasional,2026-08-07
+C05699,Regular,
+C05700,Deal Seeker,2025-04-25
+C05701,Regular,2026-07-10
+C05702,Occasional,2025-08-08
+C05703,Loyal,
+C05704,Occasional,
+C05705,Regular,2025-09-28
+C05706,Occasional,2026-08-05
+C05707,Regular,
+C05708,Regular,
+C05709,Regular,
+C05710,Regular,2025-11-01
+C05711,Occasional,2025-10-20
+C05712,Occasional,2025-06-14
+C05713,Regular,2026-09-01
+C05714,Deal Seeker,2026-05-31
+C05715,Deal Seeker,2025-10-27
+C05716,Occasional,2025-08-10
+C05717,Deal Seeker,2025-04-01
+C05718,Regular,2026-08-21
+C05719,Deal Seeker,
+C05720,Regular,2026-02-16
+C05721,Loyal,2026-07-09
+C05722,Regular,2024-10-13
+C05723,Occasional,
+C05724,Occasional,2026-01-07
+C05725,Deal Seeker,2025-05-29
+C05726,Occasional,2024-10-21
+C05727,Occasional,2026-06-15
+C05728,Occasional,2026-04-26
+C05729,Occasional,
+C05730,Regular,
+C05731,Occasional,
+C05732,Deal Seeker,2025-10-21
+C05733,Regular,
+C05734,Regular,
+C05735,Loyal,
+C05736,Loyal,
+C05737,Regular,
+C05738,Loyal,
+C05739,Regular,2026-06-03
+C05740,Occasional,
+C05741,Regular,
+C05742,Occasional,2025-02-01
+C05743,Occasional,2026-06-30
+C05744,Loyal,
+C05745,Occasional,2024-10-17
+C05746,Loyal,
+C05747,Regular,2024-11-21
+C05748,Occasional,2025-03-23
+C05749,Regular,
+C05750,Regular,2026-06-16
+C05751,Regular,2025-12-05
+C05752,Deal Seeker,2026-02-08
+C05753,Occasional,2025-03-31
+C05754,Occasional,2025-04-22
+C05755,Occasional,2024-12-19
+C05756,Occasional,
+C05757,Occasional,2026-08-22
+C05758,Occasional,2025-08-30
+C05759,Regular,
+C05760,Occasional,2025-01-31
+C05761,Loyal,
+C05762,Occasional,2026-02-26
+C05763,Loyal,
+C05764,Regular,
+C05765,Loyal,
+C05766,Occasional,
+C05767,Occasional,2026-06-07
+C05768,Deal Seeker,2026-04-24
+C05769,Regular,2025-10-25
+C05770,Occasional,2026-07-14
+C05771,Regular,2025-03-09
+C05772,Regular,
+C05773,Occasional,2026-08-26
+C05774,Deal Seeker,2026-05-11
+C05775,Loyal,
+C05776,Regular,2024-12-27
+C05777,Loyal,
+C05778,Regular,2025-12-26
+C05779,Loyal,2026-05-14
+C05780,Loyal,2024-11-24
+C05781,Deal Seeker,2026-06-12
+C05782,Loyal,
+C05783,Loyal,
+C05784,Regular,2025-02-23
+C05785,Deal Seeker,2026-05-19
+C05786,Regular,2025-07-24
+C05787,Deal Seeker,
+C05788,Regular,
+C05789,Regular,2025-02-16
+C05790,Occasional,
+C05791,Regular,
+C05792,Loyal,2026-07-18
+C05793,Regular,
+C05794,Regular,2024-10-05
+C05795,Loyal,
+C05796,Regular,
+C05797,Loyal,
+C05798,Regular,
+C05799,Occasional,2026-08-30
+C05800,Occasional,
+C05801,Deal Seeker,
+C05802,Loyal,
+C05803,Regular,2026-06-23
+C05804,Regular,
+C05805,Deal Seeker,2025-09-10
+C05806,Regular,2026-04-15
+C05807,Regular,2025-07-25
+C05808,Regular,2025-08-13
+C05809,Deal Seeker,2025-09-23
+C05810,Occasional,2024-10-10
+C05811,Regular,2026-04-10
+C05812,Regular,
+C05813,Deal Seeker,2024-10-18
+C05814,Deal Seeker,2025-06-25
+C05815,Occasional,2025-02-02
+C05816,Occasional,2025-06-09
+C05817,Deal Seeker,2026-07-06
+C05818,Deal Seeker,2026-01-16
+C05819,Loyal,2025-03-24
+C05820,Deal Seeker,
+C05821,Occasional,2024-10-06
+C05822,Occasional,2025-03-13
+C05823,Occasional,2024-11-26
+C05824,Deal Seeker,2026-03-20
+C05825,Occasional,2026-07-12
+C05826,Occasional,
+C05827,Occasional,2025-03-11
+C05828,Loyal,
+C05829,Regular,
+C05830,Occasional,
+C05831,Loyal,2026-01-08
+C05832,Regular,
+C05833,Regular,
+C05834,Occasional,2024-12-04
+C05835,Occasional,2025-09-20
+C05836,Occasional,2025-03-07
+C05837,Deal Seeker,2024-11-07
+C05838,Occasional,2025-05-06
+C05839,Occasional,2026-08-28
+C05840,Regular,
+C05841,Deal Seeker,
+C05842,Loyal,
+C05843,Occasional,2025-05-30
+C05844,Loyal,
+C05845,Occasional,2025-08-21
+C05846,Occasional,2026-08-31
+C05847,Deal Seeker,2025-09-15
+C05848,Regular,
+C05849,Occasional,2026-02-27
+C05850,Loyal,
+C05851,Occasional,2025-07-28
+C05852,Deal Seeker,
+C05853,Deal Seeker,
+C05854,Occasional,
+C05855,Regular,
+C05856,Regular,2025-04-08
+C05857,Regular,
+C05858,Regular,2024-10-15
+C05859,Regular,2025-09-03
+C05860,Regular,2026-07-07
+C05861,Occasional,
+C05862,Occasional,2026-07-07
+C05863,Occasional,2025-07-17
+C05864,Occasional,2025-12-23
+C05865,Occasional,2024-10-04
+C05866,Occasional,2024-12-26
+C05867,Regular,
+C05868,Occasional,2025-05-01
+C05869,Deal Seeker,2026-08-03
+C05870,Deal Seeker,2026-01-20
+C05871,Regular,
+C05872,Occasional,2025-08-12
+C05873,Regular,2025-02-08
+C05874,Regular,
+C05875,Occasional,2026-04-01
+C05876,Deal Seeker,
+C05877,Deal Seeker,2026-04-30
+C05878,Loyal,
+C05879,Deal Seeker,
+C05880,Deal Seeker,2025-05-03
+C05881,Occasional,2026-01-16
+C05882,Regular,2025-06-29
+C05883,Occasional,
+C05884,Occasional,2025-06-27
+C05885,Occasional,
+C05886,Regular,
+C05887,Regular,
+C05888,Occasional,
+C05889,Regular,2026-03-08
+C05890,Regular,
+C05891,Regular,
+C05892,Occasional,2026-01-28
+C05893,Deal Seeker,2025-07-10
+C05894,Regular,2025-10-03
+C05895,Regular,
+C05896,Regular,
+C05897,Regular,2026-03-12
+C05898,Loyal,
+C05899,Deal Seeker,
+C05900,Regular,
+C05901,Occasional,
+C05902,Deal Seeker,2026-04-10
+C05903,Regular,2026-07-17
+C05904,Loyal,2026-06-21
+C05905,Deal Seeker,
+C05906,Deal Seeker,
+C05907,Loyal,
+C05908,Regular,
+C05909,Occasional,2025-02-05
+C05910,Loyal,
+C05911,Regular,2026-06-03
+C05912,Occasional,2026-06-17
+C05913,Regular,2026-02-22
+C05914,Occasional,2025-03-15
+C05915,Occasional,
+C05916,Deal Seeker,
+C05917,Occasional,2025-03-26
+C05918,Regular,
+C05919,Loyal,
+C05920,Occasional,2026-07-25
+C05921,Regular,2026-08-23
+C05922,Regular,2025-08-23
+C05923,Loyal,2026-08-26
+C05924,Occasional,
+C05925,Occasional,2025-09-23
+C05926,Deal Seeker,2025-03-29
+C05927,Occasional,2025-02-14
+C05928,Regular,
+C05929,Deal Seeker,2026-07-20
+C05930,Loyal,2025-12-11
+C05931,Regular,2026-06-10
+C05932,Regular,
+C05933,Occasional,2026-07-29
+C05934,Regular,
+C05935,Regular,
+C05936,Occasional,2024-10-21
+C05937,Occasional,
+C05938,Loyal,
+C05939,Loyal,
+C05940,Loyal,
+C05941,Deal Seeker,2025-05-04
+C05942,Regular,
+C05943,Deal Seeker,2026-08-13
+C05944,Occasional,2024-11-06
+C05945,Occasional,2024-10-17
+C05946,Regular,2025-01-01
+C05947,Loyal,
+C05948,Regular,2026-07-19
+C05949,Regular,
+C05950,Deal Seeker,2025-08-31
+C05951,Occasional,2026-01-28
+C05952,Loyal,2025-10-25
+C05953,Regular,2026-04-19
+C05954,Occasional,2025-02-07
+C05955,Occasional,2025-07-03
+C05956,Occasional,
+C05957,Deal Seeker,
+C05958,Loyal,
+C05959,Deal Seeker,2026-04-18
+C05960,Occasional,2025-11-23
+C05961,Occasional,2025-02-16
+C05962,Loyal,2025-06-03
+C05963,Loyal,2025-08-26
+C05964,Occasional,
+C05965,Occasional,
+C05966,Regular,2026-05-07
+C05967,Regular,
+C05968,Occasional,2025-04-04
+C05969,Occasional,
+C05970,Occasional,
+C05971,Deal Seeker,2024-12-16
+C05972,Deal Seeker,2025-03-02
+C05973,Occasional,2025-09-11
+C05974,Occasional,2025-01-03
+C05975,Occasional,2026-07-20
+C05976,Occasional,
+C05977,Loyal,
+C05978,Occasional,2025-05-19
+C05979,Occasional,
+C05980,Regular,2026-03-22
+C05981,Occasional,2025-08-06
+C05982,Occasional,2025-03-16
+C05983,Occasional,2024-12-16
+C05984,Occasional,2024-10-22
+C05985,Deal Seeker,2024-11-16
+C05986,Regular,
+C05987,Deal Seeker,2025-03-21
+C05988,Regular,
+C05989,Regular,2025-11-19
+C05990,Loyal,
+C05991,Regular,2026-03-23
+C05992,Loyal,
+C05993,Occasional,2025-10-11
+C05994,Regular,2026-08-06
+C05995,Occasional,
+C05996,Occasional,2026-01-21
+C05997,Loyal,2026-07-20
+C05998,Deal Seeker,2025-01-25
+C05999,Regular,2024-12-14
+C06000,Occasional,2025-11-02

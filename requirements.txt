@@ -1,0 +1,11 @@
+# Python 3.11+ (developed on 3.13)
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13          # stats.tukey_hsd, ttest_ind(...).confidence_interval
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+openpyxl>=3.1        # Excel dashboard
+python-pptx>=0.6.23  # presentation deck builder
+jupyter              # optional: to open / re-run the notebooks interactively
+# PostgreSQL 14+ with the `psql` client on PATH (no Python driver needed - see src/db.py)

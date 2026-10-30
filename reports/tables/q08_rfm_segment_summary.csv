@@ -1,0 +1,7 @@
+rfm_segment,customers,pct_customers,revenue_12m,pct_revenue,avg_recency_days,avg_frequency
+Champions,1688,30.5,65975044,78.8,9,37.4
+Loyal,1358,24.5,15042295,18.0,84,11.6
+At Risk,1107,20.0,2193724,2.6,364,2.0
+Needs Attention,174,3.1,276974,0.3,123,1.8
+New / Promising,101,1.8,184649,0.2,17,1.8
+Lost / Hibernating,1108,20.0,0,0.0,619,0.0

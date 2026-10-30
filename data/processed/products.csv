@@ -1,0 +1,92 @@
+product_id,category,subcategory,product_name,base_price,brand_tier
+P0001,Staples,Flour,Maize Flour 2kg,165,Private Label
+P0002,Staples,Flour,Maize Flour 1kg,88,Standard
+P0003,Staples,Flour,Wheat Flour Home Baking 2kg,195,Standard
+P0004,Staples,Flour,Atta Mark 1 2kg,210,Standard
+P0005,Staples,Rice,Pishori Rice 2kg,390,Standard
+P0006,Staples,Rice,Long Grain Rice 1kg,155,Standard
+P0007,Staples,Sugar,White Sugar 2kg,330,Premium
+P0008,Staples,Sugar,White Sugar 1kg,168,Private Label
+P0009,Staples,Cooking Oil,Vegetable Cooking Oil 1L,330,Standard
+P0010,Staples,Cooking Oil,Vegetable Cooking Oil 3L,940,Standard
+P0011,Staples,Cooking Oil,Cooking Fat 500g,210,Premium
+P0012,Staples,Pulses,Green Grams 1kg,230,Premium
+P0013,Staples,Pulses,Dry Beans Rosecoco 1kg,210,Standard
+P0014,Staples,Pasta,Spaghetti 400g,110,Standard
+P0015,Staples,Salt & Spices,Table Salt 1kg,45,Standard
+P0016,Staples,Salt & Spices,Royco Style Mchuzi Mix 200g,95,Premium
+P0017,Fresh Produce,Vegetables,Tomatoes per kg,120,Standard
+P0018,Fresh Produce,Vegetables,Onions per kg,110,Standard
+P0019,Fresh Produce,Vegetables,Sukuma Wiki Bunch,30,Standard
+P0020,Fresh Produce,Vegetables,Cabbage Head,70,Private Label
+P0021,Fresh Produce,Vegetables,Potatoes 2kg,180,Standard
+P0022,Fresh Produce,Fruit,Bananas per kg,90,Standard
+P0023,Fresh Produce,Fruit,Avocado each,25,Standard
+P0024,Fresh Produce,Fruit,Mangoes per kg,140,Private Label
+P0025,Fresh Produce,Fruit,Oranges per kg,160,Standard
+P0026,Fresh Produce,Bakery,White Bread 400g,65,Standard
+P0027,Fresh Produce,Bakery,Brown Bread 600g,90,Private Label
+P0028,Fresh Produce,Meat & Eggs,Eggs Tray 30,450,Standard
+P0029,Fresh Produce,Meat & Eggs,Beef Steak per kg,750,Standard
+P0030,Fresh Produce,Meat & Eggs,Whole Chicken 1.2kg,650,Standard
+P0031,Dairy,Milk,Fresh Milk 500ml,65,Private Label
+P0032,Dairy,Milk,Long Life Milk 500ml,70,Premium
+P0033,Dairy,Milk,Mala Fermented Milk 500ml,80,Standard
+P0034,Dairy,Yoghurt,Strawberry Yoghurt 500ml,140,Standard
+P0035,Dairy,Butter & Cheese,Salted Butter 250g,320,Standard
+P0036,Dairy,Butter & Cheese,Margarine 500g,230,Premium
+P0037,Dairy,Butter & Cheese,Cheddar Cheese 200g,420,Standard
+P0038,Beverages,Tea & Coffee,Kenya Tea Leaves 500g,260,Standard
+P0039,Beverages,Tea & Coffee,Tea Bags 100s,220,Premium
+P0040,Beverages,Tea & Coffee,Instant Coffee 100g,480,Standard
+P0041,Beverages,Soft Drinks,Soda 2L,190,Standard
+P0042,Beverages,Soft Drinks,Soda 500ml,80,Standard
+P0043,Beverages,Soft Drinks,Mango Juice 1L,210,Standard
+P0044,Beverages,Water,Drinking Water 1.5L,80,Standard
+P0045,Beverages,Water,Drinking Water 10L,330,Private Label
+P0046,Beverages,Snacks,Potato Crisps 150g,160,Standard
+P0047,Beverages,Snacks,Biscuits Assorted 500g,230,Standard
+P0048,Beverages,Snacks,Roasted Peanuts 200g,120,Private Label
+P0049,Beverages,Snacks,Chocolate Bar 80g,150,Standard
+P0050,Household,Cleaning,Bar Soap 1kg,230,Standard
+P0051,Household,Cleaning,Washing Powder 1kg,320,Standard
+P0052,Household,Cleaning,Dishwashing Liquid 750ml,210,Standard
+P0053,Household,Cleaning,Bleach 1L,180,Standard
+P0054,Household,Cleaning,Toilet Cleaner 500ml,260,Standard
+P0055,Household,Paper,Toilet Paper 10 Pack,420,Standard
+P0056,Household,Paper,Serviettes 100s,120,Standard
+P0057,Household,Fuel,Charcoal 4kg Bag,380,Standard
+P0058,Household,Fuel,Gas Refill 6kg,1350,Standard
+P0059,Household,Fuel,Matches 10 Pack,50,Private Label
+P0060,Household,Storage,Plastic Bucket 20L,450,Standard
+P0061,Household,Storage,Storage Containers Set,680,Standard
+P0062,Personal Care,Oral Care,Toothpaste 140g,210,Standard
+P0063,Personal Care,Oral Care,Toothbrush Twin Pack,150,Standard
+P0064,Personal Care,Skin Care,Petroleum Jelly 250ml,180,Private Label
+P0065,Personal Care,Skin Care,Body Lotion 400ml,450,Premium
+P0066,Personal Care,Hair Care,Shampoo 400ml,420,Premium
+P0067,Personal Care,Hair Care,Hair Food 250g,190,Private Label
+P0068,Personal Care,Hygiene,Sanitary Pads 10s,140,Standard
+P0069,Personal Care,Hygiene,Roll-on Deodorant 50ml,330,Standard
+P0070,Personal Care,Hygiene,Bathing Soap 3 Pack,240,Standard
+P0071,Personal Care,Hygiene,Hand Sanitizer 500ml,290,Standard
+P0072,Baby & Kids,Diapers,Baby Diapers 40s,1250,Standard
+P0073,Baby & Kids,Diapers,Baby Wipes 80s,280,Standard
+P0074,Baby & Kids,Baby Food,Infant Cereal 400g,520,Premium
+P0075,Baby & Kids,Baby Food,Infant Formula 400g,1650,Premium
+P0076,Baby & Kids,Baby Care,Baby Jelly 250ml,230,Standard
+P0077,Stationery & School,Books,Exercise Books A5 10 Pack,380,Private Label
+P0078,Stationery & School,Books,Counter Book 4 Quire,280,Premium
+P0079,Stationery & School,Writing,Ball Pens 10 Pack,190,Private Label
+P0080,Stationery & School,Writing,HB Pencils 12 Pack,150,Standard
+P0081,Stationery & School,Writing,Mathematical Set,260,Standard
+P0082,Stationery & School,Bags,School Bag,1450,Standard
+P0083,Stationery & School,Uniform,School Socks 3 Pack,350,Standard
+P0084,Electronics & Phone,Phone Accessories,Phone Charger USB-C,650,Private Label
+P0085,Electronics & Phone,Phone Accessories,Earphones Wired,450,Private Label
+P0086,Electronics & Phone,Airtime,Airtime Voucher KES 100,100,Standard
+P0087,Electronics & Phone,Lighting,LED Bulb 9W,220,Standard
+P0088,Electronics & Phone,Batteries,AA Batteries 4 Pack,240,Standard
+P0089,Electronics & Phone,Small Appliances,Electric Kettle 1.7L,2400,Standard
+P0090,Electronics & Phone,Small Appliances,Extension Cable 4-Way,1150,Premium
+P0091,Electronics & Phone,Small Appliances,Solar Lantern,1900,Premium

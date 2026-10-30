@@ -1,0 +1,4 @@
+model,ROC_AUC,PR_AUC,Brier,lift_top10%,recall_top20%
+Baseline: rank by recency,0.891,0.787,0.109,3.602,0.632
+Logistic regression,0.907,0.813,0.097,3.69,0.639
+Gradient boosting,0.904,0.804,0.101,3.715,0.627

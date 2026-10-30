@@ -1,0 +1,17 @@
+table,step,rows_before,rows_after,rows_affected,note
+stores,standardise county names (case/whitespace),20,20,,5 values fixed
+products,impute missing category from subcategory,91,91,,4 filled
+customers,drop duplicate sign-up rows,6030,6000,30.0,
+customers,standardise gender to F/M/Unknown,6000,6000,,180 unknown
+customers,set impossible birth years (<1930 or >2008) to missing,6000,6000,,60 values
+transactions,drop exact duplicate rows,329599,328286,1313.0,
+transactions,remove POS test transactions (unknown store S999 / TEST ids),328286,328261,25.0,
+transactions,parse mixed datetime formats (dd/mm/YYYY rows),328261,328261,,6565 non-ISO rows parsed day-first
+transactions,"drop rows with impossible dates (POS clock errors, year 2031)",328261,328249,12.0,
+transactions,drop repeated transaction_id (same receipt keyed twice),328249,328249,,
+transactions,standardise payment method labels; missing -> 'Unknown',328249,328249,,"19543 labels changed, 2626 unknown"
+items,drop exact duplicate lines,964203,962278,1925.0,
+items,drop orphan lines whose transaction was removed,962278,962278,,
+items,drop quantity outliers (|qty| > 30; 99th pct = 5),962278,962218,60.0,
+items,impute missing unit_price (product-store-month median),962218,962218,,5774 filled
+transactions,drop transactions left with no lines,328249,328244,5.0,

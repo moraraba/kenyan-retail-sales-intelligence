@@ -1,0 +1,5 @@
+grp,period,avg_daily_units_per_store,stores,change_vs_before_pct
+Test,Before,5.19,10,0.0
+Test,During,7.1,10,36.8
+Control,Before,4.85,9,0.0
+Control,During,4.4,9,-9.3
